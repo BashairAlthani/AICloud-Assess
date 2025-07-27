@@ -1,0 +1,5646 @@
+system_id,institution_id,institution_size,student_population,system_type,system_age,lines_of_code,cyclomatic_complexity,function_points,external_dependencies,api_connections,database_links,response_time_ms,throughput_rps,resource_utilization,data_volume_gb,peak_load_users,annual_maintenance_cost,critical_level,compliance_requirements,documentation
+SYS_0001,INST_46,Medium,11843,Student Information,6,112806,31,467,48,30,12,138,73,0.38,3544,8191,90928,High,Both,"
+System ID: SYS_0001
+Type: Student Information System (SIS)
+Institution: INST_46
+Core Functions:
+- Student enrollment and registration
+- Academic records management
+- Grade processing
+Technical Specifications:
+- System Age: 6 years
+- Code Base: 112806 lines of code
+- Complexity Score: 31
+Performance Metrics:
+- Average Response Time: 138ms
+- Peak Load: 8191 concurrent users
+Integration Points:
+- Banner Integration
+- Canvas Integration
+- Custom APIs
+Known Issues:
+- High response time during peak periods
+- Limited scalability"
+SYS_0002,INST_39,Small,2432,HR,9,185543,35,411,5,19,20,447,369,0.35,924,1567,40706,Medium,GDPR,
+SYS_0003,INST_17,Small,3924,Learning Management,7,749974,46,579,48,3,12,266,62,0.83,1443,4629,88612,Medium,GDPR,"
+System ID: SYS_0003
+Type: Learning Management System (LMS)
+Institution: INST_17
+Core Functions:
+- Course content management
+- Assignment handling
+- Online assessments
+Technical Specifications:
+- System Age: 7 years
+- Code Base: 749974 lines of code
+- Complexity Score: 46
+Performance Metrics:
+- Average Response Time: 266ms
+- Peak Load: 4629 concurrent users
+Integration Points:
+- Banner Integration
+- Canvas Integration
+- Custom APIs
+Known Issues:
+- Data synchronization delays
+- High response time during peak periods"
+SYS_0004,INST_14,Large,47410,Learning Management,11,999567,53,113,39,23,15,611,51,0.73,3998,3805,23080,Low,GDPR,"
+System ID: SYS_0004
+Type: Learning Management System (LMS)
+Institution: INST_14
+Core Functions:
+- Course content management
+- Assignment handling
+- Online assessments
+Technical Specifications:
+- System Age: 11 years
+- Code Base: 999567 lines of code
+- Complexity Score: 53
+Performance Metrics:
+- Average Response Time: 611ms
+- Peak Load: 3805 concurrent users
+Integration Points:
+- Banner Integration
+- Canvas Integration
+- Custom APIs
+Known Issues:
+- Data synchronization delays
+- Integration bottlenecks"
+SYS_0005,INST_18,Large,33555,Finance,8,178715,87,382,16,22,11,662,65,0.81,273,2039,15626,Low,None,
+SYS_0006,INST_23,Small,4058,Finance,13,860863,73,399,40,15,14,448,495,0.73,323,4056,16163,High,Both,
+SYS_0007,INST_48,Medium,13030,Student Information,11,493143,99,432,36,19,17,462,305,0.86,7855,8459,66223,Medium,None,"
+System ID: SYS_0007
+Type: Student Information System (SIS)
+Institution: INST_48
+Core Functions:
+- Student enrollment and registration
+- Academic records management
+- Grade processing
+Technical Specifications:
+- System Age: 11 years
+- Code Base: 493143 lines of code
+- Complexity Score: 99
+Performance Metrics:
+- Average Response Time: 462ms
+- Peak Load: 8459 concurrent users
+Integration Points:
+- Banner Integration
+- Canvas Integration
+- Custom APIs
+Known Issues:
+- Integration bottlenecks
+- High response time during peak periods"
+SYS_0008,INST_48,Small,1919,Finance,15,928726,53,667,27,29,19,634,405,0.75,1450,4307,66443,Medium,GDPR,
+SYS_0009,INST_37,Small,4032,Learning Management,13,462017,38,346,10,7,16,585,407,0.36,869,8069,24098,Medium,Both,"
+System ID: SYS_0009
+Type: Learning Management System (LMS)
+Institution: INST_37
+Core Functions:
+- Course content management
+- Assignment handling
+- Online assessments
+Technical Specifications:
+- System Age: 13 years
+- Code Base: 462017 lines of code
+- Complexity Score: 38
+Performance Metrics:
+- Average Response Time: 585ms
+- Peak Load: 8069 concurrent users
+Integration Points:
+- Banner Integration
+- Canvas Integration
+- Custom APIs
+Known Issues:
+- High response time during peak periods
+- Data synchronization delays"
+SYS_0010,INST_39,Large,43873,Finance,13,584368,76,642,27,26,11,968,455,0.37,1086,8810,67972,Low,GDPR,
+SYS_0011,INST_45,Small,3163,Learning Management,11,821003,28,633,38,3,2,678,169,0.41,3297,6868,29925,Low,None,"
+System ID: SYS_0011
+Type: Learning Management System (LMS)
+Institution: INST_45
+Core Functions:
+- Course content management
+- Assignment handling
+- Online assessments
+Technical Specifications:
+- System Age: 11 years
+- Code Base: 821003 lines of code
+- Complexity Score: 28
+Performance Metrics:
+- Average Response Time: 678ms
+- Peak Load: 6868 concurrent users
+Integration Points:
+- Banner Integration
+- Canvas Integration
+- Custom APIs
+Known Issues:
+- Data synchronization delays
+- Limited scalability"
+SYS_0012,INST_12,Large,28008,Finance,8,418212,46,861,28,16,12,677,408,0.69,1873,5466,23160,Low,None,
+SYS_0013,INST_14,Large,15739,Learning Management,3,927992,49,519,9,9,7,301,467,0.38,1865,7629,64530,Low,FERPA,"
+System ID: SYS_0013
+Type: Learning Management System (LMS)
+Institution: INST_14
+Core Functions:
+- Course content management
+- Assignment handling
+- Online assessments
+Technical Specifications:
+- System Age: 3 years
+- Code Base: 927992 lines of code
+- Complexity Score: 49
+Performance Metrics:
+- Average Response Time: 301ms
+- Peak Load: 7629 concurrent users
+Integration Points:
+- Banner Integration
+- Canvas Integration
+- Custom APIs
+Known Issues:
+- Data synchronization delays
+- Memory leaks under heavy load"
+SYS_0014,INST_26,Large,17729,HR,12,725507,55,426,6,9,11,274,262,0.52,544,8619,62793,Low,GDPR,
+SYS_0015,INST_25,Large,23539,HR,10,208507,55,327,35,10,3,106,393,0.44,996,3762,56665,High,None,
+SYS_0016,INST_30,Large,18515,Student Information,11,308600,52,351,25,18,4,458,361,0.35,9205,7780,13262,High,GDPR,"
+System ID: SYS_0016
+Type: Student Information System (SIS)
+Institution: INST_30
+Core Functions:
+- Student enrollment and registration
+- Academic records management
+- Grade processing
+Technical Specifications:
+- System Age: 11 years
+- Code Base: 308600 lines of code
+- Complexity Score: 52
+Performance Metrics:
+- Average Response Time: 458ms
+- Peak Load: 7780 concurrent users
+Integration Points:
+- Banner Integration
+- Canvas Integration
+- Custom APIs
+Known Issues:
+- Limited scalability
+- High response time during peak periods"
+SYS_0017,INST_44,Large,23661,Finance,5,660295,75,986,28,5,17,196,254,0.43,1043,6541,87260,Low,Both,
+SYS_0018,INST_15,Medium,7820,Student Information,14,518900,74,753,5,8,4,560,411,0.74,1153,5806,72389,High,FERPA,"
+System ID: SYS_0018
+Type: Student Information System (SIS)
+Institution: INST_15
+Core Functions:
+- Student enrollment and registration
+- Academic records management
+- Grade processing
+Technical Specifications:
+- System Age: 14 years
+- Code Base: 518900 lines of code
+- Complexity Score: 74
+Performance Metrics:
+- Average Response Time: 560ms
+- Peak Load: 5806 concurrent users
+Integration Points:
+- Banner Integration
+- Canvas Integration
+- Custom APIs
+Known Issues:
+- Data synchronization delays
+- High response time during peak periods"
+SYS_0019,INST_8,Small,1884,HR,7,760625,54,302,37,25,7,467,333,0.63,327,4962,19249,Medium,FERPA,
+SYS_0020,INST_15,Medium,5183,Learning Management,4,291806,31,453,18,5,2,983,79,0.85,822,9679,17645,High,FERPA,"
+System ID: SYS_0020
+Type: Learning Management System (LMS)
+Institution: INST_15
+Core Functions:
+- Course content management
+- Assignment handling
+- Online assessments
+Technical Specifications:
+- System Age: 4 years
+- Code Base: 291806 lines of code
+- Complexity Score: 31
+Performance Metrics:
+- Average Response Time: 983ms
+- Peak Load: 9679 concurrent users
+Integration Points:
+- Banner Integration
+- Canvas Integration
+- Custom APIs
+Known Issues:
+- Integration bottlenecks
+- Memory leaks under heavy load"
+SYS_0021,INST_50,Medium,10505,HR,10,499802,37,788,6,3,19,902,119,0.7,954,2562,99699,High,GDPR,
+SYS_0022,INST_30,Small,1652,Learning Management,7,781707,66,776,21,30,11,935,362,0.89,4013,1536,32707,High,None,"
+System ID: SYS_0022
+Type: Learning Management System (LMS)
+Institution: INST_30
+Core Functions:
+- Course content management
+- Assignment handling
+- Online assessments
+Technical Specifications:
+- System Age: 7 years
+- Code Base: 781707 lines of code
+- Complexity Score: 66
+Performance Metrics:
+- Average Response Time: 935ms
+- Peak Load: 1536 concurrent users
+Integration Points:
+- Banner Integration
+- Canvas Integration
+- Custom APIs
+Known Issues:
+- Integration bottlenecks
+- Memory leaks under heavy load"
+SYS_0023,INST_37,Large,43184,Learning Management,15,607537,21,533,40,9,11,142,460,0.5,4727,9087,94256,High,GDPR,"
+System ID: SYS_0023
+Type: Learning Management System (LMS)
+Institution: INST_37
+Core Functions:
+- Course content management
+- Assignment handling
+- Online assessments
+Technical Specifications:
+- System Age: 15 years
+- Code Base: 607537 lines of code
+- Complexity Score: 21
+Performance Metrics:
+- Average Response Time: 142ms
+- Peak Load: 9087 concurrent users
+Integration Points:
+- Banner Integration
+- Canvas Integration
+- Custom APIs
+Known Issues:
+- Data synchronization delays
+- Memory leaks under heavy load"
+SYS_0024,INST_5,Small,1361,Finance,12,683976,82,500,22,8,18,659,115,0.46,584,9359,72956,Medium,Both,
+SYS_0025,INST_30,Medium,5647,Finance,4,179737,78,601,50,21,13,861,228,0.62,817,3379,77226,Medium,FERPA,
+SYS_0026,INST_35,Small,3822,Student Information,8,239265,47,364,41,17,3,148,375,0.44,7558,9887,74218,Medium,None,"
+System ID: SYS_0026
+Type: Student Information System (SIS)
+Institution: INST_35
+Core Functions:
+- Student enrollment and registration
+- Academic records management
+- Grade processing
+Technical Specifications:
+- System Age: 8 years
+- Code Base: 239265 lines of code
+- Complexity Score: 47
+Performance Metrics:
+- Average Response Time: 148ms
+- Peak Load: 9887 concurrent users
+Integration Points:
+- Banner Integration
+- Canvas Integration
+- Custom APIs
+Known Issues:
+- Limited scalability
+- Data synchronization delays"
+SYS_0027,INST_36,Medium,7405,Learning Management,11,673186,36,446,30,24,20,754,144,0.48,4830,6811,87924,Medium,None,"
+System ID: SYS_0027
+Type: Learning Management System (LMS)
+Institution: INST_36
+Core Functions:
+- Course content management
+- Assignment handling
+- Online assessments
+Technical Specifications:
+- System Age: 11 years
+- Code Base: 673186 lines of code
+- Complexity Score: 36
+Performance Metrics:
+- Average Response Time: 754ms
+- Peak Load: 6811 concurrent users
+Integration Points:
+- Banner Integration
+- Canvas Integration
+- Custom APIs
+Known Issues:
+- High response time during peak periods
+- Data synchronization delays"
+SYS_0028,INST_12,Medium,13325,Student Information,4,268279,44,473,31,22,9,641,229,0.56,3284,7458,29059,High,FERPA,"
+System ID: SYS_0028
+Type: Student Information System (SIS)
+Institution: INST_12
+Core Functions:
+- Student enrollment and registration
+- Academic records management
+- Grade processing
+Technical Specifications:
+- System Age: 4 years
+- Code Base: 268279 lines of code
+- Complexity Score: 44
+Performance Metrics:
+- Average Response Time: 641ms
+- Peak Load: 7458 concurrent users
+Integration Points:
+- Banner Integration
+- Canvas Integration
+- Custom APIs
+Known Issues:
+- Data synchronization delays
+- High response time during peak periods"
+SYS_0029,INST_46,Small,1242,Learning Management,11,520057,77,213,36,11,9,375,90,0.8,3348,4214,51273,Low,None,"
+System ID: SYS_0029
+Type: Learning Management System (LMS)
+Institution: INST_46
+Core Functions:
+- Course content management
+- Assignment handling
+- Online assessments
+Technical Specifications:
+- System Age: 11 years
+- Code Base: 520057 lines of code
+- Complexity Score: 77
+Performance Metrics:
+- Average Response Time: 375ms
+- Peak Load: 4214 concurrent users
+Integration Points:
+- Banner Integration
+- Canvas Integration
+- Custom APIs
+Known Issues:
+- Integration bottlenecks
+- Data synchronization delays"
+SYS_0030,INST_8,Medium,14576,Student Information,3,355800,38,256,13,19,8,332,308,0.4,2821,5536,33896,Medium,GDPR,"
+System ID: SYS_0030
+Type: Student Information System (SIS)
+Institution: INST_8
+Core Functions:
+- Student enrollment and registration
+- Academic records management
+- Grade processing
+Technical Specifications:
+- System Age: 3 years
+- Code Base: 355800 lines of code
+- Complexity Score: 38
+Performance Metrics:
+- Average Response Time: 332ms
+- Peak Load: 5536 concurrent users
+Integration Points:
+- Banner Integration
+- Canvas Integration
+- Custom APIs
+Known Issues:
+- Integration bottlenecks
+- Limited scalability"
+SYS_0031,INST_3,Large,34820,HR,3,463233,68,261,8,24,12,340,391,0.5,133,9518,45310,High,GDPR,
+SYS_0032,INST_28,Large,44167,Student Information,3,487584,89,193,9,4,18,677,196,0.75,3263,3018,85269,High,Both,"
+System ID: SYS_0032
+Type: Student Information System (SIS)
+Institution: INST_28
+Core Functions:
+- Student enrollment and registration
+- Academic records management
+- Grade processing
+Technical Specifications:
+- System Age: 3 years
+- Code Base: 487584 lines of code
+- Complexity Score: 89
+Performance Metrics:
+- Average Response Time: 677ms
+- Peak Load: 3018 concurrent users
+Integration Points:
+- Banner Integration
+- Canvas Integration
+- Custom APIs
+Known Issues:
+- Memory leaks under heavy load
+- High response time during peak periods"
+SYS_0033,INST_22,Small,1305,HR,5,914528,61,586,38,5,3,768,316,0.5,206,9392,63789,Low,GDPR,
+SYS_0034,INST_14,Small,4171,Student Information,12,102871,33,830,5,18,3,508,84,0.7,2347,1650,94577,High,GDPR,"
+System ID: SYS_0034
+Type: Student Information System (SIS)
+Institution: INST_14
+Core Functions:
+- Student enrollment and registration
+- Academic records management
+- Grade processing
+Technical Specifications:
+- System Age: 12 years
+- Code Base: 102871 lines of code
+- Complexity Score: 33
+Performance Metrics:
+- Average Response Time: 508ms
+- Peak Load: 1650 concurrent users
+Integration Points:
+- Banner Integration
+- Canvas Integration
+- Custom APIs
+Known Issues:
+- Integration bottlenecks
+- High response time during peak periods"
+SYS_0035,INST_20,Small,1311,Research Management,11,610970,70,398,23,28,2,975,345,0.51,959,2551,57107,High,Both,
+SYS_0036,INST_26,Small,1022,HR,10,451785,54,369,31,17,8,294,261,0.43,602,7248,91538,Low,Both,
+SYS_0037,INST_20,Medium,12680,Research Management,9,180318,59,505,45,6,19,834,495,0.8,2736,2972,87645,Medium,FERPA,
+SYS_0038,INST_16,Large,47693,Finance,6,186591,55,199,39,30,16,195,478,0.75,566,3310,88420,Medium,Both,
+SYS_0039,INST_33,Small,1985,Student Information,5,763750,85,485,16,29,16,607,59,0.7,1836,7720,22566,Low,None,"
+System ID: SYS_0039
+Type: Student Information System (SIS)
+Institution: INST_33
+Core Functions:
+- Student enrollment and registration
+- Academic records management
+- Grade processing
+Technical Specifications:
+- System Age: 5 years
+- Code Base: 763750 lines of code
+- Complexity Score: 85
+Performance Metrics:
+- Average Response Time: 607ms
+- Peak Load: 7720 concurrent users
+Integration Points:
+- Banner Integration
+- Canvas Integration
+- Custom APIs
+Known Issues:
+- Memory leaks under heavy load
+- Limited scalability"
+SYS_0040,INST_37,Medium,8158,Student Information,8,157193,77,369,11,7,12,783,229,0.84,4510,2816,18173,Low,FERPA,"
+System ID: SYS_0040
+Type: Student Information System (SIS)
+Institution: INST_37
+Core Functions:
+- Student enrollment and registration
+- Academic records management
+- Grade processing
+Technical Specifications:
+- System Age: 8 years
+- Code Base: 157193 lines of code
+- Complexity Score: 77
+Performance Metrics:
+- Average Response Time: 783ms
+- Peak Load: 2816 concurrent users
+Integration Points:
+- Banner Integration
+- Canvas Integration
+- Custom APIs
+Known Issues:
+- Integration bottlenecks
+- Data synchronization delays"
+SYS_0041,INST_26,Small,4815,Student Information,4,225019,62,209,19,21,19,771,335,0.73,4754,2369,26422,Low,FERPA,"
+System ID: SYS_0041
+Type: Student Information System (SIS)
+Institution: INST_26
+Core Functions:
+- Student enrollment and registration
+- Academic records management
+- Grade processing
+Technical Specifications:
+- System Age: 4 years
+- Code Base: 225019 lines of code
+- Complexity Score: 62
+Performance Metrics:
+- Average Response Time: 771ms
+- Peak Load: 2369 concurrent users
+Integration Points:
+- Banner Integration
+- Canvas Integration
+- Custom APIs
+Known Issues:
+- Memory leaks under heavy load
+- High response time during peak periods"
+SYS_0042,INST_36,Large,35158,Research Management,4,580865,48,120,6,25,12,293,288,0.34,833,7885,63042,Low,Both,
+SYS_0043,INST_31,Large,43506,Research Management,6,335156,39,879,49,16,3,822,196,0.48,1588,5039,94563,Low,Both,
+SYS_0044,INST_19,Large,48752,Student Information,12,570734,35,573,14,19,11,193,301,0.8,9028,7144,41749,Low,None,"
+System ID: SYS_0044
+Type: Student Information System (SIS)
+Institution: INST_19
+Core Functions:
+- Student enrollment and registration
+- Academic records management
+- Grade processing
+Technical Specifications:
+- System Age: 12 years
+- Code Base: 570734 lines of code
+- Complexity Score: 35
+Performance Metrics:
+- Average Response Time: 193ms
+- Peak Load: 7144 concurrent users
+Integration Points:
+- Banner Integration
+- Canvas Integration
+- Custom APIs
+Known Issues:
+- Memory leaks under heavy load
+- Limited scalability"
+SYS_0045,INST_31,Large,15702,Student Information,6,649081,90,870,38,10,12,523,99,0.64,6712,6487,65525,Medium,FERPA,"
+System ID: SYS_0045
+Type: Student Information System (SIS)
+Institution: INST_31
+Core Functions:
+- Student enrollment and registration
+- Academic records management
+- Grade processing
+Technical Specifications:
+- System Age: 6 years
+- Code Base: 649081 lines of code
+- Complexity Score: 90
+Performance Metrics:
+- Average Response Time: 523ms
+- Peak Load: 6487 concurrent users
+Integration Points:
+- Banner Integration
+- Canvas Integration
+- Custom APIs
+Known Issues:
+- High response time during peak periods
+- Data synchronization delays"
+SYS_0046,INST_16,Medium,8178,Finance,15,339016,53,710,13,30,2,182,81,0.42,962,3000,24063,Low,GDPR,
+SYS_0047,INST_41,Small,2168,Learning Management,3,226933,68,714,14,10,11,711,208,0.87,1938,8183,53125,Medium,GDPR,"
+System ID: SYS_0047
+Type: Learning Management System (LMS)
+Institution: INST_41
+Core Functions:
+- Course content management
+- Assignment handling
+- Online assessments
+Technical Specifications:
+- System Age: 3 years
+- Code Base: 226933 lines of code
+- Complexity Score: 68
+Performance Metrics:
+- Average Response Time: 711ms
+- Peak Load: 8183 concurrent users
+Integration Points:
+- Banner Integration
+- Canvas Integration
+- Custom APIs
+Known Issues:
+- Limited scalability
+- High response time during peak periods"
+SYS_0048,INST_30,Large,33746,Student Information,8,305284,49,269,17,24,20,880,341,0.34,7144,1727,36478,Low,GDPR,"
+System ID: SYS_0048
+Type: Student Information System (SIS)
+Institution: INST_30
+Core Functions:
+- Student enrollment and registration
+- Academic records management
+- Grade processing
+Technical Specifications:
+- System Age: 8 years
+- Code Base: 305284 lines of code
+- Complexity Score: 49
+Performance Metrics:
+- Average Response Time: 880ms
+- Peak Load: 1727 concurrent users
+Integration Points:
+- Banner Integration
+- Canvas Integration
+- Custom APIs
+Known Issues:
+- Data synchronization delays
+- Limited scalability"
+SYS_0049,INST_13,Medium,8768,Research Management,7,506841,45,950,41,6,6,238,312,0.53,383,5271,43469,High,FERPA,
+SYS_0050,INST_8,Large,17242,Finance,8,751983,63,521,33,16,13,980,277,0.67,1472,4834,87728,High,Both,
+SYS_0051,INST_39,Small,3290,Finance,11,726510,69,266,34,13,11,268,227,0.46,1111,8431,64890,High,GDPR,
+SYS_0052,INST_1,Small,3639,Student Information,3,521140,56,824,49,28,15,819,437,0.45,6959,6221,95958,High,Both,"
+System ID: SYS_0052
+Type: Student Information System (SIS)
+Institution: INST_1
+Core Functions:
+- Student enrollment and registration
+- Academic records management
+- Grade processing
+Technical Specifications:
+- System Age: 3 years
+- Code Base: 521140 lines of code
+- Complexity Score: 56
+Performance Metrics:
+- Average Response Time: 819ms
+- Peak Load: 6221 concurrent users
+Integration Points:
+- Banner Integration
+- Canvas Integration
+- Custom APIs
+Known Issues:
+- High response time during peak periods
+- Data synchronization delays"
+SYS_0053,INST_50,Small,1287,HR,14,233169,48,761,24,11,12,743,323,0.43,432,8779,80666,Low,Both,
+SYS_0054,INST_8,Large,24772,Research Management,14,418861,76,705,35,9,20,265,462,0.68,708,2238,25011,Medium,FERPA,
+SYS_0055,INST_9,Large,34148,HR,14,678289,62,629,50,19,8,558,329,0.61,459,9333,36367,Low,None,
+SYS_0056,INST_39,Large,36252,Finance,11,226683,52,377,49,9,6,980,220,0.32,1318,2531,23341,Medium,None,
+SYS_0057,INST_20,Small,3724,Student Information,5,474755,53,156,17,19,10,482,150,0.42,9509,6237,63875,Low,Both,"
+System ID: SYS_0057
+Type: Student Information System (SIS)
+Institution: INST_20
+Core Functions:
+- Student enrollment and registration
+- Academic records management
+- Grade processing
+Technical Specifications:
+- System Age: 5 years
+- Code Base: 474755 lines of code
+- Complexity Score: 53
+Performance Metrics:
+- Average Response Time: 482ms
+- Peak Load: 6237 concurrent users
+Integration Points:
+- Banner Integration
+- Canvas Integration
+- Custom APIs
+Known Issues:
+- Integration bottlenecks
+- Memory leaks under heavy load"
+SYS_0058,INST_33,Small,2054,Research Management,15,444478,44,245,36,11,17,775,192,0.68,1219,3102,24690,Medium,None,
+SYS_0059,INST_45,Medium,11166,Learning Management,9,865194,79,890,7,18,14,110,84,0.56,2485,3803,89652,High,Both,"
+System ID: SYS_0059
+Type: Learning Management System (LMS)
+Institution: INST_45
+Core Functions:
+- Course content management
+- Assignment handling
+- Online assessments
+Technical Specifications:
+- System Age: 9 years
+- Code Base: 865194 lines of code
+- Complexity Score: 79
+Performance Metrics:
+- Average Response Time: 110ms
+- Peak Load: 3803 concurrent users
+Integration Points:
+- Banner Integration
+- Canvas Integration
+- Custom APIs
+Known Issues:
+- Data synchronization delays
+- Limited scalability"
+SYS_0060,INST_50,Small,1002,Finance,12,322525,60,297,48,28,20,320,117,0.78,1841,7368,75513,Medium,Both,
+SYS_0061,INST_26,Large,28695,Learning Management,6,373435,64,114,49,15,8,399,79,0.69,2368,2056,30057,Low,GDPR,"
+System ID: SYS_0061
+Type: Learning Management System (LMS)
+Institution: INST_26
+Core Functions:
+- Course content management
+- Assignment handling
+- Online assessments
+Technical Specifications:
+- System Age: 6 years
+- Code Base: 373435 lines of code
+- Complexity Score: 64
+Performance Metrics:
+- Average Response Time: 399ms
+- Peak Load: 2056 concurrent users
+Integration Points:
+- Banner Integration
+- Canvas Integration
+- Custom APIs
+Known Issues:
+- Integration bottlenecks
+- High response time during peak periods"
+SYS_0062,INST_42,Large,16357,HR,10,122657,27,983,11,21,12,422,276,0.87,455,4792,63515,Medium,None,
+SYS_0063,INST_27,Large,47915,Finance,8,70320,80,834,33,19,15,164,259,0.7,655,8273,82297,Medium,Both,
+SYS_0064,INST_47,Small,1241,Student Information,14,226294,68,528,39,23,2,603,65,0.56,8036,6932,58809,Low,Both,"
+System ID: SYS_0064
+Type: Student Information System (SIS)
+Institution: INST_47
+Core Functions:
+- Student enrollment and registration
+- Academic records management
+- Grade processing
+Technical Specifications:
+- System Age: 14 years
+- Code Base: 226294 lines of code
+- Complexity Score: 68
+Performance Metrics:
+- Average Response Time: 603ms
+- Peak Load: 6932 concurrent users
+Integration Points:
+- Banner Integration
+- Canvas Integration
+- Custom APIs
+Known Issues:
+- Limited scalability
+- Data synchronization delays"
+SYS_0065,INST_29,Medium,7705,Research Management,3,409591,41,285,16,23,6,570,412,0.45,1466,6083,18218,Medium,None,
+SYS_0066,INST_8,Large,45577,Learning Management,11,429780,74,861,44,23,9,228,310,0.32,4783,8428,22778,High,GDPR,"
+System ID: SYS_0066
+Type: Learning Management System (LMS)
+Institution: INST_8
+Core Functions:
+- Course content management
+- Assignment handling
+- Online assessments
+Technical Specifications:
+- System Age: 11 years
+- Code Base: 429780 lines of code
+- Complexity Score: 74
+Performance Metrics:
+- Average Response Time: 228ms
+- Peak Load: 8428 concurrent users
+Integration Points:
+- Banner Integration
+- Canvas Integration
+- Custom APIs
+Known Issues:
+- Memory leaks under heavy load
+- Integration bottlenecks"
+SYS_0067,INST_25,Small,4912,Research Management,3,946088,82,971,37,23,15,913,450,0.41,1272,5346,71443,Low,GDPR,
+SYS_0068,INST_14,Large,36826,Learning Management,13,281886,61,220,29,21,19,375,478,0.78,2415,2197,84670,High,Both,"
+System ID: SYS_0068
+Type: Learning Management System (LMS)
+Institution: INST_14
+Core Functions:
+- Course content management
+- Assignment handling
+- Online assessments
+Technical Specifications:
+- System Age: 13 years
+- Code Base: 281886 lines of code
+- Complexity Score: 61
+Performance Metrics:
+- Average Response Time: 375ms
+- Peak Load: 2197 concurrent users
+Integration Points:
+- Banner Integration
+- Canvas Integration
+- Custom APIs
+Known Issues:
+- Limited scalability
+- Integration bottlenecks"
+SYS_0069,INST_47,Medium,6417,Learning Management,7,986543,22,273,9,28,12,108,168,0.74,2058,4500,49430,Medium,None,"
+System ID: SYS_0069
+Type: Learning Management System (LMS)
+Institution: INST_47
+Core Functions:
+- Course content management
+- Assignment handling
+- Online assessments
+Technical Specifications:
+- System Age: 7 years
+- Code Base: 986543 lines of code
+- Complexity Score: 22
+Performance Metrics:
+- Average Response Time: 108ms
+- Peak Load: 4500 concurrent users
+Integration Points:
+- Banner Integration
+- Canvas Integration
+- Custom APIs
+Known Issues:
+- Limited scalability
+- Integration bottlenecks"
+SYS_0070,INST_38,Medium,9710,Finance,12,465949,77,132,6,7,5,360,470,0.43,350,3464,56379,Low,Both,
+SYS_0071,INST_33,Medium,7164,Learning Management,9,682944,27,216,42,21,6,268,491,0.42,3243,7162,66864,Low,None,"
+System ID: SYS_0071
+Type: Learning Management System (LMS)
+Institution: INST_33
+Core Functions:
+- Course content management
+- Assignment handling
+- Online assessments
+Technical Specifications:
+- System Age: 9 years
+- Code Base: 682944 lines of code
+- Complexity Score: 27
+Performance Metrics:
+- Average Response Time: 268ms
+- Peak Load: 7162 concurrent users
+Integration Points:
+- Banner Integration
+- Canvas Integration
+- Custom APIs
+Known Issues:
+- Memory leaks under heavy load
+- Integration bottlenecks"
+SYS_0072,INST_23,Small,2119,Research Management,14,775041,57,475,17,28,10,256,498,0.67,1414,5728,70277,Low,None,
+SYS_0073,INST_10,Small,4519,Finance,8,799672,76,323,34,28,7,873,254,0.73,553,6751,46315,Medium,Both,
+SYS_0074,INST_8,Large,22071,Finance,3,728866,54,611,17,22,9,792,333,0.6,897,7287,63888,Low,FERPA,
+SYS_0075,INST_39,Large,36668,Finance,7,769189,82,392,16,15,12,520,342,0.3,1190,2156,40486,Low,FERPA,
+SYS_0076,INST_28,Large,44812,Research Management,15,896009,47,970,33,26,7,470,388,0.84,1431,2679,97823,High,None,
+SYS_0077,INST_20,Medium,5681,HR,10,916874,36,609,31,20,17,275,497,0.69,388,4094,75370,Low,FERPA,
+SYS_0078,INST_29,Medium,6897,Research Management,3,762689,83,638,12,18,5,269,284,0.76,2267,6886,65715,High,Both,
+SYS_0079,INST_20,Medium,6875,Student Information,10,870090,64,620,5,25,2,938,212,0.76,3001,2329,92777,Medium,None,"
+System ID: SYS_0079
+Type: Student Information System (SIS)
+Institution: INST_20
+Core Functions:
+- Student enrollment and registration
+- Academic records management
+- Grade processing
+Technical Specifications:
+- System Age: 10 years
+- Code Base: 870090 lines of code
+- Complexity Score: 64
+Performance Metrics:
+- Average Response Time: 938ms
+- Peak Load: 2329 concurrent users
+Integration Points:
+- Banner Integration
+- Canvas Integration
+- Custom APIs
+Known Issues:
+- Limited scalability
+- Memory leaks under heavy load"
+SYS_0080,INST_17,Small,4887,Student Information,8,844045,72,960,25,4,15,444,433,0.33,6633,2215,94290,Low,None,"
+System ID: SYS_0080
+Type: Student Information System (SIS)
+Institution: INST_17
+Core Functions:
+- Student enrollment and registration
+- Academic records management
+- Grade processing
+Technical Specifications:
+- System Age: 8 years
+- Code Base: 844045 lines of code
+- Complexity Score: 72
+Performance Metrics:
+- Average Response Time: 444ms
+- Peak Load: 2215 concurrent users
+Integration Points:
+- Banner Integration
+- Canvas Integration
+- Custom APIs
+Known Issues:
+- Data synchronization delays
+- Memory leaks under heavy load"
+SYS_0081,INST_26,Small,3929,Learning Management,14,535781,41,467,12,24,13,482,451,0.45,1854,2829,77988,High,Both,"
+System ID: SYS_0081
+Type: Learning Management System (LMS)
+Institution: INST_26
+Core Functions:
+- Course content management
+- Assignment handling
+- Online assessments
+Technical Specifications:
+- System Age: 14 years
+- Code Base: 535781 lines of code
+- Complexity Score: 41
+Performance Metrics:
+- Average Response Time: 482ms
+- Peak Load: 2829 concurrent users
+Integration Points:
+- Banner Integration
+- Canvas Integration
+- Custom APIs
+Known Issues:
+- Integration bottlenecks
+- Limited scalability"
+SYS_0082,INST_22,Large,29141,HR,12,362473,51,375,39,8,8,874,162,0.72,877,2647,53021,Low,Both,
+SYS_0083,INST_38,Medium,6372,Research Management,10,517913,59,643,28,24,18,979,86,0.8,1200,5909,60020,Low,FERPA,
+SYS_0084,INST_1,Large,48994,HR,7,86112,55,229,38,28,15,436,321,0.68,865,5629,82807,Medium,GDPR,
+SYS_0085,INST_44,Medium,7965,Research Management,4,348430,60,217,35,12,18,508,284,0.81,1641,2460,39213,Medium,Both,
+SYS_0086,INST_15,Large,45107,Research Management,8,87251,50,753,19,11,11,197,261,0.47,1866,2947,34353,High,FERPA,
+SYS_0087,INST_22,Small,1133,Student Information,14,610783,74,760,23,26,16,434,62,0.74,3667,2882,72923,Low,None,"
+System ID: SYS_0087
+Type: Student Information System (SIS)
+Institution: INST_22
+Core Functions:
+- Student enrollment and registration
+- Academic records management
+- Grade processing
+Technical Specifications:
+- System Age: 14 years
+- Code Base: 610783 lines of code
+- Complexity Score: 74
+Performance Metrics:
+- Average Response Time: 434ms
+- Peak Load: 2882 concurrent users
+Integration Points:
+- Banner Integration
+- Canvas Integration
+- Custom APIs
+Known Issues:
+- Limited scalability
+- High response time during peak periods"
+SYS_0088,INST_27,Large,38885,Research Management,12,528258,59,882,32,3,12,471,385,0.59,592,4053,30943,Medium,None,
+SYS_0089,INST_14,Small,2376,Learning Management,11,238258,24,296,48,22,13,422,185,0.39,1711,1903,71745,Medium,GDPR,"
+System ID: SYS_0089
+Type: Learning Management System (LMS)
+Institution: INST_14
+Core Functions:
+- Course content management
+- Assignment handling
+- Online assessments
+Technical Specifications:
+- System Age: 11 years
+- Code Base: 238258 lines of code
+- Complexity Score: 24
+Performance Metrics:
+- Average Response Time: 422ms
+- Peak Load: 1903 concurrent users
+Integration Points:
+- Banner Integration
+- Canvas Integration
+- Custom APIs
+Known Issues:
+- Data synchronization delays
+- Integration bottlenecks"
+SYS_0090,INST_9,Large,28135,Learning Management,7,422611,29,432,42,5,4,492,243,0.87,4030,1571,16947,High,None,"
+System ID: SYS_0090
+Type: Learning Management System (LMS)
+Institution: INST_9
+Core Functions:
+- Course content management
+- Assignment handling
+- Online assessments
+Technical Specifications:
+- System Age: 7 years
+- Code Base: 422611 lines of code
+- Complexity Score: 29
+Performance Metrics:
+- Average Response Time: 492ms
+- Peak Load: 1571 concurrent users
+Integration Points:
+- Banner Integration
+- Canvas Integration
+- Custom APIs
+Known Issues:
+- High response time during peak periods
+- Limited scalability"
+SYS_0091,INST_28,Medium,13969,Student Information,9,846862,71,605,34,26,3,828,71,0.67,5888,5045,95016,Low,GDPR,"
+System ID: SYS_0091
+Type: Student Information System (SIS)
+Institution: INST_28
+Core Functions:
+- Student enrollment and registration
+- Academic records management
+- Grade processing
+Technical Specifications:
+- System Age: 9 years
+- Code Base: 846862 lines of code
+- Complexity Score: 71
+Performance Metrics:
+- Average Response Time: 828ms
+- Peak Load: 5045 concurrent users
+Integration Points:
+- Banner Integration
+- Canvas Integration
+- Custom APIs
+Known Issues:
+- Memory leaks under heavy load
+- Integration bottlenecks"
+SYS_0092,INST_23,Large,48359,Learning Management,10,396240,68,134,40,26,3,597,95,0.75,2411,5746,63152,Medium,None,"
+System ID: SYS_0092
+Type: Learning Management System (LMS)
+Institution: INST_23
+Core Functions:
+- Course content management
+- Assignment handling
+- Online assessments
+Technical Specifications:
+- System Age: 10 years
+- Code Base: 396240 lines of code
+- Complexity Score: 68
+Performance Metrics:
+- Average Response Time: 597ms
+- Peak Load: 5746 concurrent users
+Integration Points:
+- Banner Integration
+- Canvas Integration
+- Custom APIs
+Known Issues:
+- Integration bottlenecks
+- Memory leaks under heavy load"
+SYS_0093,INST_41,Large,35727,Finance,6,127762,80,175,40,27,3,378,120,0.41,1979,9270,40292,Medium,Both,
+SYS_0094,INST_11,Medium,14189,Finance,5,950544,67,801,21,30,7,426,285,0.85,628,5592,44899,Low,Both,
+SYS_0095,INST_32,Large,28235,Student Information,7,950575,69,542,49,11,8,894,230,0.45,8080,6446,26688,Medium,None,"
+System ID: SYS_0095
+Type: Student Information System (SIS)
+Institution: INST_32
+Core Functions:
+- Student enrollment and registration
+- Academic records management
+- Grade processing
+Technical Specifications:
+- System Age: 7 years
+- Code Base: 950575 lines of code
+- Complexity Score: 69
+Performance Metrics:
+- Average Response Time: 894ms
+- Peak Load: 6446 concurrent users
+Integration Points:
+- Banner Integration
+- Canvas Integration
+- Custom APIs
+Known Issues:
+- Data synchronization delays
+- Integration bottlenecks"
+SYS_0096,INST_29,Large,31503,Research Management,11,569697,54,728,33,11,18,130,452,0.7,1031,6316,56279,High,FERPA,
+SYS_0097,INST_35,Medium,10565,HR,7,748467,69,740,5,20,18,225,224,0.39,104,2066,59106,Low,FERPA,
+SYS_0098,INST_21,Large,43207,Student Information,12,997445,68,404,32,24,7,209,153,0.56,6653,2611,65703,Low,None,"
+System ID: SYS_0098
+Type: Student Information System (SIS)
+Institution: INST_21
+Core Functions:
+- Student enrollment and registration
+- Academic records management
+- Grade processing
+Technical Specifications:
+- System Age: 12 years
+- Code Base: 997445 lines of code
+- Complexity Score: 68
+Performance Metrics:
+- Average Response Time: 209ms
+- Peak Load: 2611 concurrent users
+Integration Points:
+- Banner Integration
+- Canvas Integration
+- Custom APIs
+Known Issues:
+- Integration bottlenecks
+- Limited scalability"
+SYS_0099,INST_35,Large,41650,Learning Management,9,824900,38,698,6,17,2,738,471,0.79,3512,2832,37879,High,Both,"
+System ID: SYS_0099
+Type: Learning Management System (LMS)
+Institution: INST_35
+Core Functions:
+- Course content management
+- Assignment handling
+- Online assessments
+Technical Specifications:
+- System Age: 9 years
+- Code Base: 824900 lines of code
+- Complexity Score: 38
+Performance Metrics:
+- Average Response Time: 738ms
+- Peak Load: 2832 concurrent users
+Integration Points:
+- Banner Integration
+- Canvas Integration
+- Custom APIs
+Known Issues:
+- High response time during peak periods
+- Integration bottlenecks"
+SYS_0100,INST_37,Large,44675,Student Information,3,405788,81,124,39,20,18,844,455,0.68,2598,3893,10217,Medium,None,"
+System ID: SYS_0100
+Type: Student Information System (SIS)
+Institution: INST_37
+Core Functions:
+- Student enrollment and registration
+- Academic records management
+- Grade processing
+Technical Specifications:
+- System Age: 3 years
+- Code Base: 405788 lines of code
+- Complexity Score: 81
+Performance Metrics:
+- Average Response Time: 844ms
+- Peak Load: 3893 concurrent users
+Integration Points:
+- Banner Integration
+- Canvas Integration
+- Custom APIs
+Known Issues:
+- Limited scalability
+- Data synchronization delays"
+SYS_0101,INST_10,Small,2961,HR,14,558626,28,392,45,7,5,258,412,0.69,141,1670,93345,Low,Both,
+SYS_0102,INST_10,Small,2837,Finance,6,928999,76,950,11,11,4,345,205,0.86,862,1424,48866,Low,Both,
+SYS_0103,INST_44,Medium,6942,Finance,14,875656,81,655,22,26,12,771,50,0.38,705,6448,74440,Low,None,
+SYS_0104,INST_50,Medium,14792,HR,11,414179,31,841,38,9,5,844,487,0.38,794,4271,91247,Medium,GDPR,
+SYS_0105,INST_43,Large,21201,Student Information,13,677375,74,205,26,23,3,458,365,0.79,7752,1648,66446,High,FERPA,"
+System ID: SYS_0105
+Type: Student Information System (SIS)
+Institution: INST_43
+Core Functions:
+- Student enrollment and registration
+- Academic records management
+- Grade processing
+Technical Specifications:
+- System Age: 13 years
+- Code Base: 677375 lines of code
+- Complexity Score: 74
+Performance Metrics:
+- Average Response Time: 458ms
+- Peak Load: 1648 concurrent users
+Integration Points:
+- Banner Integration
+- Canvas Integration
+- Custom APIs
+Known Issues:
+- Integration bottlenecks
+- High response time during peak periods"
+SYS_0106,INST_48,Small,4360,Learning Management,7,283661,49,733,33,29,14,736,326,0.39,4674,9943,22953,Medium,GDPR,"
+System ID: SYS_0106
+Type: Learning Management System (LMS)
+Institution: INST_48
+Core Functions:
+- Course content management
+- Assignment handling
+- Online assessments
+Technical Specifications:
+- System Age: 7 years
+- Code Base: 283661 lines of code
+- Complexity Score: 49
+Performance Metrics:
+- Average Response Time: 736ms
+- Peak Load: 9943 concurrent users
+Integration Points:
+- Banner Integration
+- Canvas Integration
+- Custom APIs
+Known Issues:
+- Memory leaks under heavy load
+- Data synchronization delays"
+SYS_0107,INST_44,Medium,12568,HR,14,360205,38,305,36,24,4,413,341,0.79,415,8662,59417,High,FERPA,
+SYS_0108,INST_35,Small,3855,HR,13,65639,69,850,40,10,20,181,273,0.82,974,7867,45754,Low,None,
+SYS_0109,INST_32,Small,2835,Learning Management,7,532771,73,176,5,7,16,461,423,0.57,3637,8641,76831,High,None,"
+System ID: SYS_0109
+Type: Learning Management System (LMS)
+Institution: INST_32
+Core Functions:
+- Course content management
+- Assignment handling
+- Online assessments
+Technical Specifications:
+- System Age: 7 years
+- Code Base: 532771 lines of code
+- Complexity Score: 73
+Performance Metrics:
+- Average Response Time: 461ms
+- Peak Load: 8641 concurrent users
+Integration Points:
+- Banner Integration
+- Canvas Integration
+- Custom APIs
+Known Issues:
+- High response time during peak periods
+- Data synchronization delays"
+SYS_0110,INST_5,Large,49920,Student Information,6,693730,72,139,29,19,16,126,330,0.83,2070,9456,60137,Low,Both,"
+System ID: SYS_0110
+Type: Student Information System (SIS)
+Institution: INST_5
+Core Functions:
+- Student enrollment and registration
+- Academic records management
+- Grade processing
+Technical Specifications:
+- System Age: 6 years
+- Code Base: 693730 lines of code
+- Complexity Score: 72
+Performance Metrics:
+- Average Response Time: 126ms
+- Peak Load: 9456 concurrent users
+Integration Points:
+- Banner Integration
+- Canvas Integration
+- Custom APIs
+Known Issues:
+- Data synchronization delays
+- High response time during peak periods"
+SYS_0111,INST_18,Large,46935,Finance,10,281689,57,943,27,7,14,109,106,0.45,1913,3825,68720,Low,GDPR,
+SYS_0112,INST_23,Medium,14626,Research Management,15,55273,52,302,43,8,4,532,303,0.53,476,9285,46110,High,None,
+SYS_0113,INST_24,Medium,13823,Learning Management,15,685345,44,559,35,23,16,388,253,0.32,551,1613,49711,Medium,None,"
+System ID: SYS_0113
+Type: Learning Management System (LMS)
+Institution: INST_24
+Core Functions:
+- Course content management
+- Assignment handling
+- Online assessments
+Technical Specifications:
+- System Age: 15 years
+- Code Base: 685345 lines of code
+- Complexity Score: 44
+Performance Metrics:
+- Average Response Time: 388ms
+- Peak Load: 1613 concurrent users
+Integration Points:
+- Banner Integration
+- Canvas Integration
+- Custom APIs
+Known Issues:
+- Data synchronization delays
+- Limited scalability"
+SYS_0114,INST_38,Large,30966,Student Information,7,149040,78,563,11,29,9,718,239,0.39,6134,9659,36909,Medium,FERPA,"
+System ID: SYS_0114
+Type: Student Information System (SIS)
+Institution: INST_38
+Core Functions:
+- Student enrollment and registration
+- Academic records management
+- Grade processing
+Technical Specifications:
+- System Age: 7 years
+- Code Base: 149040 lines of code
+- Complexity Score: 78
+Performance Metrics:
+- Average Response Time: 718ms
+- Peak Load: 9659 concurrent users
+Integration Points:
+- Banner Integration
+- Canvas Integration
+- Custom APIs
+Known Issues:
+- Data synchronization delays
+- Integration bottlenecks"
+SYS_0115,INST_24,Medium,6110,Student Information,11,379182,47,571,47,18,16,353,274,0.42,8778,8717,62104,Medium,None,"
+System ID: SYS_0115
+Type: Student Information System (SIS)
+Institution: INST_24
+Core Functions:
+- Student enrollment and registration
+- Academic records management
+- Grade processing
+Technical Specifications:
+- System Age: 11 years
+- Code Base: 379182 lines of code
+- Complexity Score: 47
+Performance Metrics:
+- Average Response Time: 353ms
+- Peak Load: 8717 concurrent users
+Integration Points:
+- Banner Integration
+- Canvas Integration
+- Custom APIs
+Known Issues:
+- High response time during peak periods
+- Limited scalability"
+SYS_0116,INST_50,Medium,11829,Learning Management,6,902372,76,224,17,16,9,230,198,0.58,1293,8938,41563,High,GDPR,"
+System ID: SYS_0116
+Type: Learning Management System (LMS)
+Institution: INST_50
+Core Functions:
+- Course content management
+- Assignment handling
+- Online assessments
+Technical Specifications:
+- System Age: 6 years
+- Code Base: 902372 lines of code
+- Complexity Score: 76
+Performance Metrics:
+- Average Response Time: 230ms
+- Peak Load: 8938 concurrent users
+Integration Points:
+- Banner Integration
+- Canvas Integration
+- Custom APIs
+Known Issues:
+- High response time during peak periods
+- Integration bottlenecks"
+SYS_0117,INST_1,Small,4116,Student Information,5,605321,83,974,40,30,3,939,247,0.72,6717,1673,46757,Low,FERPA,"
+System ID: SYS_0117
+Type: Student Information System (SIS)
+Institution: INST_1
+Core Functions:
+- Student enrollment and registration
+- Academic records management
+- Grade processing
+Technical Specifications:
+- System Age: 5 years
+- Code Base: 605321 lines of code
+- Complexity Score: 83
+Performance Metrics:
+- Average Response Time: 939ms
+- Peak Load: 1673 concurrent users
+Integration Points:
+- Banner Integration
+- Canvas Integration
+- Custom APIs
+Known Issues:
+- Memory leaks under heavy load
+- Integration bottlenecks"
+SYS_0118,INST_36,Large,25885,Student Information,9,133496,42,805,42,8,14,382,125,0.86,1085,6893,62016,Medium,None,"
+System ID: SYS_0118
+Type: Student Information System (SIS)
+Institution: INST_36
+Core Functions:
+- Student enrollment and registration
+- Academic records management
+- Grade processing
+Technical Specifications:
+- System Age: 9 years
+- Code Base: 133496 lines of code
+- Complexity Score: 42
+Performance Metrics:
+- Average Response Time: 382ms
+- Peak Load: 6893 concurrent users
+Integration Points:
+- Banner Integration
+- Canvas Integration
+- Custom APIs
+Known Issues:
+- Memory leaks under heavy load
+- Integration bottlenecks"
+SYS_0119,INST_1,Small,4144,Student Information,5,909765,75,567,8,22,6,344,426,0.47,2803,7434,86837,High,FERPA,"
+System ID: SYS_0119
+Type: Student Information System (SIS)
+Institution: INST_1
+Core Functions:
+- Student enrollment and registration
+- Academic records management
+- Grade processing
+Technical Specifications:
+- System Age: 5 years
+- Code Base: 909765 lines of code
+- Complexity Score: 75
+Performance Metrics:
+- Average Response Time: 344ms
+- Peak Load: 7434 concurrent users
+Integration Points:
+- Banner Integration
+- Canvas Integration
+- Custom APIs
+Known Issues:
+- Memory leaks under heavy load
+- Integration bottlenecks"
+SYS_0120,INST_5,Small,2087,Research Management,3,614842,82,904,7,12,17,406,161,0.78,1152,5029,86263,Medium,Both,
+SYS_0121,INST_42,Large,26442,HR,15,179536,52,453,18,18,13,433,70,0.72,998,6843,63010,High,None,
+SYS_0122,INST_46,Medium,6044,Finance,7,211853,56,401,45,20,20,278,197,0.63,1643,3312,48716,Medium,None,
+SYS_0123,INST_42,Medium,13601,Research Management,7,109013,63,718,30,26,8,827,464,0.82,718,9108,64679,High,None,
+SYS_0124,INST_15,Large,18402,Student Information,8,120858,56,697,48,7,16,134,60,0.73,1039,6732,60805,Medium,Both,"
+System ID: SYS_0124
+Type: Student Information System (SIS)
+Institution: INST_15
+Core Functions:
+- Student enrollment and registration
+- Academic records management
+- Grade processing
+Technical Specifications:
+- System Age: 8 years
+- Code Base: 120858 lines of code
+- Complexity Score: 56
+Performance Metrics:
+- Average Response Time: 134ms
+- Peak Load: 6732 concurrent users
+Integration Points:
+- Banner Integration
+- Canvas Integration
+- Custom APIs
+Known Issues:
+- Memory leaks under heavy load
+- High response time during peak periods"
+SYS_0125,INST_29,Small,1668,Research Management,7,614644,76,634,30,9,15,119,235,0.57,1452,2154,23166,Medium,FERPA,
+SYS_0126,INST_31,Small,1767,Research Management,12,288639,54,579,25,21,13,811,446,0.64,1267,9132,59199,Low,GDPR,
+SYS_0127,INST_7,Large,18244,Student Information,4,539653,93,296,24,5,18,442,372,0.84,2715,3523,33255,High,GDPR,"
+System ID: SYS_0127
+Type: Student Information System (SIS)
+Institution: INST_7
+Core Functions:
+- Student enrollment and registration
+- Academic records management
+- Grade processing
+Technical Specifications:
+- System Age: 4 years
+- Code Base: 539653 lines of code
+- Complexity Score: 93
+Performance Metrics:
+- Average Response Time: 442ms
+- Peak Load: 3523 concurrent users
+Integration Points:
+- Banner Integration
+- Canvas Integration
+- Custom APIs
+Known Issues:
+- Integration bottlenecks
+- High response time during peak periods"
+SYS_0128,INST_35,Large,15479,Learning Management,4,652922,31,913,36,10,4,706,489,0.56,3909,2791,63213,Low,None,"
+System ID: SYS_0128
+Type: Learning Management System (LMS)
+Institution: INST_35
+Core Functions:
+- Course content management
+- Assignment handling
+- Online assessments
+Technical Specifications:
+- System Age: 4 years
+- Code Base: 652922 lines of code
+- Complexity Score: 31
+Performance Metrics:
+- Average Response Time: 706ms
+- Peak Load: 2791 concurrent users
+Integration Points:
+- Banner Integration
+- Canvas Integration
+- Custom APIs
+Known Issues:
+- Memory leaks under heavy load
+- High response time during peak periods"
+SYS_0129,INST_43,Small,1148,Student Information,7,428281,83,155,32,18,18,930,147,0.89,7127,5772,69904,High,FERPA,"
+System ID: SYS_0129
+Type: Student Information System (SIS)
+Institution: INST_43
+Core Functions:
+- Student enrollment and registration
+- Academic records management
+- Grade processing
+Technical Specifications:
+- System Age: 7 years
+- Code Base: 428281 lines of code
+- Complexity Score: 83
+Performance Metrics:
+- Average Response Time: 930ms
+- Peak Load: 5772 concurrent users
+Integration Points:
+- Banner Integration
+- Canvas Integration
+- Custom APIs
+Known Issues:
+- High response time during peak periods
+- Data synchronization delays"
+SYS_0130,INST_17,Medium,13006,Finance,11,793523,75,903,27,19,13,741,116,0.43,832,8235,56175,Low,Both,
+SYS_0131,INST_48,Medium,13319,Research Management,15,246757,85,689,48,23,7,486,318,0.44,1823,3694,61716,Medium,FERPA,
+SYS_0132,INST_20,Medium,8319,Finance,8,583893,73,949,20,30,3,342,176,0.7,611,8522,69618,Medium,GDPR,
+SYS_0133,INST_8,Small,2662,Student Information,7,590914,38,306,41,25,3,397,109,0.41,5954,4728,18895,High,None,"
+System ID: SYS_0133
+Type: Student Information System (SIS)
+Institution: INST_8
+Core Functions:
+- Student enrollment and registration
+- Academic records management
+- Grade processing
+Technical Specifications:
+- System Age: 7 years
+- Code Base: 590914 lines of code
+- Complexity Score: 38
+Performance Metrics:
+- Average Response Time: 397ms
+- Peak Load: 4728 concurrent users
+Integration Points:
+- Banner Integration
+- Canvas Integration
+- Custom APIs
+Known Issues:
+- Limited scalability
+- High response time during peak periods"
+SYS_0134,INST_27,Medium,13027,Finance,14,62992,50,561,7,21,12,200,488,0.78,1961,7521,85543,Low,FERPA,
+SYS_0135,INST_2,Small,1803,Finance,10,792103,46,539,28,4,8,255,305,0.52,845,6916,93178,Low,GDPR,
+SYS_0136,INST_25,Small,3724,Learning Management,14,142007,80,253,27,3,15,704,336,0.4,604,6264,10322,High,Both,"
+System ID: SYS_0136
+Type: Learning Management System (LMS)
+Institution: INST_25
+Core Functions:
+- Course content management
+- Assignment handling
+- Online assessments
+Technical Specifications:
+- System Age: 14 years
+- Code Base: 142007 lines of code
+- Complexity Score: 80
+Performance Metrics:
+- Average Response Time: 704ms
+- Peak Load: 6264 concurrent users
+Integration Points:
+- Banner Integration
+- Canvas Integration
+- Custom APIs
+Known Issues:
+- Data synchronization delays
+- Limited scalability"
+SYS_0137,INST_48,Medium,7052,Learning Management,14,125144,67,629,27,3,9,773,431,0.66,3223,1653,85518,Medium,GDPR,"
+System ID: SYS_0137
+Type: Learning Management System (LMS)
+Institution: INST_48
+Core Functions:
+- Course content management
+- Assignment handling
+- Online assessments
+Technical Specifications:
+- System Age: 14 years
+- Code Base: 125144 lines of code
+- Complexity Score: 67
+Performance Metrics:
+- Average Response Time: 773ms
+- Peak Load: 1653 concurrent users
+Integration Points:
+- Banner Integration
+- Canvas Integration
+- Custom APIs
+Known Issues:
+- Integration bottlenecks
+- Limited scalability"
+SYS_0138,INST_30,Small,4392,Finance,15,322280,73,525,41,24,10,260,77,0.63,1085,8917,64646,Medium,None,
+SYS_0139,INST_28,Medium,6992,Finance,6,717774,55,610,35,29,12,962,429,0.78,574,7554,55606,Medium,GDPR,
+SYS_0140,INST_37,Small,2101,Finance,6,542876,60,764,40,3,14,926,140,0.78,870,5507,89192,Low,None,
+SYS_0141,INST_9,Medium,11676,Learning Management,9,418565,42,516,42,10,13,778,271,0.49,581,1373,72448,Low,None,"
+System ID: SYS_0141
+Type: Learning Management System (LMS)
+Institution: INST_9
+Core Functions:
+- Course content management
+- Assignment handling
+- Online assessments
+Technical Specifications:
+- System Age: 9 years
+- Code Base: 418565 lines of code
+- Complexity Score: 42
+Performance Metrics:
+- Average Response Time: 778ms
+- Peak Load: 1373 concurrent users
+Integration Points:
+- Banner Integration
+- Canvas Integration
+- Custom APIs
+Known Issues:
+- Integration bottlenecks
+- Memory leaks under heavy load"
+SYS_0142,INST_39,Large,47755,Finance,5,986041,81,865,18,9,16,583,227,0.4,1450,3700,94418,Medium,None,
+SYS_0143,INST_19,Large,25040,HR,13,520148,60,271,25,9,18,783,113,0.81,389,5809,67079,High,GDPR,
+SYS_0144,INST_25,Medium,9761,Finance,5,938705,58,137,41,24,8,623,361,0.72,607,3442,62532,High,Both,
+SYS_0145,INST_5,Small,4750,Finance,3,625008,71,776,6,8,7,363,448,0.54,590,3620,52017,Low,Both,
+SYS_0146,INST_12,Small,1252,Student Information,10,318518,31,992,40,11,17,562,105,0.4,4221,3269,56212,Medium,GDPR,"
+System ID: SYS_0146
+Type: Student Information System (SIS)
+Institution: INST_12
+Core Functions:
+- Student enrollment and registration
+- Academic records management
+- Grade processing
+Technical Specifications:
+- System Age: 10 years
+- Code Base: 318518 lines of code
+- Complexity Score: 31
+Performance Metrics:
+- Average Response Time: 562ms
+- Peak Load: 3269 concurrent users
+Integration Points:
+- Banner Integration
+- Canvas Integration
+- Custom APIs
+Known Issues:
+- Memory leaks under heavy load
+- High response time during peak periods"
+SYS_0147,INST_12,Medium,11395,Research Management,5,740934,51,903,33,14,2,752,388,0.7,2487,5128,94961,Medium,None,
+SYS_0148,INST_34,Medium,8889,Finance,14,314087,55,786,40,13,16,339,178,0.43,1307,6682,62738,Medium,Both,
+SYS_0149,INST_12,Medium,9830,Research Management,6,455075,38,237,49,15,17,323,138,0.52,2173,6310,94692,Low,GDPR,
+SYS_0150,INST_33,Large,40246,HR,3,373886,37,560,36,30,13,525,406,0.47,566,9807,60702,Medium,FERPA,
+SYS_0151,INST_3,Small,2487,Learning Management,10,914346,80,430,17,22,4,199,163,0.74,620,5914,36956,Medium,FERPA,"
+System ID: SYS_0151
+Type: Learning Management System (LMS)
+Institution: INST_3
+Core Functions:
+- Course content management
+- Assignment handling
+- Online assessments
+Technical Specifications:
+- System Age: 10 years
+- Code Base: 914346 lines of code
+- Complexity Score: 80
+Performance Metrics:
+- Average Response Time: 199ms
+- Peak Load: 5914 concurrent users
+Integration Points:
+- Banner Integration
+- Canvas Integration
+- Custom APIs
+Known Issues:
+- Integration bottlenecks
+- Data synchronization delays"
+SYS_0152,INST_28,Medium,14279,Finance,6,582310,45,230,8,15,8,236,199,0.33,1984,1713,97983,Medium,GDPR,
+SYS_0153,INST_48,Medium,5722,Student Information,12,771084,90,164,14,20,3,817,484,0.82,8694,6642,37239,Low,GDPR,"
+System ID: SYS_0153
+Type: Student Information System (SIS)
+Institution: INST_48
+Core Functions:
+- Student enrollment and registration
+- Academic records management
+- Grade processing
+Technical Specifications:
+- System Age: 12 years
+- Code Base: 771084 lines of code
+- Complexity Score: 90
+Performance Metrics:
+- Average Response Time: 817ms
+- Peak Load: 6642 concurrent users
+Integration Points:
+- Banner Integration
+- Canvas Integration
+- Custom APIs
+Known Issues:
+- Integration bottlenecks
+- Data synchronization delays"
+SYS_0154,INST_49,Medium,10860,Finance,5,471408,65,898,48,4,11,709,123,0.34,1264,2294,84655,Low,None,
+SYS_0155,INST_10,Small,3930,Student Information,9,228523,95,676,14,11,5,498,381,0.79,6173,3183,73664,Low,FERPA,"
+System ID: SYS_0155
+Type: Student Information System (SIS)
+Institution: INST_10
+Core Functions:
+- Student enrollment and registration
+- Academic records management
+- Grade processing
+Technical Specifications:
+- System Age: 9 years
+- Code Base: 228523 lines of code
+- Complexity Score: 95
+Performance Metrics:
+- Average Response Time: 498ms
+- Peak Load: 3183 concurrent users
+Integration Points:
+- Banner Integration
+- Canvas Integration
+- Custom APIs
+Known Issues:
+- Limited scalability
+- Integration bottlenecks"
+SYS_0156,INST_45,Medium,5022,Learning Management,5,320545,64,685,37,12,19,786,241,0.68,834,6130,24055,High,FERPA,"
+System ID: SYS_0156
+Type: Learning Management System (LMS)
+Institution: INST_45
+Core Functions:
+- Course content management
+- Assignment handling
+- Online assessments
+Technical Specifications:
+- System Age: 5 years
+- Code Base: 320545 lines of code
+- Complexity Score: 64
+Performance Metrics:
+- Average Response Time: 786ms
+- Peak Load: 6130 concurrent users
+Integration Points:
+- Banner Integration
+- Canvas Integration
+- Custom APIs
+Known Issues:
+- Data synchronization delays
+- Integration bottlenecks"
+SYS_0157,INST_6,Medium,12294,Learning Management,5,436156,26,956,41,15,19,845,123,0.57,4742,3360,55907,High,GDPR,"
+System ID: SYS_0157
+Type: Learning Management System (LMS)
+Institution: INST_6
+Core Functions:
+- Course content management
+- Assignment handling
+- Online assessments
+Technical Specifications:
+- System Age: 5 years
+- Code Base: 436156 lines of code
+- Complexity Score: 26
+Performance Metrics:
+- Average Response Time: 845ms
+- Peak Load: 3360 concurrent users
+Integration Points:
+- Banner Integration
+- Canvas Integration
+- Custom APIs
+Known Issues:
+- Limited scalability
+- Memory leaks under heavy load"
+SYS_0158,INST_42,Large,19251,Learning Management,13,89030,53,461,39,22,12,899,65,0.56,1285,9537,35886,Low,Both,"
+System ID: SYS_0158
+Type: Learning Management System (LMS)
+Institution: INST_42
+Core Functions:
+- Course content management
+- Assignment handling
+- Online assessments
+Technical Specifications:
+- System Age: 13 years
+- Code Base: 89030 lines of code
+- Complexity Score: 53
+Performance Metrics:
+- Average Response Time: 899ms
+- Peak Load: 9537 concurrent users
+Integration Points:
+- Banner Integration
+- Canvas Integration
+- Custom APIs
+Known Issues:
+- Data synchronization delays
+- Integration bottlenecks"
+SYS_0159,INST_16,Small,1222,Student Information,7,545459,88,445,6,19,17,112,409,0.75,3444,6239,66618,Low,FERPA,"
+System ID: SYS_0159
+Type: Student Information System (SIS)
+Institution: INST_16
+Core Functions:
+- Student enrollment and registration
+- Academic records management
+- Grade processing
+Technical Specifications:
+- System Age: 7 years
+- Code Base: 545459 lines of code
+- Complexity Score: 88
+Performance Metrics:
+- Average Response Time: 112ms
+- Peak Load: 6239 concurrent users
+Integration Points:
+- Banner Integration
+- Canvas Integration
+- Custom APIs
+Known Issues:
+- Memory leaks under heavy load
+- Data synchronization delays"
+SYS_0160,INST_27,Medium,6248,Student Information,11,194558,45,958,31,17,14,679,273,0.54,8563,7625,78779,High,FERPA,"
+System ID: SYS_0160
+Type: Student Information System (SIS)
+Institution: INST_27
+Core Functions:
+- Student enrollment and registration
+- Academic records management
+- Grade processing
+Technical Specifications:
+- System Age: 11 years
+- Code Base: 194558 lines of code
+- Complexity Score: 45
+Performance Metrics:
+- Average Response Time: 679ms
+- Peak Load: 7625 concurrent users
+Integration Points:
+- Banner Integration
+- Canvas Integration
+- Custom APIs
+Known Issues:
+- Integration bottlenecks
+- Data synchronization delays"
+SYS_0161,INST_15,Medium,9164,Finance,10,779257,75,189,9,24,11,571,222,0.77,664,2303,99975,Medium,GDPR,
+SYS_0162,INST_2,Small,3995,HR,12,928208,26,381,16,15,9,638,105,0.48,225,5942,16069,Medium,None,
+SYS_0163,INST_11,Small,3877,Learning Management,13,245645,51,226,44,23,15,533,305,0.36,3976,3891,38473,Low,GDPR,"
+System ID: SYS_0163
+Type: Learning Management System (LMS)
+Institution: INST_11
+Core Functions:
+- Course content management
+- Assignment handling
+- Online assessments
+Technical Specifications:
+- System Age: 13 years
+- Code Base: 245645 lines of code
+- Complexity Score: 51
+Performance Metrics:
+- Average Response Time: 533ms
+- Peak Load: 3891 concurrent users
+Integration Points:
+- Banner Integration
+- Canvas Integration
+- Custom APIs
+Known Issues:
+- Integration bottlenecks
+- Data synchronization delays"
+SYS_0164,INST_5,Large,28944,HR,11,115538,41,168,28,12,20,674,420,0.75,667,7304,93551,Medium,GDPR,
+SYS_0165,INST_38,Large,48016,Finance,13,589620,55,542,47,30,3,504,133,0.42,921,4586,76182,Medium,Both,
+SYS_0166,INST_13,Large,48951,Learning Management,7,237040,61,362,44,17,7,133,95,0.7,4154,6809,51895,High,Both,"
+System ID: SYS_0166
+Type: Learning Management System (LMS)
+Institution: INST_13
+Core Functions:
+- Course content management
+- Assignment handling
+- Online assessments
+Technical Specifications:
+- System Age: 7 years
+- Code Base: 237040 lines of code
+- Complexity Score: 61
+Performance Metrics:
+- Average Response Time: 133ms
+- Peak Load: 6809 concurrent users
+Integration Points:
+- Banner Integration
+- Canvas Integration
+- Custom APIs
+Known Issues:
+- Limited scalability
+- Data synchronization delays"
+SYS_0167,INST_14,Large,49268,HR,9,751958,37,204,10,8,9,901,297,0.59,325,1850,14685,Medium,None,
+SYS_0168,INST_47,Large,45177,Finance,6,798396,82,656,35,22,14,958,62,0.78,977,5953,39317,Medium,FERPA,
+SYS_0169,INST_14,Medium,8600,Student Information,6,211252,74,115,11,7,17,110,261,0.85,4832,4892,40583,High,FERPA,"
+System ID: SYS_0169
+Type: Student Information System (SIS)
+Institution: INST_14
+Core Functions:
+- Student enrollment and registration
+- Academic records management
+- Grade processing
+Technical Specifications:
+- System Age: 6 years
+- Code Base: 211252 lines of code
+- Complexity Score: 74
+Performance Metrics:
+- Average Response Time: 110ms
+- Peak Load: 4892 concurrent users
+Integration Points:
+- Banner Integration
+- Canvas Integration
+- Custom APIs
+Known Issues:
+- Limited scalability
+- Memory leaks under heavy load"
+SYS_0170,INST_4,Small,4694,Finance,8,516319,71,102,27,6,2,708,51,0.38,288,9763,81513,Medium,GDPR,
+SYS_0171,INST_18,Medium,11483,Student Information,11,957697,81,907,22,6,16,257,211,0.87,8007,1282,98171,Medium,Both,"
+System ID: SYS_0171
+Type: Student Information System (SIS)
+Institution: INST_18
+Core Functions:
+- Student enrollment and registration
+- Academic records management
+- Grade processing
+Technical Specifications:
+- System Age: 11 years
+- Code Base: 957697 lines of code
+- Complexity Score: 81
+Performance Metrics:
+- Average Response Time: 257ms
+- Peak Load: 1282 concurrent users
+Integration Points:
+- Banner Integration
+- Canvas Integration
+- Custom APIs
+Known Issues:
+- Data synchronization delays
+- Memory leaks under heavy load"
+SYS_0172,INST_17,Large,37904,Learning Management,8,901769,49,306,40,4,6,382,391,0.81,852,4796,96332,Low,None,"
+System ID: SYS_0172
+Type: Learning Management System (LMS)
+Institution: INST_17
+Core Functions:
+- Course content management
+- Assignment handling
+- Online assessments
+Technical Specifications:
+- System Age: 8 years
+- Code Base: 901769 lines of code
+- Complexity Score: 49
+Performance Metrics:
+- Average Response Time: 382ms
+- Peak Load: 4796 concurrent users
+Integration Points:
+- Banner Integration
+- Canvas Integration
+- Custom APIs
+Known Issues:
+- Data synchronization delays
+- Memory leaks under heavy load"
+SYS_0173,INST_11,Medium,10157,Student Information,14,813411,52,188,38,11,8,237,89,0.32,1990,8778,71302,Medium,Both,"
+System ID: SYS_0173
+Type: Student Information System (SIS)
+Institution: INST_11
+Core Functions:
+- Student enrollment and registration
+- Academic records management
+- Grade processing
+Technical Specifications:
+- System Age: 14 years
+- Code Base: 813411 lines of code
+- Complexity Score: 52
+Performance Metrics:
+- Average Response Time: 237ms
+- Peak Load: 8778 concurrent users
+Integration Points:
+- Banner Integration
+- Canvas Integration
+- Custom APIs
+Known Issues:
+- Data synchronization delays
+- Integration bottlenecks"
+SYS_0174,INST_34,Large,24430,Student Information,4,752534,55,213,37,28,2,977,110,0.59,9073,5376,32291,Low,Both,"
+System ID: SYS_0174
+Type: Student Information System (SIS)
+Institution: INST_34
+Core Functions:
+- Student enrollment and registration
+- Academic records management
+- Grade processing
+Technical Specifications:
+- System Age: 4 years
+- Code Base: 752534 lines of code
+- Complexity Score: 55
+Performance Metrics:
+- Average Response Time: 977ms
+- Peak Load: 5376 concurrent users
+Integration Points:
+- Banner Integration
+- Canvas Integration
+- Custom APIs
+Known Issues:
+- Integration bottlenecks
+- Memory leaks under heavy load"
+SYS_0175,INST_17,Large,16307,Student Information,9,270931,89,981,42,16,12,945,215,0.75,2942,4243,30175,Medium,Both,"
+System ID: SYS_0175
+Type: Student Information System (SIS)
+Institution: INST_17
+Core Functions:
+- Student enrollment and registration
+- Academic records management
+- Grade processing
+Technical Specifications:
+- System Age: 9 years
+- Code Base: 270931 lines of code
+- Complexity Score: 89
+Performance Metrics:
+- Average Response Time: 945ms
+- Peak Load: 4243 concurrent users
+Integration Points:
+- Banner Integration
+- Canvas Integration
+- Custom APIs
+Known Issues:
+- Data synchronization delays
+- Limited scalability"
+SYS_0176,INST_28,Medium,5184,HR,14,782779,44,644,29,11,19,350,189,0.46,390,8157,48176,Medium,GDPR,
+SYS_0177,INST_49,Small,4200,Learning Management,12,911864,63,145,20,10,9,769,469,0.64,3250,3737,75087,Medium,GDPR,"
+System ID: SYS_0177
+Type: Learning Management System (LMS)
+Institution: INST_49
+Core Functions:
+- Course content management
+- Assignment handling
+- Online assessments
+Technical Specifications:
+- System Age: 12 years
+- Code Base: 911864 lines of code
+- Complexity Score: 63
+Performance Metrics:
+- Average Response Time: 769ms
+- Peak Load: 3737 concurrent users
+Integration Points:
+- Banner Integration
+- Canvas Integration
+- Custom APIs
+Known Issues:
+- Memory leaks under heavy load
+- High response time during peak periods"
+SYS_0178,INST_39,Small,4669,Student Information,7,668932,92,691,7,19,10,792,280,0.8,7491,4797,95695,High,None,"
+System ID: SYS_0178
+Type: Student Information System (SIS)
+Institution: INST_39
+Core Functions:
+- Student enrollment and registration
+- Academic records management
+- Grade processing
+Technical Specifications:
+- System Age: 7 years
+- Code Base: 668932 lines of code
+- Complexity Score: 92
+Performance Metrics:
+- Average Response Time: 792ms
+- Peak Load: 4797 concurrent users
+Integration Points:
+- Banner Integration
+- Canvas Integration
+- Custom APIs
+Known Issues:
+- High response time during peak periods
+- Data synchronization delays"
+SYS_0179,INST_49,Small,3579,Research Management,11,896842,74,743,25,8,9,626,229,0.79,321,8622,58371,Low,Both,
+SYS_0180,INST_35,Large,49876,Learning Management,15,656228,66,912,33,24,7,117,262,0.37,3538,3634,13550,Medium,Both,"
+System ID: SYS_0180
+Type: Learning Management System (LMS)
+Institution: INST_35
+Core Functions:
+- Course content management
+- Assignment handling
+- Online assessments
+Technical Specifications:
+- System Age: 15 years
+- Code Base: 656228 lines of code
+- Complexity Score: 66
+Performance Metrics:
+- Average Response Time: 117ms
+- Peak Load: 3634 concurrent users
+Integration Points:
+- Banner Integration
+- Canvas Integration
+- Custom APIs
+Known Issues:
+- Limited scalability
+- Integration bottlenecks"
+SYS_0181,INST_48,Large,32917,Finance,15,836831,66,184,28,12,4,691,96,0.44,1561,6915,80405,Medium,None,
+SYS_0182,INST_20,Large,48897,Student Information,12,286644,65,174,8,8,2,726,163,0.82,1261,1607,45264,High,FERPA,"
+System ID: SYS_0182
+Type: Student Information System (SIS)
+Institution: INST_20
+Core Functions:
+- Student enrollment and registration
+- Academic records management
+- Grade processing
+Technical Specifications:
+- System Age: 12 years
+- Code Base: 286644 lines of code
+- Complexity Score: 65
+Performance Metrics:
+- Average Response Time: 726ms
+- Peak Load: 1607 concurrent users
+Integration Points:
+- Banner Integration
+- Canvas Integration
+- Custom APIs
+Known Issues:
+- Integration bottlenecks
+- Limited scalability"
+SYS_0183,INST_31,Small,2683,Finance,4,457357,47,561,12,9,18,995,470,0.76,544,7757,86012,Medium,GDPR,
+SYS_0184,INST_40,Medium,14537,HR,4,236657,39,996,45,4,19,552,115,0.48,327,9506,75289,High,FERPA,
+SYS_0185,INST_27,Large,17440,HR,3,536493,40,515,13,13,6,639,55,0.39,333,6054,90177,Medium,None,
+SYS_0186,INST_41,Small,3964,Learning Management,12,750538,72,413,6,7,10,695,221,0.68,4731,2568,65613,Medium,Both,"
+System ID: SYS_0186
+Type: Learning Management System (LMS)
+Institution: INST_41
+Core Functions:
+- Course content management
+- Assignment handling
+- Online assessments
+Technical Specifications:
+- System Age: 12 years
+- Code Base: 750538 lines of code
+- Complexity Score: 72
+Performance Metrics:
+- Average Response Time: 695ms
+- Peak Load: 2568 concurrent users
+Integration Points:
+- Banner Integration
+- Canvas Integration
+- Custom APIs
+Known Issues:
+- Limited scalability
+- High response time during peak periods"
+SYS_0187,INST_41,Medium,5716,HR,7,837137,32,676,26,29,13,839,452,0.42,429,1044,31861,Low,GDPR,
+SYS_0188,INST_21,Small,3983,Student Information,11,752259,92,649,42,28,10,255,147,0.9,6352,7916,48646,Low,Both,"
+System ID: SYS_0188
+Type: Student Information System (SIS)
+Institution: INST_21
+Core Functions:
+- Student enrollment and registration
+- Academic records management
+- Grade processing
+Technical Specifications:
+- System Age: 11 years
+- Code Base: 752259 lines of code
+- Complexity Score: 92
+Performance Metrics:
+- Average Response Time: 255ms
+- Peak Load: 7916 concurrent users
+Integration Points:
+- Banner Integration
+- Canvas Integration
+- Custom APIs
+Known Issues:
+- High response time during peak periods
+- Memory leaks under heavy load"
+SYS_0189,INST_10,Medium,12949,Research Management,11,864045,64,450,13,22,2,984,201,0.59,1277,3968,25091,High,GDPR,
+SYS_0190,INST_30,Small,4297,Learning Management,11,960893,69,899,12,24,4,902,405,0.43,1496,4677,56827,Low,Both,"
+System ID: SYS_0190
+Type: Learning Management System (LMS)
+Institution: INST_30
+Core Functions:
+- Course content management
+- Assignment handling
+- Online assessments
+Technical Specifications:
+- System Age: 11 years
+- Code Base: 960893 lines of code
+- Complexity Score: 69
+Performance Metrics:
+- Average Response Time: 902ms
+- Peak Load: 4677 concurrent users
+Integration Points:
+- Banner Integration
+- Canvas Integration
+- Custom APIs
+Known Issues:
+- Limited scalability
+- Data synchronization delays"
+SYS_0191,INST_10,Medium,10258,Student Information,10,474930,32,705,38,15,6,277,156,0.61,6221,5045,65206,High,None,"
+System ID: SYS_0191
+Type: Student Information System (SIS)
+Institution: INST_10
+Core Functions:
+- Student enrollment and registration
+- Academic records management
+- Grade processing
+Technical Specifications:
+- System Age: 10 years
+- Code Base: 474930 lines of code
+- Complexity Score: 32
+Performance Metrics:
+- Average Response Time: 277ms
+- Peak Load: 5045 concurrent users
+Integration Points:
+- Banner Integration
+- Canvas Integration
+- Custom APIs
+Known Issues:
+- Data synchronization delays
+- High response time during peak periods"
+SYS_0192,INST_12,Small,4684,Finance,14,118313,62,488,15,21,9,752,239,0.68,625,3357,54036,High,FERPA,
+SYS_0193,INST_14,Medium,8110,HR,10,502018,27,585,16,7,5,651,172,0.65,603,2222,44373,High,None,
+SYS_0194,INST_17,Large,42095,Student Information,12,150117,69,523,24,27,6,705,101,0.39,8131,5922,97700,Low,Both,"
+System ID: SYS_0194
+Type: Student Information System (SIS)
+Institution: INST_17
+Core Functions:
+- Student enrollment and registration
+- Academic records management
+- Grade processing
+Technical Specifications:
+- System Age: 12 years
+- Code Base: 150117 lines of code
+- Complexity Score: 69
+Performance Metrics:
+- Average Response Time: 705ms
+- Peak Load: 5922 concurrent users
+Integration Points:
+- Banner Integration
+- Canvas Integration
+- Custom APIs
+Known Issues:
+- High response time during peak periods
+- Memory leaks under heavy load"
+SYS_0195,INST_41,Medium,10537,Learning Management,15,265887,75,767,44,12,5,342,386,0.63,1094,4989,44446,High,None,"
+System ID: SYS_0195
+Type: Learning Management System (LMS)
+Institution: INST_41
+Core Functions:
+- Course content management
+- Assignment handling
+- Online assessments
+Technical Specifications:
+- System Age: 15 years
+- Code Base: 265887 lines of code
+- Complexity Score: 75
+Performance Metrics:
+- Average Response Time: 342ms
+- Peak Load: 4989 concurrent users
+Integration Points:
+- Banner Integration
+- Canvas Integration
+- Custom APIs
+Known Issues:
+- Integration bottlenecks
+- Limited scalability"
+SYS_0196,INST_32,Large,15742,Student Information,15,75756,61,476,42,8,11,730,133,0.7,8796,9509,90937,Medium,FERPA,"
+System ID: SYS_0196
+Type: Student Information System (SIS)
+Institution: INST_32
+Core Functions:
+- Student enrollment and registration
+- Academic records management
+- Grade processing
+Technical Specifications:
+- System Age: 15 years
+- Code Base: 75756 lines of code
+- Complexity Score: 61
+Performance Metrics:
+- Average Response Time: 730ms
+- Peak Load: 9509 concurrent users
+Integration Points:
+- Banner Integration
+- Canvas Integration
+- Custom APIs
+Known Issues:
+- Limited scalability
+- Integration bottlenecks"
+SYS_0197,INST_21,Medium,5373,Finance,5,817682,51,211,45,13,2,859,338,0.89,1131,6640,69875,Medium,None,
+SYS_0198,INST_50,Small,3441,HR,6,390258,26,466,44,29,11,204,340,0.42,323,1356,90071,Low,None,
+SYS_0199,INST_9,Medium,11719,Finance,6,723801,41,885,42,16,3,915,134,0.64,627,3844,20773,Medium,None,
+SYS_0200,INST_11,Large,46186,Student Information,7,697209,49,709,40,21,12,937,309,0.56,6458,5802,90612,Medium,FERPA,"
+System ID: SYS_0200
+Type: Student Information System (SIS)
+Institution: INST_11
+Core Functions:
+- Student enrollment and registration
+- Academic records management
+- Grade processing
+Technical Specifications:
+- System Age: 7 years
+- Code Base: 697209 lines of code
+- Complexity Score: 49
+Performance Metrics:
+- Average Response Time: 937ms
+- Peak Load: 5802 concurrent users
+Integration Points:
+- Banner Integration
+- Canvas Integration
+- Custom APIs
+Known Issues:
+- High response time during peak periods
+- Memory leaks under heavy load"
+SYS_0201,INST_13,Large,34533,Learning Management,14,274426,29,262,19,3,10,784,106,0.61,737,4649,17017,Low,FERPA,"
+System ID: SYS_0201
+Type: Learning Management System (LMS)
+Institution: INST_13
+Core Functions:
+- Course content management
+- Assignment handling
+- Online assessments
+Technical Specifications:
+- System Age: 14 years
+- Code Base: 274426 lines of code
+- Complexity Score: 29
+Performance Metrics:
+- Average Response Time: 784ms
+- Peak Load: 4649 concurrent users
+Integration Points:
+- Banner Integration
+- Canvas Integration
+- Custom APIs
+Known Issues:
+- High response time during peak periods
+- Data synchronization delays"
+SYS_0202,INST_30,Medium,6101,Finance,13,973267,74,669,30,26,10,519,488,0.9,1761,6326,18391,Medium,GDPR,
+SYS_0203,INST_49,Large,19878,Learning Management,5,874805,21,365,21,13,16,890,413,0.34,2688,2786,70780,Medium,FERPA,"
+System ID: SYS_0203
+Type: Learning Management System (LMS)
+Institution: INST_49
+Core Functions:
+- Course content management
+- Assignment handling
+- Online assessments
+Technical Specifications:
+- System Age: 5 years
+- Code Base: 874805 lines of code
+- Complexity Score: 21
+Performance Metrics:
+- Average Response Time: 890ms
+- Peak Load: 2786 concurrent users
+Integration Points:
+- Banner Integration
+- Canvas Integration
+- Custom APIs
+Known Issues:
+- Data synchronization delays
+- Limited scalability"
+SYS_0204,INST_34,Large,46318,Finance,15,379857,77,650,43,3,19,417,174,0.34,1218,6785,85002,Medium,GDPR,
+SYS_0205,INST_21,Small,3691,Student Information,6,431393,37,126,21,13,10,259,473,0.62,1235,8673,56601,Medium,None,"
+System ID: SYS_0205
+Type: Student Information System (SIS)
+Institution: INST_21
+Core Functions:
+- Student enrollment and registration
+- Academic records management
+- Grade processing
+Technical Specifications:
+- System Age: 6 years
+- Code Base: 431393 lines of code
+- Complexity Score: 37
+Performance Metrics:
+- Average Response Time: 259ms
+- Peak Load: 8673 concurrent users
+Integration Points:
+- Banner Integration
+- Canvas Integration
+- Custom APIs
+Known Issues:
+- Data synchronization delays
+- Memory leaks under heavy load"
+SYS_0206,INST_24,Medium,8796,Research Management,15,573607,38,361,42,11,20,288,347,0.61,1314,6289,88711,Medium,Both,
+SYS_0207,INST_17,Small,2104,Learning Management,13,901499,69,728,12,22,17,208,343,0.89,2972,2681,23934,High,Both,"
+System ID: SYS_0207
+Type: Learning Management System (LMS)
+Institution: INST_17
+Core Functions:
+- Course content management
+- Assignment handling
+- Online assessments
+Technical Specifications:
+- System Age: 13 years
+- Code Base: 901499 lines of code
+- Complexity Score: 69
+Performance Metrics:
+- Average Response Time: 208ms
+- Peak Load: 2681 concurrent users
+Integration Points:
+- Banner Integration
+- Canvas Integration
+- Custom APIs
+Known Issues:
+- Memory leaks under heavy load
+- Integration bottlenecks"
+SYS_0208,INST_35,Medium,8679,HR,3,567448,58,281,31,14,14,500,207,0.65,186,1678,77962,High,Both,
+SYS_0209,INST_13,Large,38606,HR,11,153756,41,395,40,21,14,950,170,0.6,713,4489,11195,Medium,None,
+SYS_0210,INST_20,Medium,10743,Student Information,3,532935,94,673,33,4,7,791,269,0.48,9029,1160,95381,High,Both,"
+System ID: SYS_0210
+Type: Student Information System (SIS)
+Institution: INST_20
+Core Functions:
+- Student enrollment and registration
+- Academic records management
+- Grade processing
+Technical Specifications:
+- System Age: 3 years
+- Code Base: 532935 lines of code
+- Complexity Score: 94
+Performance Metrics:
+- Average Response Time: 791ms
+- Peak Load: 1160 concurrent users
+Integration Points:
+- Banner Integration
+- Canvas Integration
+- Custom APIs
+Known Issues:
+- Integration bottlenecks
+- Data synchronization delays"
+SYS_0211,INST_23,Small,4003,Student Information,13,100795,70,449,26,14,10,499,253,0.4,6430,3392,23649,Low,Both,"
+System ID: SYS_0211
+Type: Student Information System (SIS)
+Institution: INST_23
+Core Functions:
+- Student enrollment and registration
+- Academic records management
+- Grade processing
+Technical Specifications:
+- System Age: 13 years
+- Code Base: 100795 lines of code
+- Complexity Score: 70
+Performance Metrics:
+- Average Response Time: 499ms
+- Peak Load: 3392 concurrent users
+Integration Points:
+- Banner Integration
+- Canvas Integration
+- Custom APIs
+Known Issues:
+- High response time during peak periods
+- Memory leaks under heavy load"
+SYS_0212,INST_26,Large,37398,Learning Management,9,901665,21,299,14,6,14,510,214,0.86,2107,6778,65418,Low,FERPA,"
+System ID: SYS_0212
+Type: Learning Management System (LMS)
+Institution: INST_26
+Core Functions:
+- Course content management
+- Assignment handling
+- Online assessments
+Technical Specifications:
+- System Age: 9 years
+- Code Base: 901665 lines of code
+- Complexity Score: 21
+Performance Metrics:
+- Average Response Time: 510ms
+- Peak Load: 6778 concurrent users
+Integration Points:
+- Banner Integration
+- Canvas Integration
+- Custom APIs
+Known Issues:
+- Data synchronization delays
+- High response time during peak periods"
+SYS_0213,INST_28,Small,4435,Learning Management,4,612735,22,742,21,8,15,197,412,0.65,630,5391,33396,High,None,"
+System ID: SYS_0213
+Type: Learning Management System (LMS)
+Institution: INST_28
+Core Functions:
+- Course content management
+- Assignment handling
+- Online assessments
+Technical Specifications:
+- System Age: 4 years
+- Code Base: 612735 lines of code
+- Complexity Score: 22
+Performance Metrics:
+- Average Response Time: 197ms
+- Peak Load: 5391 concurrent users
+Integration Points:
+- Banner Integration
+- Canvas Integration
+- Custom APIs
+Known Issues:
+- Memory leaks under heavy load
+- Data synchronization delays"
+SYS_0214,INST_3,Large,30634,Finance,13,383412,85,841,18,8,9,596,120,0.87,671,5469,77594,Low,None,
+SYS_0215,INST_44,Large,42398,Research Management,8,718134,35,377,10,28,13,196,183,0.75,2180,8599,76072,High,FERPA,
+SYS_0216,INST_22,Large,28055,Finance,7,221617,87,908,25,11,18,108,202,0.55,639,4364,66522,Medium,FERPA,
+SYS_0217,INST_40,Medium,10420,Learning Management,15,679061,61,877,36,19,19,418,313,0.72,3256,5404,97692,Medium,FERPA,"
+System ID: SYS_0217
+Type: Learning Management System (LMS)
+Institution: INST_40
+Core Functions:
+- Course content management
+- Assignment handling
+- Online assessments
+Technical Specifications:
+- System Age: 15 years
+- Code Base: 679061 lines of code
+- Complexity Score: 61
+Performance Metrics:
+- Average Response Time: 418ms
+- Peak Load: 5404 concurrent users
+Integration Points:
+- Banner Integration
+- Canvas Integration
+- Custom APIs
+Known Issues:
+- Integration bottlenecks
+- High response time during peak periods"
+SYS_0218,INST_27,Small,3560,HR,12,930846,47,908,12,6,19,271,472,0.72,592,9796,22305,Low,GDPR,
+SYS_0219,INST_26,Large,47965,Learning Management,15,109872,39,809,39,17,14,898,141,0.55,1725,3781,82850,High,Both,"
+System ID: SYS_0219
+Type: Learning Management System (LMS)
+Institution: INST_26
+Core Functions:
+- Course content management
+- Assignment handling
+- Online assessments
+Technical Specifications:
+- System Age: 15 years
+- Code Base: 109872 lines of code
+- Complexity Score: 39
+Performance Metrics:
+- Average Response Time: 898ms
+- Peak Load: 3781 concurrent users
+Integration Points:
+- Banner Integration
+- Canvas Integration
+- Custom APIs
+Known Issues:
+- High response time during peak periods
+- Integration bottlenecks"
+SYS_0220,INST_2,Medium,10239,Research Management,5,854305,84,134,39,12,11,931,424,0.75,2836,9440,83731,Low,FERPA,
+SYS_0221,INST_14,Medium,8872,Student Information,12,882015,59,269,45,26,13,970,477,0.37,1411,9406,75905,Medium,FERPA,"
+System ID: SYS_0221
+Type: Student Information System (SIS)
+Institution: INST_14
+Core Functions:
+- Student enrollment and registration
+- Academic records management
+- Grade processing
+Technical Specifications:
+- System Age: 12 years
+- Code Base: 882015 lines of code
+- Complexity Score: 59
+Performance Metrics:
+- Average Response Time: 970ms
+- Peak Load: 9406 concurrent users
+Integration Points:
+- Banner Integration
+- Canvas Integration
+- Custom APIs
+Known Issues:
+- Limited scalability
+- Data synchronization delays"
+SYS_0222,INST_34,Large,36878,HR,14,162476,68,626,18,16,11,375,247,0.81,631,3143,62271,Medium,FERPA,
+SYS_0223,INST_37,Small,3507,Student Information,9,70432,42,811,23,28,19,567,65,0.39,4250,1273,82935,Medium,Both,"
+System ID: SYS_0223
+Type: Student Information System (SIS)
+Institution: INST_37
+Core Functions:
+- Student enrollment and registration
+- Academic records management
+- Grade processing
+Technical Specifications:
+- System Age: 9 years
+- Code Base: 70432 lines of code
+- Complexity Score: 42
+Performance Metrics:
+- Average Response Time: 567ms
+- Peak Load: 1273 concurrent users
+Integration Points:
+- Banner Integration
+- Canvas Integration
+- Custom APIs
+Known Issues:
+- Limited scalability
+- Integration bottlenecks"
+SYS_0224,INST_44,Small,2623,HR,3,466530,29,677,42,6,11,932,91,0.31,466,5816,19455,Low,FERPA,
+SYS_0225,INST_28,Large,37789,Research Management,3,987336,36,438,41,14,7,120,90,0.74,1310,1865,56489,High,None,
+SYS_0226,INST_41,Small,4963,Learning Management,6,374235,53,618,17,30,13,640,496,0.58,528,6393,92663,Medium,None,"
+System ID: SYS_0226
+Type: Learning Management System (LMS)
+Institution: INST_41
+Core Functions:
+- Course content management
+- Assignment handling
+- Online assessments
+Technical Specifications:
+- System Age: 6 years
+- Code Base: 374235 lines of code
+- Complexity Score: 53
+Performance Metrics:
+- Average Response Time: 640ms
+- Peak Load: 6393 concurrent users
+Integration Points:
+- Banner Integration
+- Canvas Integration
+- Custom APIs
+Known Issues:
+- Limited scalability
+- Data synchronization delays"
+SYS_0227,INST_14,Large,39323,Learning Management,4,93495,36,646,20,21,17,732,107,0.86,2420,7238,47661,Medium,None,"
+System ID: SYS_0227
+Type: Learning Management System (LMS)
+Institution: INST_14
+Core Functions:
+- Course content management
+- Assignment handling
+- Online assessments
+Technical Specifications:
+- System Age: 4 years
+- Code Base: 93495 lines of code
+- Complexity Score: 36
+Performance Metrics:
+- Average Response Time: 732ms
+- Peak Load: 7238 concurrent users
+Integration Points:
+- Banner Integration
+- Canvas Integration
+- Custom APIs
+Known Issues:
+- Data synchronization delays
+- High response time during peak periods"
+SYS_0228,INST_22,Small,4575,Research Management,13,557778,80,482,38,23,12,888,121,0.44,592,4742,99789,High,GDPR,
+SYS_0229,INST_19,Medium,5008,Student Information,3,446884,53,387,12,13,7,376,295,0.44,6807,1757,68169,Low,GDPR,"
+System ID: SYS_0229
+Type: Student Information System (SIS)
+Institution: INST_19
+Core Functions:
+- Student enrollment and registration
+- Academic records management
+- Grade processing
+Technical Specifications:
+- System Age: 3 years
+- Code Base: 446884 lines of code
+- Complexity Score: 53
+Performance Metrics:
+- Average Response Time: 376ms
+- Peak Load: 1757 concurrent users
+Integration Points:
+- Banner Integration
+- Canvas Integration
+- Custom APIs
+Known Issues:
+- Limited scalability
+- Memory leaks under heavy load"
+SYS_0230,INST_1,Medium,5249,Student Information,12,803172,76,907,38,4,8,500,398,0.82,2667,2476,96106,Medium,Both,"
+System ID: SYS_0230
+Type: Student Information System (SIS)
+Institution: INST_1
+Core Functions:
+- Student enrollment and registration
+- Academic records management
+- Grade processing
+Technical Specifications:
+- System Age: 12 years
+- Code Base: 803172 lines of code
+- Complexity Score: 76
+Performance Metrics:
+- Average Response Time: 500ms
+- Peak Load: 2476 concurrent users
+Integration Points:
+- Banner Integration
+- Canvas Integration
+- Custom APIs
+Known Issues:
+- Memory leaks under heavy load
+- Integration bottlenecks"
+SYS_0231,INST_24,Small,2268,Research Management,4,986264,41,388,11,12,20,210,399,0.63,1009,4444,74703,Medium,Both,
+SYS_0232,INST_33,Medium,7953,Student Information,13,438001,47,572,46,13,8,998,345,0.59,9305,8714,71997,Medium,GDPR,"
+System ID: SYS_0232
+Type: Student Information System (SIS)
+Institution: INST_33
+Core Functions:
+- Student enrollment and registration
+- Academic records management
+- Grade processing
+Technical Specifications:
+- System Age: 13 years
+- Code Base: 438001 lines of code
+- Complexity Score: 47
+Performance Metrics:
+- Average Response Time: 998ms
+- Peak Load: 8714 concurrent users
+Integration Points:
+- Banner Integration
+- Canvas Integration
+- Custom APIs
+Known Issues:
+- Data synchronization delays
+- High response time during peak periods"
+SYS_0233,INST_33,Small,4197,Research Management,15,601401,43,379,25,4,16,435,302,0.65,1492,4992,63894,Low,None,
+SYS_0234,INST_26,Large,18116,Student Information,13,293581,56,129,5,8,7,251,430,0.71,8491,4682,89676,Medium,Both,"
+System ID: SYS_0234
+Type: Student Information System (SIS)
+Institution: INST_26
+Core Functions:
+- Student enrollment and registration
+- Academic records management
+- Grade processing
+Technical Specifications:
+- System Age: 13 years
+- Code Base: 293581 lines of code
+- Complexity Score: 56
+Performance Metrics:
+- Average Response Time: 251ms
+- Peak Load: 4682 concurrent users
+Integration Points:
+- Banner Integration
+- Canvas Integration
+- Custom APIs
+Known Issues:
+- High response time during peak periods
+- Memory leaks under heavy load"
+SYS_0235,INST_10,Small,4226,Learning Management,5,530033,72,876,33,14,10,922,495,0.59,4513,4162,16266,High,Both,"
+System ID: SYS_0235
+Type: Learning Management System (LMS)
+Institution: INST_10
+Core Functions:
+- Course content management
+- Assignment handling
+- Online assessments
+Technical Specifications:
+- System Age: 5 years
+- Code Base: 530033 lines of code
+- Complexity Score: 72
+Performance Metrics:
+- Average Response Time: 922ms
+- Peak Load: 4162 concurrent users
+Integration Points:
+- Banner Integration
+- Canvas Integration
+- Custom APIs
+Known Issues:
+- Data synchronization delays
+- High response time during peak periods"
+SYS_0236,INST_34,Large,39268,Learning Management,15,956816,31,268,35,5,5,334,210,0.61,2836,4346,26494,Low,FERPA,"
+System ID: SYS_0236
+Type: Learning Management System (LMS)
+Institution: INST_34
+Core Functions:
+- Course content management
+- Assignment handling
+- Online assessments
+Technical Specifications:
+- System Age: 15 years
+- Code Base: 956816 lines of code
+- Complexity Score: 31
+Performance Metrics:
+- Average Response Time: 334ms
+- Peak Load: 4346 concurrent users
+Integration Points:
+- Banner Integration
+- Canvas Integration
+- Custom APIs
+Known Issues:
+- Limited scalability
+- Integration bottlenecks"
+SYS_0237,INST_47,Large,25895,Learning Management,14,350667,52,742,16,18,10,591,406,0.43,823,2466,69913,High,GDPR,"
+System ID: SYS_0237
+Type: Learning Management System (LMS)
+Institution: INST_47
+Core Functions:
+- Course content management
+- Assignment handling
+- Online assessments
+Technical Specifications:
+- System Age: 14 years
+- Code Base: 350667 lines of code
+- Complexity Score: 52
+Performance Metrics:
+- Average Response Time: 591ms
+- Peak Load: 2466 concurrent users
+Integration Points:
+- Banner Integration
+- Canvas Integration
+- Custom APIs
+Known Issues:
+- Memory leaks under heavy load
+- Data synchronization delays"
+SYS_0238,INST_13,Medium,7666,Student Information,12,896584,97,421,19,21,5,849,168,0.52,7638,4108,75366,High,None,"
+System ID: SYS_0238
+Type: Student Information System (SIS)
+Institution: INST_13
+Core Functions:
+- Student enrollment and registration
+- Academic records management
+- Grade processing
+Technical Specifications:
+- System Age: 12 years
+- Code Base: 896584 lines of code
+- Complexity Score: 97
+Performance Metrics:
+- Average Response Time: 849ms
+- Peak Load: 4108 concurrent users
+Integration Points:
+- Banner Integration
+- Canvas Integration
+- Custom APIs
+Known Issues:
+- Integration bottlenecks
+- Memory leaks under heavy load"
+SYS_0239,INST_8,Large,29037,Learning Management,6,345065,71,183,45,29,11,798,221,0.77,1302,4770,18685,Low,FERPA,"
+System ID: SYS_0239
+Type: Learning Management System (LMS)
+Institution: INST_8
+Core Functions:
+- Course content management
+- Assignment handling
+- Online assessments
+Technical Specifications:
+- System Age: 6 years
+- Code Base: 345065 lines of code
+- Complexity Score: 71
+Performance Metrics:
+- Average Response Time: 798ms
+- Peak Load: 4770 concurrent users
+Integration Points:
+- Banner Integration
+- Canvas Integration
+- Custom APIs
+Known Issues:
+- Memory leaks under heavy load
+- Integration bottlenecks"
+SYS_0240,INST_36,Medium,14386,HR,8,268918,31,143,31,7,3,648,100,0.45,991,9405,68097,Medium,None,
+SYS_0241,INST_29,Medium,10839,Learning Management,14,605595,56,470,33,21,12,822,333,0.81,4429,8072,31052,High,Both,"
+System ID: SYS_0241
+Type: Learning Management System (LMS)
+Institution: INST_29
+Core Functions:
+- Course content management
+- Assignment handling
+- Online assessments
+Technical Specifications:
+- System Age: 14 years
+- Code Base: 605595 lines of code
+- Complexity Score: 56
+Performance Metrics:
+- Average Response Time: 822ms
+- Peak Load: 8072 concurrent users
+Integration Points:
+- Banner Integration
+- Canvas Integration
+- Custom APIs
+Known Issues:
+- Memory leaks under heavy load
+- Limited scalability"
+SYS_0242,INST_27,Small,4134,Finance,3,304120,41,310,5,3,4,130,200,0.3,242,4099,56418,Low,None,
+SYS_0243,INST_31,Large,36756,Research Management,5,406604,40,470,45,9,16,269,299,0.79,2744,6979,21270,Medium,FERPA,
+SYS_0244,INST_43,Small,1868,Student Information,13,530416,60,510,9,11,17,522,56,0.75,7487,7530,39199,High,Both,"
+System ID: SYS_0244
+Type: Student Information System (SIS)
+Institution: INST_43
+Core Functions:
+- Student enrollment and registration
+- Academic records management
+- Grade processing
+Technical Specifications:
+- System Age: 13 years
+- Code Base: 530416 lines of code
+- Complexity Score: 60
+Performance Metrics:
+- Average Response Time: 522ms
+- Peak Load: 7530 concurrent users
+Integration Points:
+- Banner Integration
+- Canvas Integration
+- Custom APIs
+Known Issues:
+- Memory leaks under heavy load
+- Integration bottlenecks"
+SYS_0245,INST_34,Large,19846,Learning Management,5,697851,74,837,47,15,19,879,81,0.78,3050,5661,19887,Medium,FERPA,"
+System ID: SYS_0245
+Type: Learning Management System (LMS)
+Institution: INST_34
+Core Functions:
+- Course content management
+- Assignment handling
+- Online assessments
+Technical Specifications:
+- System Age: 5 years
+- Code Base: 697851 lines of code
+- Complexity Score: 74
+Performance Metrics:
+- Average Response Time: 879ms
+- Peak Load: 5661 concurrent users
+Integration Points:
+- Banner Integration
+- Canvas Integration
+- Custom APIs
+Known Issues:
+- Data synchronization delays
+- High response time during peak periods"
+SYS_0246,INST_16,Small,1232,Research Management,7,348422,54,465,6,10,8,403,496,0.37,2795,2253,11403,High,Both,
+SYS_0247,INST_41,Large,21249,Learning Management,14,360827,53,646,33,10,19,251,476,0.61,2521,7316,73085,High,Both,"
+System ID: SYS_0247
+Type: Learning Management System (LMS)
+Institution: INST_41
+Core Functions:
+- Course content management
+- Assignment handling
+- Online assessments
+Technical Specifications:
+- System Age: 14 years
+- Code Base: 360827 lines of code
+- Complexity Score: 53
+Performance Metrics:
+- Average Response Time: 251ms
+- Peak Load: 7316 concurrent users
+Integration Points:
+- Banner Integration
+- Canvas Integration
+- Custom APIs
+Known Issues:
+- Integration bottlenecks
+- Data synchronization delays"
+SYS_0248,INST_43,Large,37147,Learning Management,13,181357,27,373,33,20,8,801,238,0.51,3593,8098,36444,Low,GDPR,"
+System ID: SYS_0248
+Type: Learning Management System (LMS)
+Institution: INST_43
+Core Functions:
+- Course content management
+- Assignment handling
+- Online assessments
+Technical Specifications:
+- System Age: 13 years
+- Code Base: 181357 lines of code
+- Complexity Score: 27
+Performance Metrics:
+- Average Response Time: 801ms
+- Peak Load: 8098 concurrent users
+Integration Points:
+- Banner Integration
+- Canvas Integration
+- Custom APIs
+Known Issues:
+- Memory leaks under heavy load
+- Data synchronization delays"
+SYS_0249,INST_26,Medium,8857,Learning Management,3,664549,80,568,21,4,12,163,216,0.9,2093,1463,65073,Medium,Both,"
+System ID: SYS_0249
+Type: Learning Management System (LMS)
+Institution: INST_26
+Core Functions:
+- Course content management
+- Assignment handling
+- Online assessments
+Technical Specifications:
+- System Age: 3 years
+- Code Base: 664549 lines of code
+- Complexity Score: 80
+Performance Metrics:
+- Average Response Time: 163ms
+- Peak Load: 1463 concurrent users
+Integration Points:
+- Banner Integration
+- Canvas Integration
+- Custom APIs
+Known Issues:
+- Memory leaks under heavy load
+- High response time during peak periods"
+SYS_0250,INST_4,Small,3850,Student Information,4,594912,41,888,17,26,17,980,294,0.78,4315,1628,37605,High,None,"
+System ID: SYS_0250
+Type: Student Information System (SIS)
+Institution: INST_4
+Core Functions:
+- Student enrollment and registration
+- Academic records management
+- Grade processing
+Technical Specifications:
+- System Age: 4 years
+- Code Base: 594912 lines of code
+- Complexity Score: 41
+Performance Metrics:
+- Average Response Time: 980ms
+- Peak Load: 1628 concurrent users
+Integration Points:
+- Banner Integration
+- Canvas Integration
+- Custom APIs
+Known Issues:
+- Data synchronization delays
+- Integration bottlenecks"
+SYS_0251,INST_45,Large,24024,Research Management,12,841969,57,945,48,15,11,876,488,0.48,320,8638,21536,Low,None,
+SYS_0252,INST_2,Small,3150,HR,9,133653,42,215,14,4,8,862,289,0.7,151,9569,99643,Medium,None,
+SYS_0253,INST_46,Large,45783,Research Management,9,442631,36,558,32,27,20,310,137,0.64,1118,2041,75742,Medium,GDPR,
+SYS_0254,INST_41,Small,4801,HR,5,915080,69,159,42,27,20,616,190,0.61,521,2314,72626,High,Both,
+SYS_0255,INST_45,Small,2491,HR,5,839569,40,720,19,3,15,528,120,0.7,951,7592,24571,High,Both,
+SYS_0256,INST_50,Small,3681,Research Management,5,960557,82,927,21,24,19,122,480,0.41,2287,6556,62274,Low,Both,
+SYS_0257,INST_14,Large,23028,Learning Management,8,583853,76,511,12,3,4,155,56,0.57,4343,9105,47296,High,Both,"
+System ID: SYS_0257
+Type: Learning Management System (LMS)
+Institution: INST_14
+Core Functions:
+- Course content management
+- Assignment handling
+- Online assessments
+Technical Specifications:
+- System Age: 8 years
+- Code Base: 583853 lines of code
+- Complexity Score: 76
+Performance Metrics:
+- Average Response Time: 155ms
+- Peak Load: 9105 concurrent users
+Integration Points:
+- Banner Integration
+- Canvas Integration
+- Custom APIs
+Known Issues:
+- High response time during peak periods
+- Limited scalability"
+SYS_0258,INST_46,Large,37958,Learning Management,7,759224,36,162,19,11,9,396,374,0.71,4231,3721,23375,Medium,GDPR,"
+System ID: SYS_0258
+Type: Learning Management System (LMS)
+Institution: INST_46
+Core Functions:
+- Course content management
+- Assignment handling
+- Online assessments
+Technical Specifications:
+- System Age: 7 years
+- Code Base: 759224 lines of code
+- Complexity Score: 36
+Performance Metrics:
+- Average Response Time: 396ms
+- Peak Load: 3721 concurrent users
+Integration Points:
+- Banner Integration
+- Canvas Integration
+- Custom APIs
+Known Issues:
+- High response time during peak periods
+- Integration bottlenecks"
+SYS_0259,INST_5,Large,43902,Learning Management,14,90516,21,729,43,23,14,191,181,0.41,2013,3537,41826,Low,FERPA,"
+System ID: SYS_0259
+Type: Learning Management System (LMS)
+Institution: INST_5
+Core Functions:
+- Course content management
+- Assignment handling
+- Online assessments
+Technical Specifications:
+- System Age: 14 years
+- Code Base: 90516 lines of code
+- Complexity Score: 21
+Performance Metrics:
+- Average Response Time: 191ms
+- Peak Load: 3537 concurrent users
+Integration Points:
+- Banner Integration
+- Canvas Integration
+- Custom APIs
+Known Issues:
+- Integration bottlenecks
+- High response time during peak periods"
+SYS_0260,INST_17,Small,1580,Research Management,15,930380,45,645,17,30,8,550,124,0.81,2724,7757,37257,Medium,Both,
+SYS_0261,INST_2,Medium,6340,Student Information,12,771222,78,576,27,18,9,150,471,0.6,8584,1686,45456,Low,Both,"
+System ID: SYS_0261
+Type: Student Information System (SIS)
+Institution: INST_2
+Core Functions:
+- Student enrollment and registration
+- Academic records management
+- Grade processing
+Technical Specifications:
+- System Age: 12 years
+- Code Base: 771222 lines of code
+- Complexity Score: 78
+Performance Metrics:
+- Average Response Time: 150ms
+- Peak Load: 1686 concurrent users
+Integration Points:
+- Banner Integration
+- Canvas Integration
+- Custom APIs
+Known Issues:
+- Memory leaks under heavy load
+- Limited scalability"
+SYS_0262,INST_12,Small,2013,Learning Management,7,151127,26,337,21,17,4,100,125,0.83,4565,1643,13231,Medium,FERPA,"
+System ID: SYS_0262
+Type: Learning Management System (LMS)
+Institution: INST_12
+Core Functions:
+- Course content management
+- Assignment handling
+- Online assessments
+Technical Specifications:
+- System Age: 7 years
+- Code Base: 151127 lines of code
+- Complexity Score: 26
+Performance Metrics:
+- Average Response Time: 100ms
+- Peak Load: 1643 concurrent users
+Integration Points:
+- Banner Integration
+- Canvas Integration
+- Custom APIs
+Known Issues:
+- Data synchronization delays
+- Integration bottlenecks"
+SYS_0263,INST_24,Large,21314,Learning Management,14,351258,33,493,21,3,15,481,241,0.82,2770,5594,32648,Medium,FERPA,"
+System ID: SYS_0263
+Type: Learning Management System (LMS)
+Institution: INST_24
+Core Functions:
+- Course content management
+- Assignment handling
+- Online assessments
+Technical Specifications:
+- System Age: 14 years
+- Code Base: 351258 lines of code
+- Complexity Score: 33
+Performance Metrics:
+- Average Response Time: 481ms
+- Peak Load: 5594 concurrent users
+Integration Points:
+- Banner Integration
+- Canvas Integration
+- Custom APIs
+Known Issues:
+- Memory leaks under heavy load
+- High response time during peak periods"
+SYS_0264,INST_19,Small,1699,Learning Management,10,443269,44,796,45,17,4,477,91,0.76,4065,3512,27973,Low,Both,"
+System ID: SYS_0264
+Type: Learning Management System (LMS)
+Institution: INST_19
+Core Functions:
+- Course content management
+- Assignment handling
+- Online assessments
+Technical Specifications:
+- System Age: 10 years
+- Code Base: 443269 lines of code
+- Complexity Score: 44
+Performance Metrics:
+- Average Response Time: 477ms
+- Peak Load: 3512 concurrent users
+Integration Points:
+- Banner Integration
+- Canvas Integration
+- Custom APIs
+Known Issues:
+- High response time during peak periods
+- Limited scalability"
+SYS_0265,INST_35,Large,21004,Learning Management,5,458103,56,332,44,4,16,276,184,0.59,982,7683,43046,Low,GDPR,"
+System ID: SYS_0265
+Type: Learning Management System (LMS)
+Institution: INST_35
+Core Functions:
+- Course content management
+- Assignment handling
+- Online assessments
+Technical Specifications:
+- System Age: 5 years
+- Code Base: 458103 lines of code
+- Complexity Score: 56
+Performance Metrics:
+- Average Response Time: 276ms
+- Peak Load: 7683 concurrent users
+Integration Points:
+- Banner Integration
+- Canvas Integration
+- Custom APIs
+Known Issues:
+- Memory leaks under heavy load
+- Data synchronization delays"
+SYS_0266,INST_46,Small,1638,HR,9,51928,33,825,40,20,9,787,55,0.52,730,9842,85628,High,FERPA,
+SYS_0267,INST_34,Medium,5956,Research Management,3,604999,57,484,29,22,17,993,255,0.51,1211,2416,48190,High,FERPA,
+SYS_0268,INST_32,Medium,8167,Student Information,3,827089,51,751,18,3,2,715,131,0.9,5208,5799,49184,Low,GDPR,"
+System ID: SYS_0268
+Type: Student Information System (SIS)
+Institution: INST_32
+Core Functions:
+- Student enrollment and registration
+- Academic records management
+- Grade processing
+Technical Specifications:
+- System Age: 3 years
+- Code Base: 827089 lines of code
+- Complexity Score: 51
+Performance Metrics:
+- Average Response Time: 715ms
+- Peak Load: 5799 concurrent users
+Integration Points:
+- Banner Integration
+- Canvas Integration
+- Custom APIs
+Known Issues:
+- High response time during peak periods
+- Limited scalability"
+SYS_0269,INST_23,Small,4874,HR,9,449201,57,682,11,3,10,855,351,0.78,519,8606,71823,Low,None,
+SYS_0270,INST_12,Large,34283,Learning Management,5,442667,53,314,8,24,16,172,142,0.9,3377,7832,67255,Medium,None,"
+System ID: SYS_0270
+Type: Learning Management System (LMS)
+Institution: INST_12
+Core Functions:
+- Course content management
+- Assignment handling
+- Online assessments
+Technical Specifications:
+- System Age: 5 years
+- Code Base: 442667 lines of code
+- Complexity Score: 53
+Performance Metrics:
+- Average Response Time: 172ms
+- Peak Load: 7832 concurrent users
+Integration Points:
+- Banner Integration
+- Canvas Integration
+- Custom APIs
+Known Issues:
+- Limited scalability
+- High response time during peak periods"
+SYS_0271,INST_25,Large,35877,Student Information,9,764644,49,501,6,24,8,915,126,0.34,7637,3899,40283,High,Both,"
+System ID: SYS_0271
+Type: Student Information System (SIS)
+Institution: INST_25
+Core Functions:
+- Student enrollment and registration
+- Academic records management
+- Grade processing
+Technical Specifications:
+- System Age: 9 years
+- Code Base: 764644 lines of code
+- Complexity Score: 49
+Performance Metrics:
+- Average Response Time: 915ms
+- Peak Load: 3899 concurrent users
+Integration Points:
+- Banner Integration
+- Canvas Integration
+- Custom APIs
+Known Issues:
+- Memory leaks under heavy load
+- High response time during peak periods"
+SYS_0272,INST_8,Medium,5284,HR,9,671942,29,933,16,7,11,958,362,0.75,770,7685,11728,Medium,Both,
+SYS_0273,INST_36,Large,36322,Learning Management,12,640487,71,338,9,15,20,982,490,0.4,2428,9089,60631,Low,GDPR,"
+System ID: SYS_0273
+Type: Learning Management System (LMS)
+Institution: INST_36
+Core Functions:
+- Course content management
+- Assignment handling
+- Online assessments
+Technical Specifications:
+- System Age: 12 years
+- Code Base: 640487 lines of code
+- Complexity Score: 71
+Performance Metrics:
+- Average Response Time: 982ms
+- Peak Load: 9089 concurrent users
+Integration Points:
+- Banner Integration
+- Canvas Integration
+- Custom APIs
+Known Issues:
+- Integration bottlenecks
+- Memory leaks under heavy load"
+SYS_0274,INST_43,Small,1862,Student Information,7,169680,52,540,26,4,8,143,232,0.71,9241,1318,69407,High,Both,"
+System ID: SYS_0274
+Type: Student Information System (SIS)
+Institution: INST_43
+Core Functions:
+- Student enrollment and registration
+- Academic records management
+- Grade processing
+Technical Specifications:
+- System Age: 7 years
+- Code Base: 169680 lines of code
+- Complexity Score: 52
+Performance Metrics:
+- Average Response Time: 143ms
+- Peak Load: 1318 concurrent users
+Integration Points:
+- Banner Integration
+- Canvas Integration
+- Custom APIs
+Known Issues:
+- Limited scalability
+- Integration bottlenecks"
+SYS_0275,INST_49,Large,23758,Student Information,13,469312,90,312,19,16,12,590,118,0.78,3981,1233,51142,High,None,"
+System ID: SYS_0275
+Type: Student Information System (SIS)
+Institution: INST_49
+Core Functions:
+- Student enrollment and registration
+- Academic records management
+- Grade processing
+Technical Specifications:
+- System Age: 13 years
+- Code Base: 469312 lines of code
+- Complexity Score: 90
+Performance Metrics:
+- Average Response Time: 590ms
+- Peak Load: 1233 concurrent users
+Integration Points:
+- Banner Integration
+- Canvas Integration
+- Custom APIs
+Known Issues:
+- Limited scalability
+- High response time during peak periods"
+SYS_0276,INST_6,Small,4346,Student Information,5,893329,94,283,34,30,19,469,97,0.65,9723,6481,63590,High,None,"
+System ID: SYS_0276
+Type: Student Information System (SIS)
+Institution: INST_6
+Core Functions:
+- Student enrollment and registration
+- Academic records management
+- Grade processing
+Technical Specifications:
+- System Age: 5 years
+- Code Base: 893329 lines of code
+- Complexity Score: 94
+Performance Metrics:
+- Average Response Time: 469ms
+- Peak Load: 6481 concurrent users
+Integration Points:
+- Banner Integration
+- Canvas Integration
+- Custom APIs
+Known Issues:
+- Memory leaks under heavy load
+- Integration bottlenecks"
+SYS_0277,INST_49,Medium,14269,Student Information,9,147287,60,206,44,25,7,969,379,0.53,1787,9594,11940,Medium,Both,"
+System ID: SYS_0277
+Type: Student Information System (SIS)
+Institution: INST_49
+Core Functions:
+- Student enrollment and registration
+- Academic records management
+- Grade processing
+Technical Specifications:
+- System Age: 9 years
+- Code Base: 147287 lines of code
+- Complexity Score: 60
+Performance Metrics:
+- Average Response Time: 969ms
+- Peak Load: 9594 concurrent users
+Integration Points:
+- Banner Integration
+- Canvas Integration
+- Custom APIs
+Known Issues:
+- High response time during peak periods
+- Limited scalability"
+SYS_0278,INST_31,Medium,9339,Student Information,4,238716,71,252,44,15,17,727,344,0.54,5526,3998,35088,Medium,Both,"
+System ID: SYS_0278
+Type: Student Information System (SIS)
+Institution: INST_31
+Core Functions:
+- Student enrollment and registration
+- Academic records management
+- Grade processing
+Technical Specifications:
+- System Age: 4 years
+- Code Base: 238716 lines of code
+- Complexity Score: 71
+Performance Metrics:
+- Average Response Time: 727ms
+- Peak Load: 3998 concurrent users
+Integration Points:
+- Banner Integration
+- Canvas Integration
+- Custom APIs
+Known Issues:
+- Limited scalability
+- Memory leaks under heavy load"
+SYS_0279,INST_35,Small,2177,HR,13,610130,36,237,28,15,18,157,449,0.38,480,9453,41864,Medium,GDPR,
+SYS_0280,INST_27,Medium,10312,Research Management,8,520774,52,140,34,22,13,127,449,0.76,699,6633,31490,Medium,Both,
+SYS_0281,INST_44,Large,19792,Finance,6,589859,73,305,34,9,9,201,154,0.4,1090,9767,43265,Low,Both,
+SYS_0282,INST_10,Medium,6149,HR,6,499701,65,848,15,6,17,192,157,0.7,598,7877,32408,Medium,GDPR,
+SYS_0283,INST_26,Medium,14209,Finance,9,675753,72,358,43,4,5,203,277,0.34,640,5933,24661,Low,None,
+SYS_0284,INST_38,Medium,11315,Finance,6,457586,85,582,30,25,15,327,417,0.79,1666,8565,51972,Low,FERPA,
+SYS_0285,INST_12,Large,27326,HR,3,213702,59,121,8,13,17,392,337,0.88,848,1906,77768,Medium,GDPR,
+SYS_0286,INST_1,Large,16959,Learning Management,4,180481,36,779,47,27,20,705,247,0.68,3552,9210,25024,High,GDPR,"
+System ID: SYS_0286
+Type: Learning Management System (LMS)
+Institution: INST_1
+Core Functions:
+- Course content management
+- Assignment handling
+- Online assessments
+Technical Specifications:
+- System Age: 4 years
+- Code Base: 180481 lines of code
+- Complexity Score: 36
+Performance Metrics:
+- Average Response Time: 705ms
+- Peak Load: 9210 concurrent users
+Integration Points:
+- Banner Integration
+- Canvas Integration
+- Custom APIs
+Known Issues:
+- Integration bottlenecks
+- Limited scalability"
+SYS_0287,INST_25,Small,4840,Research Management,11,835149,64,927,29,19,19,729,248,0.69,462,5473,34185,Low,Both,
+SYS_0288,INST_9,Medium,6569,Student Information,13,188802,72,178,17,26,11,480,182,0.35,5402,9662,23388,Low,None,"
+System ID: SYS_0288
+Type: Student Information System (SIS)
+Institution: INST_9
+Core Functions:
+- Student enrollment and registration
+- Academic records management
+- Grade processing
+Technical Specifications:
+- System Age: 13 years
+- Code Base: 188802 lines of code
+- Complexity Score: 72
+Performance Metrics:
+- Average Response Time: 480ms
+- Peak Load: 9662 concurrent users
+Integration Points:
+- Banner Integration
+- Canvas Integration
+- Custom APIs
+Known Issues:
+- Memory leaks under heavy load
+- Integration bottlenecks"
+SYS_0289,INST_45,Small,3726,Learning Management,14,197343,33,421,29,4,15,331,347,0.48,4536,4950,48293,Medium,None,"
+System ID: SYS_0289
+Type: Learning Management System (LMS)
+Institution: INST_45
+Core Functions:
+- Course content management
+- Assignment handling
+- Online assessments
+Technical Specifications:
+- System Age: 14 years
+- Code Base: 197343 lines of code
+- Complexity Score: 33
+Performance Metrics:
+- Average Response Time: 331ms
+- Peak Load: 4950 concurrent users
+Integration Points:
+- Banner Integration
+- Canvas Integration
+- Custom APIs
+Known Issues:
+- High response time during peak periods
+- Limited scalability"
+SYS_0290,INST_24,Large,40000,Learning Management,7,640729,45,184,6,6,19,813,316,0.88,3167,5508,13573,High,Both,"
+System ID: SYS_0290
+Type: Learning Management System (LMS)
+Institution: INST_24
+Core Functions:
+- Course content management
+- Assignment handling
+- Online assessments
+Technical Specifications:
+- System Age: 7 years
+- Code Base: 640729 lines of code
+- Complexity Score: 45
+Performance Metrics:
+- Average Response Time: 813ms
+- Peak Load: 5508 concurrent users
+Integration Points:
+- Banner Integration
+- Canvas Integration
+- Custom APIs
+Known Issues:
+- High response time during peak periods
+- Memory leaks under heavy load"
+SYS_0291,INST_16,Large,16776,Research Management,5,72901,70,388,8,12,5,459,478,0.84,454,2829,69889,High,Both,
+SYS_0292,INST_26,Medium,14353,Student Information,13,475249,53,235,10,30,7,913,332,0.42,9770,3431,98761,High,Both,"
+System ID: SYS_0292
+Type: Student Information System (SIS)
+Institution: INST_26
+Core Functions:
+- Student enrollment and registration
+- Academic records management
+- Grade processing
+Technical Specifications:
+- System Age: 13 years
+- Code Base: 475249 lines of code
+- Complexity Score: 53
+Performance Metrics:
+- Average Response Time: 913ms
+- Peak Load: 3431 concurrent users
+Integration Points:
+- Banner Integration
+- Canvas Integration
+- Custom APIs
+Known Issues:
+- Memory leaks under heavy load
+- Integration bottlenecks"
+SYS_0293,INST_26,Large,43824,Research Management,7,512487,37,141,39,6,6,657,348,0.86,1876,5395,36124,Low,None,
+SYS_0294,INST_22,Medium,5925,Research Management,4,551893,47,988,41,7,10,490,406,0.53,2046,5163,62662,High,None,
+SYS_0295,INST_8,Large,47400,Student Information,11,609169,30,130,22,23,19,621,421,0.36,4038,2637,74966,High,None,"
+System ID: SYS_0295
+Type: Student Information System (SIS)
+Institution: INST_8
+Core Functions:
+- Student enrollment and registration
+- Academic records management
+- Grade processing
+Technical Specifications:
+- System Age: 11 years
+- Code Base: 609169 lines of code
+- Complexity Score: 30
+Performance Metrics:
+- Average Response Time: 621ms
+- Peak Load: 2637 concurrent users
+Integration Points:
+- Banner Integration
+- Canvas Integration
+- Custom APIs
+Known Issues:
+- High response time during peak periods
+- Memory leaks under heavy load"
+SYS_0296,INST_8,Medium,11285,Student Information,3,980656,53,556,12,20,14,822,498,0.49,5963,1005,48898,Low,GDPR,"
+System ID: SYS_0296
+Type: Student Information System (SIS)
+Institution: INST_8
+Core Functions:
+- Student enrollment and registration
+- Academic records management
+- Grade processing
+Technical Specifications:
+- System Age: 3 years
+- Code Base: 980656 lines of code
+- Complexity Score: 53
+Performance Metrics:
+- Average Response Time: 822ms
+- Peak Load: 1005 concurrent users
+Integration Points:
+- Banner Integration
+- Canvas Integration
+- Custom APIs
+Known Issues:
+- High response time during peak periods
+- Limited scalability"
+SYS_0297,INST_12,Large,41522,Student Information,10,128349,48,183,23,6,17,371,334,0.54,3721,2141,84050,Medium,FERPA,"
+System ID: SYS_0297
+Type: Student Information System (SIS)
+Institution: INST_12
+Core Functions:
+- Student enrollment and registration
+- Academic records management
+- Grade processing
+Technical Specifications:
+- System Age: 10 years
+- Code Base: 128349 lines of code
+- Complexity Score: 48
+Performance Metrics:
+- Average Response Time: 371ms
+- Peak Load: 2141 concurrent users
+Integration Points:
+- Banner Integration
+- Canvas Integration
+- Custom APIs
+Known Issues:
+- High response time during peak periods
+- Integration bottlenecks"
+SYS_0298,INST_18,Large,19503,Finance,12,456407,75,332,11,9,2,919,232,0.35,1940,9970,68945,Low,FERPA,
+SYS_0299,INST_50,Small,2510,HR,5,813914,66,472,49,4,11,549,358,0.89,174,3035,28526,High,FERPA,
+SYS_0300,INST_35,Large,20703,Learning Management,10,448583,46,740,32,9,5,837,352,0.85,1666,9172,19622,High,FERPA,"
+System ID: SYS_0300
+Type: Learning Management System (LMS)
+Institution: INST_35
+Core Functions:
+- Course content management
+- Assignment handling
+- Online assessments
+Technical Specifications:
+- System Age: 10 years
+- Code Base: 448583 lines of code
+- Complexity Score: 46
+Performance Metrics:
+- Average Response Time: 837ms
+- Peak Load: 9172 concurrent users
+Integration Points:
+- Banner Integration
+- Canvas Integration
+- Custom APIs
+Known Issues:
+- Limited scalability
+- Data synchronization delays"
+SYS_0301,INST_48,Large,30310,Finance,9,556907,58,630,30,25,7,830,400,0.88,256,5477,88595,High,None,
+SYS_0302,INST_10,Large,22799,Finance,15,685079,45,219,42,3,19,151,327,0.66,1890,3211,46474,Medium,FERPA,
+SYS_0303,INST_14,Medium,14999,Student Information,5,498563,41,704,35,16,11,557,430,0.32,6140,3018,72999,Low,GDPR,"
+System ID: SYS_0303
+Type: Student Information System (SIS)
+Institution: INST_14
+Core Functions:
+- Student enrollment and registration
+- Academic records management
+- Grade processing
+Technical Specifications:
+- System Age: 5 years
+- Code Base: 498563 lines of code
+- Complexity Score: 41
+Performance Metrics:
+- Average Response Time: 557ms
+- Peak Load: 3018 concurrent users
+Integration Points:
+- Banner Integration
+- Canvas Integration
+- Custom APIs
+Known Issues:
+- Limited scalability
+- High response time during peak periods"
+SYS_0304,INST_50,Large,47686,Learning Management,9,758604,42,635,45,6,19,661,281,0.59,4963,2433,46689,Medium,None,"
+System ID: SYS_0304
+Type: Learning Management System (LMS)
+Institution: INST_50
+Core Functions:
+- Course content management
+- Assignment handling
+- Online assessments
+Technical Specifications:
+- System Age: 9 years
+- Code Base: 758604 lines of code
+- Complexity Score: 42
+Performance Metrics:
+- Average Response Time: 661ms
+- Peak Load: 2433 concurrent users
+Integration Points:
+- Banner Integration
+- Canvas Integration
+- Custom APIs
+Known Issues:
+- Memory leaks under heavy load
+- Limited scalability"
+SYS_0305,INST_47,Large,38465,HR,12,418622,45,204,25,6,14,284,411,0.86,334,2117,55056,Medium,None,
+SYS_0306,INST_25,Medium,5769,Finance,14,392203,65,447,32,18,19,723,133,0.75,437,3883,60169,High,None,
+SYS_0307,INST_6,Medium,5079,Learning Management,14,288667,51,620,22,10,4,967,275,0.42,2865,1625,11014,Low,Both,"
+System ID: SYS_0307
+Type: Learning Management System (LMS)
+Institution: INST_6
+Core Functions:
+- Course content management
+- Assignment handling
+- Online assessments
+Technical Specifications:
+- System Age: 14 years
+- Code Base: 288667 lines of code
+- Complexity Score: 51
+Performance Metrics:
+- Average Response Time: 967ms
+- Peak Load: 1625 concurrent users
+Integration Points:
+- Banner Integration
+- Canvas Integration
+- Custom APIs
+Known Issues:
+- Memory leaks under heavy load
+- High response time during peak periods"
+SYS_0308,INST_14,Small,2493,Learning Management,8,241325,38,630,37,22,9,950,174,0.37,3770,9493,12571,Medium,Both,"
+System ID: SYS_0308
+Type: Learning Management System (LMS)
+Institution: INST_14
+Core Functions:
+- Course content management
+- Assignment handling
+- Online assessments
+Technical Specifications:
+- System Age: 8 years
+- Code Base: 241325 lines of code
+- Complexity Score: 38
+Performance Metrics:
+- Average Response Time: 950ms
+- Peak Load: 9493 concurrent users
+Integration Points:
+- Banner Integration
+- Canvas Integration
+- Custom APIs
+Known Issues:
+- Integration bottlenecks
+- Memory leaks under heavy load"
+SYS_0309,INST_2,Medium,9778,Student Information,12,284755,70,106,50,6,17,993,224,0.61,2603,9889,14384,Medium,None,"
+System ID: SYS_0309
+Type: Student Information System (SIS)
+Institution: INST_2
+Core Functions:
+- Student enrollment and registration
+- Academic records management
+- Grade processing
+Technical Specifications:
+- System Age: 12 years
+- Code Base: 284755 lines of code
+- Complexity Score: 70
+Performance Metrics:
+- Average Response Time: 993ms
+- Peak Load: 9889 concurrent users
+Integration Points:
+- Banner Integration
+- Canvas Integration
+- Custom APIs
+Known Issues:
+- Data synchronization delays
+- Integration bottlenecks"
+SYS_0310,INST_50,Large,36170,Finance,3,228014,89,284,23,25,20,323,372,0.89,496,2384,81344,Medium,None,
+SYS_0311,INST_34,Medium,10561,Finance,8,61488,65,104,31,30,6,952,152,0.61,335,6073,76969,High,GDPR,
+SYS_0312,INST_37,Large,44396,Finance,9,99508,69,837,39,4,16,747,204,0.46,836,9551,49510,Medium,FERPA,
+SYS_0313,INST_16,Medium,14860,HR,6,538155,58,497,46,28,2,690,108,0.43,443,4539,12107,Low,None,
+SYS_0314,INST_20,Large,45001,Research Management,4,836178,63,771,38,15,11,155,312,0.38,2027,5161,18385,Medium,GDPR,
+SYS_0315,INST_43,Large,48552,Student Information,14,401859,79,197,23,9,17,165,488,0.34,6348,8466,24043,Medium,Both,"
+System ID: SYS_0315
+Type: Student Information System (SIS)
+Institution: INST_43
+Core Functions:
+- Student enrollment and registration
+- Academic records management
+- Grade processing
+Technical Specifications:
+- System Age: 14 years
+- Code Base: 401859 lines of code
+- Complexity Score: 79
+Performance Metrics:
+- Average Response Time: 165ms
+- Peak Load: 8466 concurrent users
+Integration Points:
+- Banner Integration
+- Canvas Integration
+- Custom APIs
+Known Issues:
+- Memory leaks under heavy load
+- Integration bottlenecks"
+SYS_0316,INST_16,Small,3578,Finance,7,784455,73,976,26,21,3,518,297,0.6,889,8715,74441,High,GDPR,
+SYS_0317,INST_12,Small,2786,Student Information,6,751193,33,333,32,17,2,590,176,0.4,3451,4981,90179,Low,None,"
+System ID: SYS_0317
+Type: Student Information System (SIS)
+Institution: INST_12
+Core Functions:
+- Student enrollment and registration
+- Academic records management
+- Grade processing
+Technical Specifications:
+- System Age: 6 years
+- Code Base: 751193 lines of code
+- Complexity Score: 33
+Performance Metrics:
+- Average Response Time: 590ms
+- Peak Load: 4981 concurrent users
+Integration Points:
+- Banner Integration
+- Canvas Integration
+- Custom APIs
+Known Issues:
+- Data synchronization delays
+- High response time during peak periods"
+SYS_0318,INST_17,Small,1868,HR,13,184904,31,826,31,4,5,139,235,0.47,812,9641,70271,Low,FERPA,
+SYS_0319,INST_25,Small,2410,Research Management,7,185653,62,648,8,25,11,243,115,0.72,2103,7970,26128,Low,GDPR,
+SYS_0320,INST_42,Large,24783,Finance,7,487611,72,741,6,7,16,941,141,0.59,208,5818,30485,High,None,
+SYS_0321,INST_49,Large,48298,Research Management,8,252575,83,949,10,18,5,170,424,0.68,1036,8477,67479,Medium,None,
+SYS_0322,INST_42,Large,47129,Research Management,11,505760,35,177,19,25,14,788,399,0.4,2285,1402,65005,High,None,
+SYS_0323,INST_6,Large,47637,HR,7,983531,44,862,11,16,15,444,185,0.53,420,3049,18288,Medium,None,
+SYS_0324,INST_5,Small,2756,Finance,8,693212,41,680,23,16,14,566,431,0.54,1271,2768,89808,Low,GDPR,
+SYS_0325,INST_17,Large,34229,Student Information,5,238066,81,430,49,21,11,189,141,0.51,7009,2496,99261,Medium,Both,"
+System ID: SYS_0325
+Type: Student Information System (SIS)
+Institution: INST_17
+Core Functions:
+- Student enrollment and registration
+- Academic records management
+- Grade processing
+Technical Specifications:
+- System Age: 5 years
+- Code Base: 238066 lines of code
+- Complexity Score: 81
+Performance Metrics:
+- Average Response Time: 189ms
+- Peak Load: 2496 concurrent users
+Integration Points:
+- Banner Integration
+- Canvas Integration
+- Custom APIs
+Known Issues:
+- Data synchronization delays
+- Limited scalability"
+SYS_0326,INST_19,Medium,12292,Learning Management,13,151610,72,538,43,25,2,498,317,0.5,3574,2151,56266,Low,None,"
+System ID: SYS_0326
+Type: Learning Management System (LMS)
+Institution: INST_19
+Core Functions:
+- Course content management
+- Assignment handling
+- Online assessments
+Technical Specifications:
+- System Age: 13 years
+- Code Base: 151610 lines of code
+- Complexity Score: 72
+Performance Metrics:
+- Average Response Time: 498ms
+- Peak Load: 2151 concurrent users
+Integration Points:
+- Banner Integration
+- Canvas Integration
+- Custom APIs
+Known Issues:
+- Integration bottlenecks
+- Limited scalability"
+SYS_0327,INST_2,Large,34563,Student Information,6,534211,89,795,23,7,6,178,454,0.47,2716,2949,37587,Medium,None,"
+System ID: SYS_0327
+Type: Student Information System (SIS)
+Institution: INST_2
+Core Functions:
+- Student enrollment and registration
+- Academic records management
+- Grade processing
+Technical Specifications:
+- System Age: 6 years
+- Code Base: 534211 lines of code
+- Complexity Score: 89
+Performance Metrics:
+- Average Response Time: 178ms
+- Peak Load: 2949 concurrent users
+Integration Points:
+- Banner Integration
+- Canvas Integration
+- Custom APIs
+Known Issues:
+- Integration bottlenecks
+- Data synchronization delays"
+SYS_0328,INST_27,Small,4478,Student Information,8,509938,80,100,22,21,13,399,116,0.52,6924,1156,91153,Low,FERPA,"
+System ID: SYS_0328
+Type: Student Information System (SIS)
+Institution: INST_27
+Core Functions:
+- Student enrollment and registration
+- Academic records management
+- Grade processing
+Technical Specifications:
+- System Age: 8 years
+- Code Base: 509938 lines of code
+- Complexity Score: 80
+Performance Metrics:
+- Average Response Time: 399ms
+- Peak Load: 1156 concurrent users
+Integration Points:
+- Banner Integration
+- Canvas Integration
+- Custom APIs
+Known Issues:
+- Memory leaks under heavy load
+- Data synchronization delays"
+SYS_0329,INST_42,Small,3276,Finance,3,980951,50,502,46,19,19,723,357,0.55,1690,2609,80944,Low,FERPA,
+SYS_0330,INST_40,Small,2925,Research Management,4,825007,62,758,28,25,4,462,100,0.61,997,5899,47107,High,FERPA,
+SYS_0331,INST_5,Medium,9553,Finance,3,883355,40,835,48,7,19,868,259,0.67,1031,2373,49931,Low,None,
+SYS_0332,INST_12,Small,4425,HR,4,301427,26,548,31,27,20,234,340,0.53,849,8448,80625,Low,FERPA,
+SYS_0333,INST_32,Small,4334,HR,8,484934,30,306,23,22,17,621,458,0.8,334,3484,87879,Low,GDPR,
+SYS_0334,INST_36,Small,2962,HR,5,717679,44,436,31,3,10,360,458,0.53,119,6549,52229,High,None,
+SYS_0335,INST_38,Medium,14476,Finance,6,211139,86,903,16,24,18,686,222,0.8,981,2162,45381,Medium,Both,
+SYS_0336,INST_16,Small,4238,Learning Management,9,990163,80,177,18,10,9,631,401,0.36,2791,6562,95191,Medium,Both,"
+System ID: SYS_0336
+Type: Learning Management System (LMS)
+Institution: INST_16
+Core Functions:
+- Course content management
+- Assignment handling
+- Online assessments
+Technical Specifications:
+- System Age: 9 years
+- Code Base: 990163 lines of code
+- Complexity Score: 80
+Performance Metrics:
+- Average Response Time: 631ms
+- Peak Load: 6562 concurrent users
+Integration Points:
+- Banner Integration
+- Canvas Integration
+- Custom APIs
+Known Issues:
+- Limited scalability
+- Memory leaks under heavy load"
+SYS_0337,INST_1,Large,15476,Finance,8,484440,79,981,14,8,15,690,255,0.89,417,3656,22237,High,FERPA,
+SYS_0338,INST_24,Medium,8189,Finance,15,840537,54,514,45,20,9,274,161,0.53,1122,6901,73177,Medium,Both,
+SYS_0339,INST_45,Small,1655,Student Information,6,83423,96,497,18,22,5,567,327,0.65,2027,9741,87251,Medium,GDPR,"
+System ID: SYS_0339
+Type: Student Information System (SIS)
+Institution: INST_45
+Core Functions:
+- Student enrollment and registration
+- Academic records management
+- Grade processing
+Technical Specifications:
+- System Age: 6 years
+- Code Base: 83423 lines of code
+- Complexity Score: 96
+Performance Metrics:
+- Average Response Time: 567ms
+- Peak Load: 9741 concurrent users
+Integration Points:
+- Banner Integration
+- Canvas Integration
+- Custom APIs
+Known Issues:
+- Memory leaks under heavy load
+- Integration bottlenecks"
+SYS_0340,INST_48,Medium,6313,Learning Management,12,832481,34,385,28,29,20,757,171,0.42,3402,8055,10976,High,Both,"
+System ID: SYS_0340
+Type: Learning Management System (LMS)
+Institution: INST_48
+Core Functions:
+- Course content management
+- Assignment handling
+- Online assessments
+Technical Specifications:
+- System Age: 12 years
+- Code Base: 832481 lines of code
+- Complexity Score: 34
+Performance Metrics:
+- Average Response Time: 757ms
+- Peak Load: 8055 concurrent users
+Integration Points:
+- Banner Integration
+- Canvas Integration
+- Custom APIs
+Known Issues:
+- Memory leaks under heavy load
+- Limited scalability"
+SYS_0341,INST_23,Medium,5920,HR,9,595281,45,549,5,5,13,923,389,0.81,833,5940,88316,High,GDPR,
+SYS_0342,INST_3,Small,2298,Learning Management,11,473928,59,908,43,4,15,553,182,0.45,3887,4342,19187,Medium,FERPA,"
+System ID: SYS_0342
+Type: Learning Management System (LMS)
+Institution: INST_3
+Core Functions:
+- Course content management
+- Assignment handling
+- Online assessments
+Technical Specifications:
+- System Age: 11 years
+- Code Base: 473928 lines of code
+- Complexity Score: 59
+Performance Metrics:
+- Average Response Time: 553ms
+- Peak Load: 4342 concurrent users
+Integration Points:
+- Banner Integration
+- Canvas Integration
+- Custom APIs
+Known Issues:
+- Data synchronization delays
+- Limited scalability"
+SYS_0343,INST_49,Large,33221,Student Information,15,602431,86,169,46,14,7,507,111,0.68,2267,8777,98462,High,GDPR,"
+System ID: SYS_0343
+Type: Student Information System (SIS)
+Institution: INST_49
+Core Functions:
+- Student enrollment and registration
+- Academic records management
+- Grade processing
+Technical Specifications:
+- System Age: 15 years
+- Code Base: 602431 lines of code
+- Complexity Score: 86
+Performance Metrics:
+- Average Response Time: 507ms
+- Peak Load: 8777 concurrent users
+Integration Points:
+- Banner Integration
+- Canvas Integration
+- Custom APIs
+Known Issues:
+- Data synchronization delays
+- Integration bottlenecks"
+SYS_0344,INST_42,Large,40615,Student Information,14,131641,48,626,47,24,4,476,429,0.79,7101,6352,17363,High,FERPA,"
+System ID: SYS_0344
+Type: Student Information System (SIS)
+Institution: INST_42
+Core Functions:
+- Student enrollment and registration
+- Academic records management
+- Grade processing
+Technical Specifications:
+- System Age: 14 years
+- Code Base: 131641 lines of code
+- Complexity Score: 48
+Performance Metrics:
+- Average Response Time: 476ms
+- Peak Load: 6352 concurrent users
+Integration Points:
+- Banner Integration
+- Canvas Integration
+- Custom APIs
+Known Issues:
+- Integration bottlenecks
+- High response time during peak periods"
+SYS_0345,INST_47,Large,47061,Learning Management,11,288730,35,327,22,15,5,962,376,0.84,2298,6517,49497,Medium,Both,"
+System ID: SYS_0345
+Type: Learning Management System (LMS)
+Institution: INST_47
+Core Functions:
+- Course content management
+- Assignment handling
+- Online assessments
+Technical Specifications:
+- System Age: 11 years
+- Code Base: 288730 lines of code
+- Complexity Score: 35
+Performance Metrics:
+- Average Response Time: 962ms
+- Peak Load: 6517 concurrent users
+Integration Points:
+- Banner Integration
+- Canvas Integration
+- Custom APIs
+Known Issues:
+- Limited scalability
+- Integration bottlenecks"
+SYS_0346,INST_40,Large,20005,HR,14,959540,42,238,28,28,10,901,466,0.56,901,3384,20725,Medium,FERPA,
+SYS_0347,INST_20,Large,27543,Student Information,7,512307,89,988,15,9,19,662,376,0.38,7271,8739,28160,Medium,GDPR,"
+System ID: SYS_0347
+Type: Student Information System (SIS)
+Institution: INST_20
+Core Functions:
+- Student enrollment and registration
+- Academic records management
+- Grade processing
+Technical Specifications:
+- System Age: 7 years
+- Code Base: 512307 lines of code
+- Complexity Score: 89
+Performance Metrics:
+- Average Response Time: 662ms
+- Peak Load: 8739 concurrent users
+Integration Points:
+- Banner Integration
+- Canvas Integration
+- Custom APIs
+Known Issues:
+- High response time during peak periods
+- Data synchronization delays"
+SYS_0348,INST_14,Large,30877,Research Management,3,304385,38,330,50,11,14,425,75,0.9,1723,1702,57920,Medium,None,
+SYS_0349,INST_16,Medium,5137,Finance,8,623096,76,695,22,6,16,344,309,0.48,517,5428,99025,High,GDPR,
+SYS_0350,INST_12,Medium,14256,HR,11,168098,39,357,6,14,15,432,381,0.64,394,9112,72490,Low,FERPA,
+SYS_0351,INST_46,Large,22526,HR,3,559983,43,121,14,22,16,663,173,0.63,851,1758,18925,Medium,GDPR,
+SYS_0352,INST_15,Medium,5494,Research Management,9,212122,67,943,49,27,20,481,296,0.59,556,9567,91011,Low,Both,
+SYS_0353,INST_15,Small,3536,Student Information,4,375688,64,532,5,4,4,560,81,0.53,7075,4751,68967,Medium,Both,"
+System ID: SYS_0353
+Type: Student Information System (SIS)
+Institution: INST_15
+Core Functions:
+- Student enrollment and registration
+- Academic records management
+- Grade processing
+Technical Specifications:
+- System Age: 4 years
+- Code Base: 375688 lines of code
+- Complexity Score: 64
+Performance Metrics:
+- Average Response Time: 560ms
+- Peak Load: 4751 concurrent users
+Integration Points:
+- Banner Integration
+- Canvas Integration
+- Custom APIs
+Known Issues:
+- Integration bottlenecks
+- High response time during peak periods"
+SYS_0354,INST_40,Small,4517,Research Management,9,792076,72,967,34,7,14,977,277,0.71,2014,6908,76709,High,FERPA,
+SYS_0355,INST_25,Medium,13658,Research Management,10,263941,84,289,43,11,6,865,132,0.39,2886,6481,14386,Low,Both,
+SYS_0356,INST_21,Large,26972,Finance,8,482033,71,356,19,29,9,918,264,0.71,224,2596,75206,Medium,None,
+SYS_0357,INST_50,Large,37294,Student Information,9,801948,31,669,23,19,14,967,389,0.84,4047,9500,26189,Low,FERPA,"
+System ID: SYS_0357
+Type: Student Information System (SIS)
+Institution: INST_50
+Core Functions:
+- Student enrollment and registration
+- Academic records management
+- Grade processing
+Technical Specifications:
+- System Age: 9 years
+- Code Base: 801948 lines of code
+- Complexity Score: 31
+Performance Metrics:
+- Average Response Time: 967ms
+- Peak Load: 9500 concurrent users
+Integration Points:
+- Banner Integration
+- Canvas Integration
+- Custom APIs
+Known Issues:
+- Data synchronization delays
+- Limited scalability"
+SYS_0358,INST_37,Small,4382,Research Management,3,893598,42,637,25,21,6,488,316,0.38,1903,2348,96316,Low,Both,
+SYS_0359,INST_11,Small,2036,Student Information,8,97314,68,246,15,28,19,690,245,0.79,8143,4546,77249,Low,None,"
+System ID: SYS_0359
+Type: Student Information System (SIS)
+Institution: INST_11
+Core Functions:
+- Student enrollment and registration
+- Academic records management
+- Grade processing
+Technical Specifications:
+- System Age: 8 years
+- Code Base: 97314 lines of code
+- Complexity Score: 68
+Performance Metrics:
+- Average Response Time: 690ms
+- Peak Load: 4546 concurrent users
+Integration Points:
+- Banner Integration
+- Canvas Integration
+- Custom APIs
+Known Issues:
+- High response time during peak periods
+- Limited scalability"
+SYS_0360,INST_36,Small,4067,Learning Management,13,387611,35,760,36,14,15,750,482,0.67,4693,2793,31530,Medium,FERPA,"
+System ID: SYS_0360
+Type: Learning Management System (LMS)
+Institution: INST_36
+Core Functions:
+- Course content management
+- Assignment handling
+- Online assessments
+Technical Specifications:
+- System Age: 13 years
+- Code Base: 387611 lines of code
+- Complexity Score: 35
+Performance Metrics:
+- Average Response Time: 750ms
+- Peak Load: 2793 concurrent users
+Integration Points:
+- Banner Integration
+- Canvas Integration
+- Custom APIs
+Known Issues:
+- Data synchronization delays
+- Integration bottlenecks"
+SYS_0361,INST_15,Small,4583,Learning Management,15,962281,48,339,7,6,20,769,470,0.62,2023,7594,60332,High,GDPR,"
+System ID: SYS_0361
+Type: Learning Management System (LMS)
+Institution: INST_15
+Core Functions:
+- Course content management
+- Assignment handling
+- Online assessments
+Technical Specifications:
+- System Age: 15 years
+- Code Base: 962281 lines of code
+- Complexity Score: 48
+Performance Metrics:
+- Average Response Time: 769ms
+- Peak Load: 7594 concurrent users
+Integration Points:
+- Banner Integration
+- Canvas Integration
+- Custom APIs
+Known Issues:
+- Integration bottlenecks
+- Memory leaks under heavy load"
+SYS_0362,INST_3,Large,28781,Research Management,15,602962,60,974,27,14,14,958,244,0.83,2671,6712,68555,High,FERPA,
+SYS_0363,INST_11,Large,46167,HR,11,554171,31,749,14,22,10,873,250,0.52,857,5350,71012,Low,Both,
+SYS_0364,INST_18,Large,18623,Student Information,10,700490,94,984,32,5,18,885,204,0.68,6551,7736,87010,High,FERPA,"
+System ID: SYS_0364
+Type: Student Information System (SIS)
+Institution: INST_18
+Core Functions:
+- Student enrollment and registration
+- Academic records management
+- Grade processing
+Technical Specifications:
+- System Age: 10 years
+- Code Base: 700490 lines of code
+- Complexity Score: 94
+Performance Metrics:
+- Average Response Time: 885ms
+- Peak Load: 7736 concurrent users
+Integration Points:
+- Banner Integration
+- Canvas Integration
+- Custom APIs
+Known Issues:
+- Limited scalability
+- High response time during peak periods"
+SYS_0365,INST_41,Medium,12639,Student Information,12,795559,55,797,29,12,4,855,309,0.87,8559,1810,88288,Medium,GDPR,"
+System ID: SYS_0365
+Type: Student Information System (SIS)
+Institution: INST_41
+Core Functions:
+- Student enrollment and registration
+- Academic records management
+- Grade processing
+Technical Specifications:
+- System Age: 12 years
+- Code Base: 795559 lines of code
+- Complexity Score: 55
+Performance Metrics:
+- Average Response Time: 855ms
+- Peak Load: 1810 concurrent users
+Integration Points:
+- Banner Integration
+- Canvas Integration
+- Custom APIs
+Known Issues:
+- Memory leaks under heavy load
+- Limited scalability"
+SYS_0366,INST_4,Medium,10574,Learning Management,5,277345,76,221,42,9,19,696,174,0.83,554,2762,69440,High,GDPR,"
+System ID: SYS_0366
+Type: Learning Management System (LMS)
+Institution: INST_4
+Core Functions:
+- Course content management
+- Assignment handling
+- Online assessments
+Technical Specifications:
+- System Age: 5 years
+- Code Base: 277345 lines of code
+- Complexity Score: 76
+Performance Metrics:
+- Average Response Time: 696ms
+- Peak Load: 2762 concurrent users
+Integration Points:
+- Banner Integration
+- Canvas Integration
+- Custom APIs
+Known Issues:
+- Integration bottlenecks
+- High response time during peak periods"
+SYS_0367,INST_25,Large,27617,Finance,4,639395,86,119,26,3,5,716,217,0.6,1645,9019,98181,Low,None,
+SYS_0368,INST_43,Small,1481,Research Management,8,652719,81,812,37,28,15,950,219,0.78,2765,3984,16457,Low,GDPR,
+SYS_0369,INST_19,Medium,10559,Student Information,15,691104,80,781,33,21,6,818,183,0.76,8660,9875,92160,Low,GDPR,"
+System ID: SYS_0369
+Type: Student Information System (SIS)
+Institution: INST_19
+Core Functions:
+- Student enrollment and registration
+- Academic records management
+- Grade processing
+Technical Specifications:
+- System Age: 15 years
+- Code Base: 691104 lines of code
+- Complexity Score: 80
+Performance Metrics:
+- Average Response Time: 818ms
+- Peak Load: 9875 concurrent users
+Integration Points:
+- Banner Integration
+- Canvas Integration
+- Custom APIs
+Known Issues:
+- Integration bottlenecks
+- Data synchronization delays"
+SYS_0370,INST_36,Medium,9804,HR,13,661418,36,539,9,16,16,527,162,0.8,461,7255,43052,Low,FERPA,
+SYS_0371,INST_18,Medium,6908,Research Management,8,457012,73,484,35,12,3,540,381,0.3,1074,3888,39483,Low,FERPA,
+SYS_0372,INST_27,Large,45140,Finance,7,530481,51,564,25,14,12,331,426,0.53,1491,2247,82592,Medium,Both,
+SYS_0373,INST_46,Small,3774,Student Information,11,616818,91,375,47,8,9,848,66,0.64,4964,8499,91489,Low,GDPR,"
+System ID: SYS_0373
+Type: Student Information System (SIS)
+Institution: INST_46
+Core Functions:
+- Student enrollment and registration
+- Academic records management
+- Grade processing
+Technical Specifications:
+- System Age: 11 years
+- Code Base: 616818 lines of code
+- Complexity Score: 91
+Performance Metrics:
+- Average Response Time: 848ms
+- Peak Load: 8499 concurrent users
+Integration Points:
+- Banner Integration
+- Canvas Integration
+- Custom APIs
+Known Issues:
+- High response time during peak periods
+- Integration bottlenecks"
+SYS_0374,INST_50,Large,28577,Learning Management,11,972253,38,354,13,17,15,510,346,0.52,1736,3174,60233,Medium,GDPR,"
+System ID: SYS_0374
+Type: Learning Management System (LMS)
+Institution: INST_50
+Core Functions:
+- Course content management
+- Assignment handling
+- Online assessments
+Technical Specifications:
+- System Age: 11 years
+- Code Base: 972253 lines of code
+- Complexity Score: 38
+Performance Metrics:
+- Average Response Time: 510ms
+- Peak Load: 3174 concurrent users
+Integration Points:
+- Banner Integration
+- Canvas Integration
+- Custom APIs
+Known Issues:
+- High response time during peak periods
+- Memory leaks under heavy load"
+SYS_0375,INST_31,Small,4115,Research Management,14,460885,70,500,30,7,6,926,146,0.73,2111,9678,46957,Low,Both,
+SYS_0376,INST_8,Small,1823,Student Information,7,214926,63,715,49,17,3,207,368,0.38,3831,2920,36823,High,None,"
+System ID: SYS_0376
+Type: Student Information System (SIS)
+Institution: INST_8
+Core Functions:
+- Student enrollment and registration
+- Academic records management
+- Grade processing
+Technical Specifications:
+- System Age: 7 years
+- Code Base: 214926 lines of code
+- Complexity Score: 63
+Performance Metrics:
+- Average Response Time: 207ms
+- Peak Load: 2920 concurrent users
+Integration Points:
+- Banner Integration
+- Canvas Integration
+- Custom APIs
+Known Issues:
+- Data synchronization delays
+- Integration bottlenecks"
+SYS_0377,INST_47,Small,1240,HR,3,187286,68,201,23,20,9,148,324,0.76,209,9463,87517,High,Both,
+SYS_0378,INST_36,Small,3027,Student Information,5,838611,69,580,39,6,20,748,482,0.62,6471,6778,15171,Low,GDPR,"
+System ID: SYS_0378
+Type: Student Information System (SIS)
+Institution: INST_36
+Core Functions:
+- Student enrollment and registration
+- Academic records management
+- Grade processing
+Technical Specifications:
+- System Age: 5 years
+- Code Base: 838611 lines of code
+- Complexity Score: 69
+Performance Metrics:
+- Average Response Time: 748ms
+- Peak Load: 6778 concurrent users
+Integration Points:
+- Banner Integration
+- Canvas Integration
+- Custom APIs
+Known Issues:
+- Data synchronization delays
+- Memory leaks under heavy load"
+SYS_0379,INST_42,Small,2975,Finance,11,80838,50,962,11,19,17,804,401,0.38,1506,9915,65829,High,GDPR,
+SYS_0380,INST_26,Medium,10292,Learning Management,14,936937,48,197,21,24,10,120,387,0.72,3300,1456,27199,High,GDPR,"
+System ID: SYS_0380
+Type: Learning Management System (LMS)
+Institution: INST_26
+Core Functions:
+- Course content management
+- Assignment handling
+- Online assessments
+Technical Specifications:
+- System Age: 14 years
+- Code Base: 936937 lines of code
+- Complexity Score: 48
+Performance Metrics:
+- Average Response Time: 120ms
+- Peak Load: 1456 concurrent users
+Integration Points:
+- Banner Integration
+- Canvas Integration
+- Custom APIs
+Known Issues:
+- High response time during peak periods
+- Integration bottlenecks"
+SYS_0381,INST_6,Large,44912,Learning Management,13,681609,66,488,47,30,6,979,393,0.56,4332,9209,11196,Low,FERPA,"
+System ID: SYS_0381
+Type: Learning Management System (LMS)
+Institution: INST_6
+Core Functions:
+- Course content management
+- Assignment handling
+- Online assessments
+Technical Specifications:
+- System Age: 13 years
+- Code Base: 681609 lines of code
+- Complexity Score: 66
+Performance Metrics:
+- Average Response Time: 979ms
+- Peak Load: 9209 concurrent users
+Integration Points:
+- Banner Integration
+- Canvas Integration
+- Custom APIs
+Known Issues:
+- Data synchronization delays
+- High response time during peak periods"
+SYS_0382,INST_8,Medium,7704,HR,9,235508,35,264,29,9,3,615,388,0.33,876,3792,79806,Low,Both,
+SYS_0383,INST_16,Small,3977,Finance,12,315567,78,351,31,20,8,432,273,0.52,314,7017,14932,High,Both,
+SYS_0384,INST_42,Small,3788,Finance,13,51727,44,591,18,24,17,230,191,0.82,935,7901,35924,High,None,
+SYS_0385,INST_2,Medium,8471,Student Information,13,286373,77,883,24,18,18,627,100,0.49,1080,9758,77379,Low,Both,"
+System ID: SYS_0385
+Type: Student Information System (SIS)
+Institution: INST_2
+Core Functions:
+- Student enrollment and registration
+- Academic records management
+- Grade processing
+Technical Specifications:
+- System Age: 13 years
+- Code Base: 286373 lines of code
+- Complexity Score: 77
+Performance Metrics:
+- Average Response Time: 627ms
+- Peak Load: 9758 concurrent users
+Integration Points:
+- Banner Integration
+- Canvas Integration
+- Custom APIs
+Known Issues:
+- Integration bottlenecks
+- Data synchronization delays"
+SYS_0386,INST_50,Medium,8443,Finance,13,926503,86,656,43,30,16,610,327,0.38,1636,8990,56345,High,FERPA,
+SYS_0387,INST_43,Medium,14530,Learning Management,10,996437,31,711,14,27,17,585,335,0.75,1246,2966,20773,Low,FERPA,"
+System ID: SYS_0387
+Type: Learning Management System (LMS)
+Institution: INST_43
+Core Functions:
+- Course content management
+- Assignment handling
+- Online assessments
+Technical Specifications:
+- System Age: 10 years
+- Code Base: 996437 lines of code
+- Complexity Score: 31
+Performance Metrics:
+- Average Response Time: 585ms
+- Peak Load: 2966 concurrent users
+Integration Points:
+- Banner Integration
+- Canvas Integration
+- Custom APIs
+Known Issues:
+- Limited scalability
+- High response time during peak periods"
+SYS_0388,INST_7,Medium,6250,HR,4,728289,51,172,14,23,7,386,247,0.64,547,9709,50090,High,None,
+SYS_0389,INST_29,Small,3290,Finance,8,941455,73,173,39,28,14,378,152,0.76,1434,8527,36694,High,GDPR,
+SYS_0390,INST_30,Small,3226,Student Information,9,121413,49,988,46,28,14,680,333,0.78,1594,3751,32750,Low,GDPR,"
+System ID: SYS_0390
+Type: Student Information System (SIS)
+Institution: INST_30
+Core Functions:
+- Student enrollment and registration
+- Academic records management
+- Grade processing
+Technical Specifications:
+- System Age: 9 years
+- Code Base: 121413 lines of code
+- Complexity Score: 49
+Performance Metrics:
+- Average Response Time: 680ms
+- Peak Load: 3751 concurrent users
+Integration Points:
+- Banner Integration
+- Canvas Integration
+- Custom APIs
+Known Issues:
+- Limited scalability
+- Data synchronization delays"
+SYS_0391,INST_6,Medium,8789,Learning Management,3,723937,28,451,39,29,10,895,179,0.84,1362,2589,97824,High,None,"
+System ID: SYS_0391
+Type: Learning Management System (LMS)
+Institution: INST_6
+Core Functions:
+- Course content management
+- Assignment handling
+- Online assessments
+Technical Specifications:
+- System Age: 3 years
+- Code Base: 723937 lines of code
+- Complexity Score: 28
+Performance Metrics:
+- Average Response Time: 895ms
+- Peak Load: 2589 concurrent users
+Integration Points:
+- Banner Integration
+- Canvas Integration
+- Custom APIs
+Known Issues:
+- Data synchronization delays
+- Limited scalability"
+SYS_0392,INST_32,Large,24372,Learning Management,7,624240,52,258,21,14,16,470,165,0.52,4368,2762,17087,High,Both,"
+System ID: SYS_0392
+Type: Learning Management System (LMS)
+Institution: INST_32
+Core Functions:
+- Course content management
+- Assignment handling
+- Online assessments
+Technical Specifications:
+- System Age: 7 years
+- Code Base: 624240 lines of code
+- Complexity Score: 52
+Performance Metrics:
+- Average Response Time: 470ms
+- Peak Load: 2762 concurrent users
+Integration Points:
+- Banner Integration
+- Canvas Integration
+- Custom APIs
+Known Issues:
+- Memory leaks under heavy load
+- Limited scalability"
+SYS_0393,INST_4,Medium,13314,Research Management,3,650374,65,776,38,30,5,461,438,0.39,2501,2673,77616,Low,None,
+SYS_0394,INST_42,Small,4376,Research Management,11,876029,70,816,34,24,18,283,239,0.53,2566,3638,97299,Low,GDPR,
+SYS_0395,INST_37,Small,2505,Research Management,13,305632,53,918,8,30,4,303,134,0.58,1277,4398,45436,Medium,Both,
+SYS_0396,INST_37,Large,18090,Learning Management,3,247287,80,787,15,21,7,703,406,0.56,3450,4721,82915,Low,GDPR,"
+System ID: SYS_0396
+Type: Learning Management System (LMS)
+Institution: INST_37
+Core Functions:
+- Course content management
+- Assignment handling
+- Online assessments
+Technical Specifications:
+- System Age: 3 years
+- Code Base: 247287 lines of code
+- Complexity Score: 80
+Performance Metrics:
+- Average Response Time: 703ms
+- Peak Load: 4721 concurrent users
+Integration Points:
+- Banner Integration
+- Canvas Integration
+- Custom APIs
+Known Issues:
+- Limited scalability
+- Memory leaks under heavy load"
+SYS_0397,INST_8,Small,3661,Student Information,12,623502,86,520,34,15,9,402,205,0.82,9528,1618,36723,Medium,None,"
+System ID: SYS_0397
+Type: Student Information System (SIS)
+Institution: INST_8
+Core Functions:
+- Student enrollment and registration
+- Academic records management
+- Grade processing
+Technical Specifications:
+- System Age: 12 years
+- Code Base: 623502 lines of code
+- Complexity Score: 86
+Performance Metrics:
+- Average Response Time: 402ms
+- Peak Load: 1618 concurrent users
+Integration Points:
+- Banner Integration
+- Canvas Integration
+- Custom APIs
+Known Issues:
+- Integration bottlenecks
+- Limited scalability"
+SYS_0398,INST_40,Small,1327,Student Information,11,336055,76,377,25,29,8,710,376,0.59,7454,9992,38377,High,FERPA,"
+System ID: SYS_0398
+Type: Student Information System (SIS)
+Institution: INST_40
+Core Functions:
+- Student enrollment and registration
+- Academic records management
+- Grade processing
+Technical Specifications:
+- System Age: 11 years
+- Code Base: 336055 lines of code
+- Complexity Score: 76
+Performance Metrics:
+- Average Response Time: 710ms
+- Peak Load: 9992 concurrent users
+Integration Points:
+- Banner Integration
+- Canvas Integration
+- Custom APIs
+Known Issues:
+- Limited scalability
+- Data synchronization delays"
+SYS_0399,INST_14,Small,4001,Student Information,12,763612,66,918,49,3,18,282,117,0.66,7020,5971,34182,Medium,None,"
+System ID: SYS_0399
+Type: Student Information System (SIS)
+Institution: INST_14
+Core Functions:
+- Student enrollment and registration
+- Academic records management
+- Grade processing
+Technical Specifications:
+- System Age: 12 years
+- Code Base: 763612 lines of code
+- Complexity Score: 66
+Performance Metrics:
+- Average Response Time: 282ms
+- Peak Load: 5971 concurrent users
+Integration Points:
+- Banner Integration
+- Canvas Integration
+- Custom APIs
+Known Issues:
+- Data synchronization delays
+- Limited scalability"
+SYS_0400,INST_26,Large,30077,Learning Management,5,451702,34,409,14,5,12,755,453,0.46,1684,8634,25027,High,Both,"
+System ID: SYS_0400
+Type: Learning Management System (LMS)
+Institution: INST_26
+Core Functions:
+- Course content management
+- Assignment handling
+- Online assessments
+Technical Specifications:
+- System Age: 5 years
+- Code Base: 451702 lines of code
+- Complexity Score: 34
+Performance Metrics:
+- Average Response Time: 755ms
+- Peak Load: 8634 concurrent users
+Integration Points:
+- Banner Integration
+- Canvas Integration
+- Custom APIs
+Known Issues:
+- Memory leaks under heavy load
+- Integration bottlenecks"
+SYS_0401,INST_35,Small,3727,Learning Management,11,99146,78,154,49,28,7,527,139,0.45,1548,4546,46590,High,FERPA,"
+System ID: SYS_0401
+Type: Learning Management System (LMS)
+Institution: INST_35
+Core Functions:
+- Course content management
+- Assignment handling
+- Online assessments
+Technical Specifications:
+- System Age: 11 years
+- Code Base: 99146 lines of code
+- Complexity Score: 78
+Performance Metrics:
+- Average Response Time: 527ms
+- Peak Load: 4546 concurrent users
+Integration Points:
+- Banner Integration
+- Canvas Integration
+- Custom APIs
+Known Issues:
+- Limited scalability
+- Memory leaks under heavy load"
+SYS_0402,INST_10,Small,4359,Research Management,15,722685,56,407,48,17,9,997,300,0.38,1443,8903,87343,Low,None,
+SYS_0403,INST_5,Small,4908,HR,3,988917,30,399,9,21,19,840,169,0.75,660,7587,80471,High,GDPR,
+SYS_0404,INST_20,Small,3113,Finance,5,873020,75,966,24,12,11,691,107,0.58,283,7765,68758,Low,Both,
+SYS_0405,INST_36,Small,4977,Finance,13,470504,73,679,22,22,2,959,195,0.61,1603,2794,38771,Low,GDPR,
+SYS_0406,INST_5,Medium,11062,Research Management,8,117948,52,589,27,17,8,282,460,0.62,2536,5127,92184,High,GDPR,
+SYS_0407,INST_44,Large,28696,Finance,7,79256,63,259,35,17,12,765,92,0.4,477,1686,87775,Low,GDPR,
+SYS_0408,INST_9,Large,42714,Student Information,3,428398,72,599,18,5,18,976,267,0.48,7017,1937,48471,Low,FERPA,"
+System ID: SYS_0408
+Type: Student Information System (SIS)
+Institution: INST_9
+Core Functions:
+- Student enrollment and registration
+- Academic records management
+- Grade processing
+Technical Specifications:
+- System Age: 3 years
+- Code Base: 428398 lines of code
+- Complexity Score: 72
+Performance Metrics:
+- Average Response Time: 976ms
+- Peak Load: 1937 concurrent users
+Integration Points:
+- Banner Integration
+- Canvas Integration
+- Custom APIs
+Known Issues:
+- High response time during peak periods
+- Data synchronization delays"
+SYS_0409,INST_41,Small,1023,Finance,6,856431,85,738,29,21,15,516,400,0.57,1730,1639,15392,Low,FERPA,
+SYS_0410,INST_25,Large,36782,Student Information,5,220715,64,797,45,25,7,493,203,0.34,5766,4482,47733,Medium,None,"
+System ID: SYS_0410
+Type: Student Information System (SIS)
+Institution: INST_25
+Core Functions:
+- Student enrollment and registration
+- Academic records management
+- Grade processing
+Technical Specifications:
+- System Age: 5 years
+- Code Base: 220715 lines of code
+- Complexity Score: 64
+Performance Metrics:
+- Average Response Time: 493ms
+- Peak Load: 4482 concurrent users
+Integration Points:
+- Banner Integration
+- Canvas Integration
+- Custom APIs
+Known Issues:
+- Limited scalability
+- Integration bottlenecks"
+SYS_0411,INST_47,Medium,10047,Student Information,7,895095,42,946,38,22,11,658,321,0.67,9744,7962,27761,Medium,GDPR,"
+System ID: SYS_0411
+Type: Student Information System (SIS)
+Institution: INST_47
+Core Functions:
+- Student enrollment and registration
+- Academic records management
+- Grade processing
+Technical Specifications:
+- System Age: 7 years
+- Code Base: 895095 lines of code
+- Complexity Score: 42
+Performance Metrics:
+- Average Response Time: 658ms
+- Peak Load: 7962 concurrent users
+Integration Points:
+- Banner Integration
+- Canvas Integration
+- Custom APIs
+Known Issues:
+- Memory leaks under heavy load
+- Integration bottlenecks"
+SYS_0412,INST_3,Large,19215,HR,9,74339,59,873,24,28,17,618,470,0.38,810,1613,27480,Low,Both,
+SYS_0413,INST_39,Small,3160,HR,11,833710,38,549,14,10,17,381,263,0.35,107,9084,72422,High,None,
+SYS_0414,INST_17,Small,4544,Learning Management,15,580060,70,896,30,21,8,436,351,0.36,2446,6095,99195,Low,Both,"
+System ID: SYS_0414
+Type: Learning Management System (LMS)
+Institution: INST_17
+Core Functions:
+- Course content management
+- Assignment handling
+- Online assessments
+Technical Specifications:
+- System Age: 15 years
+- Code Base: 580060 lines of code
+- Complexity Score: 70
+Performance Metrics:
+- Average Response Time: 436ms
+- Peak Load: 6095 concurrent users
+Integration Points:
+- Banner Integration
+- Canvas Integration
+- Custom APIs
+Known Issues:
+- Memory leaks under heavy load
+- Integration bottlenecks"
+SYS_0415,INST_42,Large,47578,Finance,14,330988,64,525,30,18,10,174,497,0.44,726,7572,36803,Medium,None,
+SYS_0416,INST_12,Large,19601,HR,14,478964,47,130,42,5,2,442,371,0.64,945,8852,23794,Low,FERPA,
+SYS_0417,INST_7,Large,45735,Finance,10,478235,66,445,6,5,18,385,456,0.33,501,3276,71667,Low,FERPA,
+SYS_0418,INST_33,Small,3144,Student Information,10,114982,36,564,29,21,20,632,188,0.56,6954,6007,13823,Medium,GDPR,"
+System ID: SYS_0418
+Type: Student Information System (SIS)
+Institution: INST_33
+Core Functions:
+- Student enrollment and registration
+- Academic records management
+- Grade processing
+Technical Specifications:
+- System Age: 10 years
+- Code Base: 114982 lines of code
+- Complexity Score: 36
+Performance Metrics:
+- Average Response Time: 632ms
+- Peak Load: 6007 concurrent users
+Integration Points:
+- Banner Integration
+- Canvas Integration
+- Custom APIs
+Known Issues:
+- Integration bottlenecks
+- Memory leaks under heavy load"
+SYS_0419,INST_19,Small,2442,Learning Management,11,774432,60,938,47,23,8,247,142,0.84,4280,1569,27517,Low,None,"
+System ID: SYS_0419
+Type: Learning Management System (LMS)
+Institution: INST_19
+Core Functions:
+- Course content management
+- Assignment handling
+- Online assessments
+Technical Specifications:
+- System Age: 11 years
+- Code Base: 774432 lines of code
+- Complexity Score: 60
+Performance Metrics:
+- Average Response Time: 247ms
+- Peak Load: 1569 concurrent users
+Integration Points:
+- Banner Integration
+- Canvas Integration
+- Custom APIs
+Known Issues:
+- Data synchronization delays
+- High response time during peak periods"
+SYS_0420,INST_9,Small,1848,Student Information,12,967683,79,122,47,29,8,110,277,0.43,4400,4453,49523,Medium,Both,"
+System ID: SYS_0420
+Type: Student Information System (SIS)
+Institution: INST_9
+Core Functions:
+- Student enrollment and registration
+- Academic records management
+- Grade processing
+Technical Specifications:
+- System Age: 12 years
+- Code Base: 967683 lines of code
+- Complexity Score: 79
+Performance Metrics:
+- Average Response Time: 110ms
+- Peak Load: 4453 concurrent users
+Integration Points:
+- Banner Integration
+- Canvas Integration
+- Custom APIs
+Known Issues:
+- Data synchronization delays
+- Limited scalability"
+SYS_0421,INST_7,Small,2514,HR,13,875764,69,908,21,15,19,972,69,0.87,327,9850,12908,Medium,FERPA,
+SYS_0422,INST_23,Medium,14743,Learning Management,15,506765,53,367,21,14,9,446,305,0.61,1199,1793,11190,Low,GDPR,"
+System ID: SYS_0422
+Type: Learning Management System (LMS)
+Institution: INST_23
+Core Functions:
+- Course content management
+- Assignment handling
+- Online assessments
+Technical Specifications:
+- System Age: 15 years
+- Code Base: 506765 lines of code
+- Complexity Score: 53
+Performance Metrics:
+- Average Response Time: 446ms
+- Peak Load: 1793 concurrent users
+Integration Points:
+- Banner Integration
+- Canvas Integration
+- Custom APIs
+Known Issues:
+- High response time during peak periods
+- Memory leaks under heavy load"
+SYS_0423,INST_21,Medium,7852,Research Management,13,224984,45,773,22,3,14,672,458,0.58,2203,4604,47197,High,Both,
+SYS_0424,INST_11,Small,3262,Learning Management,6,322645,64,517,8,28,2,197,151,0.59,4235,6947,26258,Medium,GDPR,"
+System ID: SYS_0424
+Type: Learning Management System (LMS)
+Institution: INST_11
+Core Functions:
+- Course content management
+- Assignment handling
+- Online assessments
+Technical Specifications:
+- System Age: 6 years
+- Code Base: 322645 lines of code
+- Complexity Score: 64
+Performance Metrics:
+- Average Response Time: 197ms
+- Peak Load: 6947 concurrent users
+Integration Points:
+- Banner Integration
+- Canvas Integration
+- Custom APIs
+Known Issues:
+- Integration bottlenecks
+- Data synchronization delays"
+SYS_0425,INST_20,Medium,10048,Research Management,5,763925,39,521,39,17,5,768,386,0.73,488,5997,68668,Medium,None,
+SYS_0426,INST_20,Medium,14014,Research Management,12,885163,82,410,6,6,19,301,375,0.4,453,5777,80248,High,FERPA,
+SYS_0427,INST_43,Large,35269,Research Management,11,408752,61,584,13,4,5,306,301,0.51,2221,1003,12633,Medium,Both,
+SYS_0428,INST_17,Small,3671,Student Information,5,463824,38,842,8,21,2,759,380,0.54,3605,1521,94810,Low,Both,"
+System ID: SYS_0428
+Type: Student Information System (SIS)
+Institution: INST_17
+Core Functions:
+- Student enrollment and registration
+- Academic records management
+- Grade processing
+Technical Specifications:
+- System Age: 5 years
+- Code Base: 463824 lines of code
+- Complexity Score: 38
+Performance Metrics:
+- Average Response Time: 759ms
+- Peak Load: 1521 concurrent users
+Integration Points:
+- Banner Integration
+- Canvas Integration
+- Custom APIs
+Known Issues:
+- Limited scalability
+- Data synchronization delays"
+SYS_0429,INST_32,Large,33670,HR,7,465755,33,576,22,9,2,556,482,0.67,221,4571,43584,High,FERPA,
+SYS_0430,INST_44,Small,3411,HR,8,324656,30,259,9,10,6,119,128,0.69,851,2437,81137,Low,GDPR,
+SYS_0431,INST_23,Large,44378,Student Information,12,989045,80,179,43,25,7,210,366,0.54,1558,1399,77248,Low,Both,"
+System ID: SYS_0431
+Type: Student Information System (SIS)
+Institution: INST_23
+Core Functions:
+- Student enrollment and registration
+- Academic records management
+- Grade processing
+Technical Specifications:
+- System Age: 12 years
+- Code Base: 989045 lines of code
+- Complexity Score: 80
+Performance Metrics:
+- Average Response Time: 210ms
+- Peak Load: 1399 concurrent users
+Integration Points:
+- Banner Integration
+- Canvas Integration
+- Custom APIs
+Known Issues:
+- Limited scalability
+- Memory leaks under heavy load"
+SYS_0432,INST_37,Medium,13730,Finance,6,994197,78,394,48,24,18,389,343,0.52,1810,4490,12461,Medium,Both,
+SYS_0433,INST_29,Large,49631,Learning Management,12,845632,45,900,25,8,16,867,395,0.81,4187,8575,45800,Low,GDPR,"
+System ID: SYS_0433
+Type: Learning Management System (LMS)
+Institution: INST_29
+Core Functions:
+- Course content management
+- Assignment handling
+- Online assessments
+Technical Specifications:
+- System Age: 12 years
+- Code Base: 845632 lines of code
+- Complexity Score: 45
+Performance Metrics:
+- Average Response Time: 867ms
+- Peak Load: 8575 concurrent users
+Integration Points:
+- Banner Integration
+- Canvas Integration
+- Custom APIs
+Known Issues:
+- Limited scalability
+- Integration bottlenecks"
+SYS_0434,INST_46,Large,36402,Finance,10,860079,46,799,21,19,9,528,195,0.68,784,5327,73832,Medium,None,
+SYS_0435,INST_30,Medium,11725,HR,3,397907,30,473,49,20,9,509,333,0.47,467,2354,39140,Low,None,
+SYS_0436,INST_22,Medium,9689,Finance,4,517963,87,458,49,14,8,916,138,0.82,1906,7969,28064,Medium,None,
+SYS_0437,INST_39,Large,18666,HR,15,472617,40,114,50,22,16,458,77,0.69,808,7579,80039,Low,GDPR,
+SYS_0438,INST_29,Large,34544,HR,6,634111,60,779,6,10,14,571,234,0.71,367,9669,95671,High,GDPR,
+SYS_0439,INST_13,Medium,8914,HR,7,567002,67,309,14,10,5,251,129,0.76,864,6094,59333,High,None,
+SYS_0440,INST_42,Large,37519,Finance,10,87512,79,316,16,20,3,479,206,0.51,1244,3744,96425,Medium,None,
+SYS_0441,INST_43,Medium,6498,Finance,9,703270,52,218,24,28,7,137,364,0.71,1305,4977,14872,High,None,
+SYS_0442,INST_22,Small,4645,Student Information,15,988482,32,807,11,11,4,772,141,0.52,8462,3413,36965,High,None,"
+System ID: SYS_0442
+Type: Student Information System (SIS)
+Institution: INST_22
+Core Functions:
+- Student enrollment and registration
+- Academic records management
+- Grade processing
+Technical Specifications:
+- System Age: 15 years
+- Code Base: 988482 lines of code
+- Complexity Score: 32
+Performance Metrics:
+- Average Response Time: 772ms
+- Peak Load: 3413 concurrent users
+Integration Points:
+- Banner Integration
+- Canvas Integration
+- Custom APIs
+Known Issues:
+- Data synchronization delays
+- Memory leaks under heavy load"
+SYS_0443,INST_37,Large,35206,Research Management,15,849410,42,138,41,18,6,909,141,0.51,1933,7059,35645,Medium,None,
+SYS_0444,INST_22,Small,1809,Learning Management,9,833932,59,859,44,28,3,725,252,0.7,4210,5723,27944,Low,FERPA,"
+System ID: SYS_0444
+Type: Learning Management System (LMS)
+Institution: INST_22
+Core Functions:
+- Course content management
+- Assignment handling
+- Online assessments
+Technical Specifications:
+- System Age: 9 years
+- Code Base: 833932 lines of code
+- Complexity Score: 59
+Performance Metrics:
+- Average Response Time: 725ms
+- Peak Load: 5723 concurrent users
+Integration Points:
+- Banner Integration
+- Canvas Integration
+- Custom APIs
+Known Issues:
+- High response time during peak periods
+- Memory leaks under heavy load"
+SYS_0445,INST_29,Large,43189,Learning Management,8,750212,48,576,32,12,11,562,370,0.62,4020,5389,47653,Low,Both,"
+System ID: SYS_0445
+Type: Learning Management System (LMS)
+Institution: INST_29
+Core Functions:
+- Course content management
+- Assignment handling
+- Online assessments
+Technical Specifications:
+- System Age: 8 years
+- Code Base: 750212 lines of code
+- Complexity Score: 48
+Performance Metrics:
+- Average Response Time: 562ms
+- Peak Load: 5389 concurrent users
+Integration Points:
+- Banner Integration
+- Canvas Integration
+- Custom APIs
+Known Issues:
+- Limited scalability
+- Memory leaks under heavy load"
+SYS_0446,INST_43,Large,38795,Student Information,11,603448,68,963,44,11,6,947,198,0.78,7959,8413,79422,High,None,"
+System ID: SYS_0446
+Type: Student Information System (SIS)
+Institution: INST_43
+Core Functions:
+- Student enrollment and registration
+- Academic records management
+- Grade processing
+Technical Specifications:
+- System Age: 11 years
+- Code Base: 603448 lines of code
+- Complexity Score: 68
+Performance Metrics:
+- Average Response Time: 947ms
+- Peak Load: 8413 concurrent users
+Integration Points:
+- Banner Integration
+- Canvas Integration
+- Custom APIs
+Known Issues:
+- High response time during peak periods
+- Memory leaks under heavy load"
+SYS_0447,INST_2,Small,1461,Student Information,3,365264,92,894,25,17,3,153,129,0.42,1581,1903,32469,Medium,GDPR,"
+System ID: SYS_0447
+Type: Student Information System (SIS)
+Institution: INST_2
+Core Functions:
+- Student enrollment and registration
+- Academic records management
+- Grade processing
+Technical Specifications:
+- System Age: 3 years
+- Code Base: 365264 lines of code
+- Complexity Score: 92
+Performance Metrics:
+- Average Response Time: 153ms
+- Peak Load: 1903 concurrent users
+Integration Points:
+- Banner Integration
+- Canvas Integration
+- Custom APIs
+Known Issues:
+- Memory leaks under heavy load
+- High response time during peak periods"
+SYS_0448,INST_48,Medium,9020,Finance,4,233770,68,387,26,28,12,843,366,0.83,1493,9116,50377,Low,Both,
+SYS_0449,INST_17,Small,2369,Student Information,15,168158,55,777,48,9,16,667,234,0.36,8521,4396,18427,Medium,None,"
+System ID: SYS_0449
+Type: Student Information System (SIS)
+Institution: INST_17
+Core Functions:
+- Student enrollment and registration
+- Academic records management
+- Grade processing
+Technical Specifications:
+- System Age: 15 years
+- Code Base: 168158 lines of code
+- Complexity Score: 55
+Performance Metrics:
+- Average Response Time: 667ms
+- Peak Load: 4396 concurrent users
+Integration Points:
+- Banner Integration
+- Canvas Integration
+- Custom APIs
+Known Issues:
+- Data synchronization delays
+- Integration bottlenecks"
+SYS_0450,INST_6,Medium,12464,Student Information,3,111009,41,726,19,16,16,368,457,0.55,6768,1957,80484,Medium,GDPR,"
+System ID: SYS_0450
+Type: Student Information System (SIS)
+Institution: INST_6
+Core Functions:
+- Student enrollment and registration
+- Academic records management
+- Grade processing
+Technical Specifications:
+- System Age: 3 years
+- Code Base: 111009 lines of code
+- Complexity Score: 41
+Performance Metrics:
+- Average Response Time: 368ms
+- Peak Load: 1957 concurrent users
+Integration Points:
+- Banner Integration
+- Canvas Integration
+- Custom APIs
+Known Issues:
+- Limited scalability
+- Memory leaks under heavy load"
+SYS_0451,INST_40,Small,3010,Research Management,10,961327,76,411,35,10,8,171,301,0.74,2816,3073,29920,High,Both,
+SYS_0452,INST_47,Large,48451,Finance,13,461243,66,999,28,29,5,140,241,0.59,1654,2926,50995,High,Both,
+SYS_0453,INST_46,Large,49138,Student Information,14,225612,48,414,34,6,10,543,263,0.74,3472,7845,96372,Medium,Both,"
+System ID: SYS_0453
+Type: Student Information System (SIS)
+Institution: INST_46
+Core Functions:
+- Student enrollment and registration
+- Academic records management
+- Grade processing
+Technical Specifications:
+- System Age: 14 years
+- Code Base: 225612 lines of code
+- Complexity Score: 48
+Performance Metrics:
+- Average Response Time: 543ms
+- Peak Load: 7845 concurrent users
+Integration Points:
+- Banner Integration
+- Canvas Integration
+- Custom APIs
+Known Issues:
+- Memory leaks under heavy load
+- Integration bottlenecks"
+SYS_0454,INST_45,Medium,11698,Student Information,12,819515,54,435,36,23,6,669,356,0.47,2134,7414,17350,Low,Both,"
+System ID: SYS_0454
+Type: Student Information System (SIS)
+Institution: INST_45
+Core Functions:
+- Student enrollment and registration
+- Academic records management
+- Grade processing
+Technical Specifications:
+- System Age: 12 years
+- Code Base: 819515 lines of code
+- Complexity Score: 54
+Performance Metrics:
+- Average Response Time: 669ms
+- Peak Load: 7414 concurrent users
+Integration Points:
+- Banner Integration
+- Canvas Integration
+- Custom APIs
+Known Issues:
+- Data synchronization delays
+- High response time during peak periods"
+SYS_0455,INST_11,Large,37764,Learning Management,14,989484,40,117,42,27,4,170,303,0.5,4179,4799,74086,Medium,GDPR,"
+System ID: SYS_0455
+Type: Learning Management System (LMS)
+Institution: INST_11
+Core Functions:
+- Course content management
+- Assignment handling
+- Online assessments
+Technical Specifications:
+- System Age: 14 years
+- Code Base: 989484 lines of code
+- Complexity Score: 40
+Performance Metrics:
+- Average Response Time: 170ms
+- Peak Load: 4799 concurrent users
+Integration Points:
+- Banner Integration
+- Canvas Integration
+- Custom APIs
+Known Issues:
+- Integration bottlenecks
+- High response time during peak periods"
+SYS_0456,INST_34,Small,2787,Finance,3,537987,42,379,28,24,3,828,107,0.87,1861,9088,79690,Low,Both,
+SYS_0457,INST_6,Medium,12707,Learning Management,5,617065,66,516,22,27,7,346,144,0.69,4411,3209,10267,High,GDPR,"
+System ID: SYS_0457
+Type: Learning Management System (LMS)
+Institution: INST_6
+Core Functions:
+- Course content management
+- Assignment handling
+- Online assessments
+Technical Specifications:
+- System Age: 5 years
+- Code Base: 617065 lines of code
+- Complexity Score: 66
+Performance Metrics:
+- Average Response Time: 346ms
+- Peak Load: 3209 concurrent users
+Integration Points:
+- Banner Integration
+- Canvas Integration
+- Custom APIs
+Known Issues:
+- Limited scalability
+- High response time during peak periods"
+SYS_0458,INST_14,Small,4143,Learning Management,15,272289,78,866,29,20,19,533,390,0.76,2051,9430,31935,Medium,Both,"
+System ID: SYS_0458
+Type: Learning Management System (LMS)
+Institution: INST_14
+Core Functions:
+- Course content management
+- Assignment handling
+- Online assessments
+Technical Specifications:
+- System Age: 15 years
+- Code Base: 272289 lines of code
+- Complexity Score: 78
+Performance Metrics:
+- Average Response Time: 533ms
+- Peak Load: 9430 concurrent users
+Integration Points:
+- Banner Integration
+- Canvas Integration
+- Custom APIs
+Known Issues:
+- High response time during peak periods
+- Data synchronization delays"
+SYS_0459,INST_21,Small,2218,Learning Management,9,131594,25,380,39,8,19,398,182,0.74,2298,3231,80617,Low,Both,"
+System ID: SYS_0459
+Type: Learning Management System (LMS)
+Institution: INST_21
+Core Functions:
+- Course content management
+- Assignment handling
+- Online assessments
+Technical Specifications:
+- System Age: 9 years
+- Code Base: 131594 lines of code
+- Complexity Score: 25
+Performance Metrics:
+- Average Response Time: 398ms
+- Peak Load: 3231 concurrent users
+Integration Points:
+- Banner Integration
+- Canvas Integration
+- Custom APIs
+Known Issues:
+- High response time during peak periods
+- Memory leaks under heavy load"
+SYS_0460,INST_9,Small,1686,Learning Management,3,367219,33,733,45,10,17,558,214,0.59,4730,1268,75932,High,FERPA,"
+System ID: SYS_0460
+Type: Learning Management System (LMS)
+Institution: INST_9
+Core Functions:
+- Course content management
+- Assignment handling
+- Online assessments
+Technical Specifications:
+- System Age: 3 years
+- Code Base: 367219 lines of code
+- Complexity Score: 33
+Performance Metrics:
+- Average Response Time: 558ms
+- Peak Load: 1268 concurrent users
+Integration Points:
+- Banner Integration
+- Canvas Integration
+- Custom APIs
+Known Issues:
+- Integration bottlenecks
+- Limited scalability"
+SYS_0461,INST_15,Large,36585,HR,6,798393,62,699,38,6,10,181,216,0.68,403,8023,51223,High,FERPA,
+SYS_0462,INST_19,Small,4464,HR,11,125557,46,627,32,21,5,115,308,0.64,553,4525,60969,Low,Both,
+SYS_0463,INST_40,Large,39445,Student Information,12,624015,32,940,44,25,4,679,282,0.55,9303,6656,77988,Low,FERPA,"
+System ID: SYS_0463
+Type: Student Information System (SIS)
+Institution: INST_40
+Core Functions:
+- Student enrollment and registration
+- Academic records management
+- Grade processing
+Technical Specifications:
+- System Age: 12 years
+- Code Base: 624015 lines of code
+- Complexity Score: 32
+Performance Metrics:
+- Average Response Time: 679ms
+- Peak Load: 6656 concurrent users
+Integration Points:
+- Banner Integration
+- Canvas Integration
+- Custom APIs
+Known Issues:
+- Data synchronization delays
+- Memory leaks under heavy load"
+SYS_0464,INST_40,Large,28523,Student Information,13,427600,48,640,13,21,18,706,291,0.56,4850,5382,48764,Medium,GDPR,"
+System ID: SYS_0464
+Type: Student Information System (SIS)
+Institution: INST_40
+Core Functions:
+- Student enrollment and registration
+- Academic records management
+- Grade processing
+Technical Specifications:
+- System Age: 13 years
+- Code Base: 427600 lines of code
+- Complexity Score: 48
+Performance Metrics:
+- Average Response Time: 706ms
+- Peak Load: 5382 concurrent users
+Integration Points:
+- Banner Integration
+- Canvas Integration
+- Custom APIs
+Known Issues:
+- High response time during peak periods
+- Data synchronization delays"
+SYS_0465,INST_38,Small,2900,Student Information,14,619976,87,913,14,3,4,174,241,0.37,9994,8545,17097,High,GDPR,"
+System ID: SYS_0465
+Type: Student Information System (SIS)
+Institution: INST_38
+Core Functions:
+- Student enrollment and registration
+- Academic records management
+- Grade processing
+Technical Specifications:
+- System Age: 14 years
+- Code Base: 619976 lines of code
+- Complexity Score: 87
+Performance Metrics:
+- Average Response Time: 174ms
+- Peak Load: 8545 concurrent users
+Integration Points:
+- Banner Integration
+- Canvas Integration
+- Custom APIs
+Known Issues:
+- High response time during peak periods
+- Limited scalability"
+SYS_0466,INST_13,Large,22438,Learning Management,7,936327,38,940,34,15,9,291,194,0.67,2718,6167,97900,Low,Both,"
+System ID: SYS_0466
+Type: Learning Management System (LMS)
+Institution: INST_13
+Core Functions:
+- Course content management
+- Assignment handling
+- Online assessments
+Technical Specifications:
+- System Age: 7 years
+- Code Base: 936327 lines of code
+- Complexity Score: 38
+Performance Metrics:
+- Average Response Time: 291ms
+- Peak Load: 6167 concurrent users
+Integration Points:
+- Banner Integration
+- Canvas Integration
+- Custom APIs
+Known Issues:
+- Limited scalability
+- Data synchronization delays"
+SYS_0467,INST_9,Medium,5444,Student Information,8,197752,55,378,17,4,3,886,434,0.73,7612,7985,80147,Medium,None,"
+System ID: SYS_0467
+Type: Student Information System (SIS)
+Institution: INST_9
+Core Functions:
+- Student enrollment and registration
+- Academic records management
+- Grade processing
+Technical Specifications:
+- System Age: 8 years
+- Code Base: 197752 lines of code
+- Complexity Score: 55
+Performance Metrics:
+- Average Response Time: 886ms
+- Peak Load: 7985 concurrent users
+Integration Points:
+- Banner Integration
+- Canvas Integration
+- Custom APIs
+Known Issues:
+- Limited scalability
+- Integration bottlenecks"
+SYS_0468,INST_25,Medium,8705,Research Management,13,356528,41,684,10,18,7,627,219,0.81,2296,7823,25472,Medium,GDPR,
+SYS_0469,INST_13,Large,46772,Learning Management,3,938846,66,368,12,20,2,824,404,0.54,4693,4151,21824,Low,GDPR,"
+System ID: SYS_0469
+Type: Learning Management System (LMS)
+Institution: INST_13
+Core Functions:
+- Course content management
+- Assignment handling
+- Online assessments
+Technical Specifications:
+- System Age: 3 years
+- Code Base: 938846 lines of code
+- Complexity Score: 66
+Performance Metrics:
+- Average Response Time: 824ms
+- Peak Load: 4151 concurrent users
+Integration Points:
+- Banner Integration
+- Canvas Integration
+- Custom APIs
+Known Issues:
+- High response time during peak periods
+- Integration bottlenecks"
+SYS_0470,INST_18,Medium,11949,Learning Management,5,622525,38,109,40,27,7,478,396,0.41,4561,4123,54279,High,GDPR,"
+System ID: SYS_0470
+Type: Learning Management System (LMS)
+Institution: INST_18
+Core Functions:
+- Course content management
+- Assignment handling
+- Online assessments
+Technical Specifications:
+- System Age: 5 years
+- Code Base: 622525 lines of code
+- Complexity Score: 38
+Performance Metrics:
+- Average Response Time: 478ms
+- Peak Load: 4123 concurrent users
+Integration Points:
+- Banner Integration
+- Canvas Integration
+- Custom APIs
+Known Issues:
+- Integration bottlenecks
+- Data synchronization delays"
+SYS_0471,INST_47,Large,30090,Learning Management,3,373233,65,268,16,27,12,741,192,0.65,987,5894,36212,Medium,FERPA,"
+System ID: SYS_0471
+Type: Learning Management System (LMS)
+Institution: INST_47
+Core Functions:
+- Course content management
+- Assignment handling
+- Online assessments
+Technical Specifications:
+- System Age: 3 years
+- Code Base: 373233 lines of code
+- Complexity Score: 65
+Performance Metrics:
+- Average Response Time: 741ms
+- Peak Load: 5894 concurrent users
+Integration Points:
+- Banner Integration
+- Canvas Integration
+- Custom APIs
+Known Issues:
+- Data synchronization delays
+- Memory leaks under heavy load"
+SYS_0472,INST_3,Small,1234,Student Information,13,247050,44,830,37,14,5,113,78,0.57,4563,6099,69749,Medium,Both,"
+System ID: SYS_0472
+Type: Student Information System (SIS)
+Institution: INST_3
+Core Functions:
+- Student enrollment and registration
+- Academic records management
+- Grade processing
+Technical Specifications:
+- System Age: 13 years
+- Code Base: 247050 lines of code
+- Complexity Score: 44
+Performance Metrics:
+- Average Response Time: 113ms
+- Peak Load: 6099 concurrent users
+Integration Points:
+- Banner Integration
+- Canvas Integration
+- Custom APIs
+Known Issues:
+- Limited scalability
+- Memory leaks under heavy load"
+SYS_0473,INST_41,Small,4176,Student Information,13,960771,81,920,19,26,14,879,137,0.56,7844,6004,70339,Medium,None,"
+System ID: SYS_0473
+Type: Student Information System (SIS)
+Institution: INST_41
+Core Functions:
+- Student enrollment and registration
+- Academic records management
+- Grade processing
+Technical Specifications:
+- System Age: 13 years
+- Code Base: 960771 lines of code
+- Complexity Score: 81
+Performance Metrics:
+- Average Response Time: 879ms
+- Peak Load: 6004 concurrent users
+Integration Points:
+- Banner Integration
+- Canvas Integration
+- Custom APIs
+Known Issues:
+- Data synchronization delays
+- Integration bottlenecks"
+SYS_0474,INST_26,Small,3274,Learning Management,13,406634,22,372,25,30,2,297,317,0.33,1766,4367,55906,Medium,FERPA,"
+System ID: SYS_0474
+Type: Learning Management System (LMS)
+Institution: INST_26
+Core Functions:
+- Course content management
+- Assignment handling
+- Online assessments
+Technical Specifications:
+- System Age: 13 years
+- Code Base: 406634 lines of code
+- Complexity Score: 22
+Performance Metrics:
+- Average Response Time: 297ms
+- Peak Load: 4367 concurrent users
+Integration Points:
+- Banner Integration
+- Canvas Integration
+- Custom APIs
+Known Issues:
+- Memory leaks under heavy load
+- Integration bottlenecks"
+SYS_0475,INST_29,Large,43435,Finance,3,227126,66,289,9,10,5,399,408,0.44,823,9202,55980,Low,None,
+SYS_0476,INST_37,Medium,13526,Research Management,9,707443,64,156,7,24,17,488,445,0.32,1654,8993,66686,High,Both,
+SYS_0477,INST_24,Small,1742,Student Information,10,278813,66,258,5,23,7,534,365,0.53,9339,5841,65933,Low,None,"
+System ID: SYS_0477
+Type: Student Information System (SIS)
+Institution: INST_24
+Core Functions:
+- Student enrollment and registration
+- Academic records management
+- Grade processing
+Technical Specifications:
+- System Age: 10 years
+- Code Base: 278813 lines of code
+- Complexity Score: 66
+Performance Metrics:
+- Average Response Time: 534ms
+- Peak Load: 5841 concurrent users
+Integration Points:
+- Banner Integration
+- Canvas Integration
+- Custom APIs
+Known Issues:
+- Limited scalability
+- Memory leaks under heavy load"
+SYS_0478,INST_24,Small,4584,Learning Management,3,327191,75,475,42,3,11,643,108,0.87,2640,3079,84202,High,FERPA,"
+System ID: SYS_0478
+Type: Learning Management System (LMS)
+Institution: INST_24
+Core Functions:
+- Course content management
+- Assignment handling
+- Online assessments
+Technical Specifications:
+- System Age: 3 years
+- Code Base: 327191 lines of code
+- Complexity Score: 75
+Performance Metrics:
+- Average Response Time: 643ms
+- Peak Load: 3079 concurrent users
+Integration Points:
+- Banner Integration
+- Canvas Integration
+- Custom APIs
+Known Issues:
+- Data synchronization delays
+- Limited scalability"
+SYS_0479,INST_37,Large,33909,Student Information,14,342917,92,369,18,17,6,492,228,0.65,4905,4223,16312,Medium,FERPA,"
+System ID: SYS_0479
+Type: Student Information System (SIS)
+Institution: INST_37
+Core Functions:
+- Student enrollment and registration
+- Academic records management
+- Grade processing
+Technical Specifications:
+- System Age: 14 years
+- Code Base: 342917 lines of code
+- Complexity Score: 92
+Performance Metrics:
+- Average Response Time: 492ms
+- Peak Load: 4223 concurrent users
+Integration Points:
+- Banner Integration
+- Canvas Integration
+- Custom APIs
+Known Issues:
+- Limited scalability
+- Data synchronization delays"
+SYS_0480,INST_34,Large,24667,Finance,7,166003,79,387,8,14,11,142,246,0.83,1509,9527,77355,Medium,Both,
+SYS_0481,INST_31,Small,3841,Research Management,6,488008,78,392,11,26,2,943,481,0.55,1213,2223,53291,Medium,None,
+SYS_0482,INST_45,Small,2957,Learning Management,14,543963,53,622,5,6,2,199,380,0.64,2545,8600,36125,High,Both,"
+System ID: SYS_0482
+Type: Learning Management System (LMS)
+Institution: INST_45
+Core Functions:
+- Course content management
+- Assignment handling
+- Online assessments
+Technical Specifications:
+- System Age: 14 years
+- Code Base: 543963 lines of code
+- Complexity Score: 53
+Performance Metrics:
+- Average Response Time: 199ms
+- Peak Load: 8600 concurrent users
+Integration Points:
+- Banner Integration
+- Canvas Integration
+- Custom APIs
+Known Issues:
+- Limited scalability
+- Memory leaks under heavy load"
+SYS_0483,INST_32,Large,49752,Student Information,3,595968,78,646,40,16,7,266,291,0.83,9684,8606,58656,Low,Both,"
+System ID: SYS_0483
+Type: Student Information System (SIS)
+Institution: INST_32
+Core Functions:
+- Student enrollment and registration
+- Academic records management
+- Grade processing
+Technical Specifications:
+- System Age: 3 years
+- Code Base: 595968 lines of code
+- Complexity Score: 78
+Performance Metrics:
+- Average Response Time: 266ms
+- Peak Load: 8606 concurrent users
+Integration Points:
+- Banner Integration
+- Canvas Integration
+- Custom APIs
+Known Issues:
+- Memory leaks under heavy load
+- Integration bottlenecks"
+SYS_0484,INST_49,Small,1043,Research Management,13,149622,39,465,7,26,16,506,126,0.72,2887,1521,76302,Medium,None,
+SYS_0485,INST_38,Large,42351,Student Information,15,743556,43,776,21,13,16,635,212,0.41,1097,6495,75915,Low,None,"
+System ID: SYS_0485
+Type: Student Information System (SIS)
+Institution: INST_38
+Core Functions:
+- Student enrollment and registration
+- Academic records management
+- Grade processing
+Technical Specifications:
+- System Age: 15 years
+- Code Base: 743556 lines of code
+- Complexity Score: 43
+Performance Metrics:
+- Average Response Time: 635ms
+- Peak Load: 6495 concurrent users
+Integration Points:
+- Banner Integration
+- Canvas Integration
+- Custom APIs
+Known Issues:
+- Memory leaks under heavy load
+- Data synchronization delays"
+SYS_0486,INST_41,Medium,6619,Finance,5,101333,77,765,15,22,5,877,324,0.41,1012,1499,15117,Low,Both,
+SYS_0487,INST_32,Small,4136,Research Management,8,723914,61,415,12,4,14,649,319,0.44,836,7054,43557,Medium,Both,
+SYS_0488,INST_20,Large,23517,Research Management,8,715326,74,964,41,3,4,780,120,0.34,925,5220,87953,High,GDPR,
+SYS_0489,INST_14,Medium,8186,Finance,5,535710,59,556,37,4,4,430,358,0.52,1994,2697,58543,Medium,FERPA,
+SYS_0490,INST_49,Large,29613,HR,3,287209,65,212,34,21,12,696,78,0.53,273,2915,11821,High,None,
+SYS_0491,INST_3,Medium,10858,Finance,12,193014,55,828,34,20,5,744,289,0.37,1190,2310,10670,Low,None,
+SYS_0492,INST_12,Medium,5753,Learning Management,14,957354,52,889,11,17,3,217,310,0.64,4217,3432,40033,Medium,None,"
+System ID: SYS_0492
+Type: Learning Management System (LMS)
+Institution: INST_12
+Core Functions:
+- Course content management
+- Assignment handling
+- Online assessments
+Technical Specifications:
+- System Age: 14 years
+- Code Base: 957354 lines of code
+- Complexity Score: 52
+Performance Metrics:
+- Average Response Time: 217ms
+- Peak Load: 3432 concurrent users
+Integration Points:
+- Banner Integration
+- Canvas Integration
+- Custom APIs
+Known Issues:
+- Data synchronization delays
+- High response time during peak periods"
+SYS_0493,INST_30,Small,1101,Learning Management,11,780443,51,594,10,14,3,502,255,0.57,4879,2361,37865,Medium,FERPA,"
+System ID: SYS_0493
+Type: Learning Management System (LMS)
+Institution: INST_30
+Core Functions:
+- Course content management
+- Assignment handling
+- Online assessments
+Technical Specifications:
+- System Age: 11 years
+- Code Base: 780443 lines of code
+- Complexity Score: 51
+Performance Metrics:
+- Average Response Time: 502ms
+- Peak Load: 2361 concurrent users
+Integration Points:
+- Banner Integration
+- Canvas Integration
+- Custom APIs
+Known Issues:
+- Memory leaks under heavy load
+- Data synchronization delays"
+SYS_0494,INST_5,Large,21337,Student Information,11,411038,42,887,33,10,7,913,441,0.85,8550,5643,96386,Low,None,"
+System ID: SYS_0494
+Type: Student Information System (SIS)
+Institution: INST_5
+Core Functions:
+- Student enrollment and registration
+- Academic records management
+- Grade processing
+Technical Specifications:
+- System Age: 11 years
+- Code Base: 411038 lines of code
+- Complexity Score: 42
+Performance Metrics:
+- Average Response Time: 913ms
+- Peak Load: 5643 concurrent users
+Integration Points:
+- Banner Integration
+- Canvas Integration
+- Custom APIs
+Known Issues:
+- Integration bottlenecks
+- High response time during peak periods"
+SYS_0495,INST_44,Large,39966,Learning Management,5,72188,66,650,19,17,8,927,250,0.66,2537,8288,43615,Low,Both,"
+System ID: SYS_0495
+Type: Learning Management System (LMS)
+Institution: INST_44
+Core Functions:
+- Course content management
+- Assignment handling
+- Online assessments
+Technical Specifications:
+- System Age: 5 years
+- Code Base: 72188 lines of code
+- Complexity Score: 66
+Performance Metrics:
+- Average Response Time: 927ms
+- Peak Load: 8288 concurrent users
+Integration Points:
+- Banner Integration
+- Canvas Integration
+- Custom APIs
+Known Issues:
+- Data synchronization delays
+- Memory leaks under heavy load"
+SYS_0496,INST_6,Small,4240,Research Management,6,865115,67,820,49,13,6,497,494,0.68,2843,6273,45728,Low,None,
+SYS_0497,INST_45,Large,21626,Finance,9,594839,57,633,22,17,13,630,65,0.56,1138,9754,14448,High,FERPA,
+SYS_0498,INST_28,Small,1337,Finance,3,873803,77,499,29,10,11,200,219,0.66,1895,5570,11047,Low,None,
+SYS_0499,INST_10,Medium,5594,Student Information,6,815344,38,156,12,28,14,581,478,0.62,4074,5050,67921,High,None,"
+System ID: SYS_0499
+Type: Student Information System (SIS)
+Institution: INST_10
+Core Functions:
+- Student enrollment and registration
+- Academic records management
+- Grade processing
+Technical Specifications:
+- System Age: 6 years
+- Code Base: 815344 lines of code
+- Complexity Score: 38
+Performance Metrics:
+- Average Response Time: 581ms
+- Peak Load: 5050 concurrent users
+Integration Points:
+- Banner Integration
+- Canvas Integration
+- Custom APIs
+Known Issues:
+- Integration bottlenecks
+- High response time during peak periods"
+SYS_0500,INST_19,Medium,13344,Student Information,3,457795,96,483,17,19,12,242,184,0.5,8010,9686,70681,Low,None,"
+System ID: SYS_0500
+Type: Student Information System (SIS)
+Institution: INST_19
+Core Functions:
+- Student enrollment and registration
+- Academic records management
+- Grade processing
+Technical Specifications:
+- System Age: 3 years
+- Code Base: 457795 lines of code
+- Complexity Score: 96
+Performance Metrics:
+- Average Response Time: 242ms
+- Peak Load: 9686 concurrent users
+Integration Points:
+- Banner Integration
+- Canvas Integration
+- Custom APIs
+Known Issues:
+- Integration bottlenecks
+- Limited scalability"
